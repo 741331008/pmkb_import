@@ -1,0 +1,722 @@
+PANCAN@BCR-ABL_fusion@Nilotinib@ABL@Resistant
+BRCA@gain:cnaPANCAN302 (CLTC,PPM1D)@Lapatinib@ERBB2, EGFR@Resistant
+PANCAN@BCR-ABL_fusion@TL-1-85@MAP3K7 (TAK1)@Resistant
+PANCAN@BCR-ABL_fusion@Imatinib@ABL, KIT, PDGFR@Resistant
+PANCAN@BCR-ABL_fusion@NG-25@MAP3K7 (TAK1)@Resistant
+OV@loss:cnaPANCAN361@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@BCR-ABL_fusion@GNF-2@ABL [T315I]@Resistant
+PANCAN@BCR-ABL_fusion@NVP-BHG712@EPHB4@Resistant
+LGG@loss:cnaPANCAN281 (RPL22)@AUY922@HSP90@Sensitive
+LGG@RB1_mut@PD-0332991@CDK4, CDK6@Resistant
+COAD/READ@CLSPN_mut@AR-42@HDAC@Sensitive
+BRCA@loss:cnaPANCAN385 (PABPC3,SACS,ZMYM2)@CGP-60474@CDK1,CDK2,CDK5,CDK7,CDK9@Sensitive
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@GSK1070916@AURKB@Sensitive
+LGG@gain:cnaPANCAN124 (EGFR)@FK866@NAMPT@Resistant
+LGG@loss:cnaPANCAN281 (RPL22)@LAQ824@HDAC@Sensitive
+BRCA@loss:cnaPANCAN385 (PABPC3,SACS,ZMYM2)@S-Trityl-L-cysteine@KIF11@Resistant
+LGG@loss:cnaPANCAN281 (RPL22)@BMS-345541@IKBKB@Resistant
+PANCAN@BCR-ABL_fusion@AP-24534@ABL@Resistant
+STAD@BCOR_mut@LY317615@PRKCB (PKCbeta)@Resistant
+COAD/READ@GNAS_mut@GW-2580@CSF1R (cFMS)@Resistant
+PANCAN@BCR-ABL_fusion@Masitinib@KIT@Resistant
+LUAD@EGFR_mut@Afatinib@ERBB2, EGFR@Resistant
+OV@loss:cnaPANCAN361@TW 37@BCL2, BCL2L1@Sensitive
+PANCAN@BCR-ABL_fusion@Axitinib@PDGFR, KIT, VEGFR@Resistant
+BRCA@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Lapatinib@ERBB2, EGFR@Resistant
+BLCA@loss:cnaPANCAN117 (CHD9,CNOT1,CYLD,MMP2,NUP93)@IOX2@EGLN1@Resistant
+THCA@BRAF_mut@Dabrafenib@BRAF@Resistant
+PANCAN@BCR-ABL_fusion@AV-951@VEGFR@Resistant
+KIRC@loss:cnaPANCAN203@ZM-447439@AURKB@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@5-Fluorouracil@DNA antimetabolite@Resistant
+COAD/READ@CNOT1_mut@AR-42@HDAC@Sensitive
+COAD/READ@ATRX_mut@ABT-869@VEGFR and PDGFR family@Resistant
+PANCAN@CDKN1B_mut@ATRA@Retinoic acid and retinoid X receptor agonist@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@PIK-93@PI4K, PI3K@Resistant
+LUSC@MLL2_mut@Bicalutamide@ANDR (androgen receptor)@Resistant
+LGG@RB1_mut@Parthenolide@NFKB1@Resistant
+GBM@loss:cnaPANCAN230 (SYNCRIP,ZNF292)@Tipifarnib@Farnesyl-transferase (FNTA)@Resistant
+COAD/READ@CLSPN_mut@PXD101, Belinostat@HDAC@Sensitive
+PANCAN@BCR-ABL_fusion@TL-2-105@CRAF@Resistant
+COAD/READ@CDK12_mut@AR-42@HDAC@Sensitive
+LUSC@gain:cnaPANCAN246 (SOX2)@PF-562271@FAK@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@Tubastatin A@HDAC6@Resistant
+LAML@TP53_mut@Nutlin-3a@MDM2@Resistant
+BLCA@TP53_mut@Mitomycin C@DNA crosslinker@Resistant
+LUAD@EGFR_mut@Gefitinib@EGFR@Resistant
+BLCA@ARID1A_mut@MLN4924@NEDD8-activating enzyme@Sensitive
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@JW-7-24-1@LCK@Resistant
+PANCAN@BCR-ABL_fusion@WH-4-023@SRC family, ABL@Resistant
+PANCAN@U2AF1_mut@Sorafenib@PDGFRA, PDGFRB, KDR, KIT, FLT3@Resistant
+KIRC@BAP1_mut@AICAR@AAPK1 (AMPK) agonist@Resistant
+PANCAN@U2AF1_mut@ABT-869@VEGFR and PDGFR family@Resistant
+COAD/READ@gain:cnaPANCAN129 (MET)@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+THCA@BRAF_mut@PLX4720@BRAF@Resistant
+PANCAN@BRAF_mut@Dabrafenib@BRAF@Resistant
+LUAD@EGFR_mut@Afatinib (rescreen)@ERBB2, EGFR@Resistant
+BRCA@loss:cnaPANCAN385 (PABPC3,SACS,ZMYM2)@MS-275@HDAC@Resistant
+OV@PIK3CA_mut@GSK690693@AKT@Resistant
+DLBC@TP53_mut@Nutlin-3a@MDM2@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@piperlongumine@Increases ROS levels@Resistant
+COAD/READ@CNOT1_mut@PXD101, Belinostat@HDAC@Sensitive
+LUAD@EGFR_mut@EKB-569@EGFR@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@Temozolomide@DNA akylating agent@Resistant
+OV@loss:cnaPANCAN315 (NF1,SUZ12)@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@YK 4-279@RNA helicase A@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@WZ3105@CLK2, CNSK1E, FLT3, ULK1@Sensitive
+LGG@loss:cnaPANCAN281 (RPL22)@CAL-101@PI3Kdelta@Resistant
+PANCAN@BCR-ABL_fusion@AZD-0530@SRC, ABL1@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@BIX02189@MAP2K5 (MEK5)@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@Olaparib@PARP1, PARP2@Resistant
+LUSC@gain:cnaPANCAN176 (CCT5,TERT,TRIO)@KIN001-236@TIE2@Resistant
+LUSC@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@SB-715992@KIF11@Sensitive
+LUAD@EGFR_mut@Bosutinib@SRC, ABL, TEC@Resistant
+LAML@NRAS_mut@TPCA-1@IKK@Sensitive
+PANCAN@U2AF1_mut@AC220@FLT3@Resistant
+BRCA@ASH1L_mut@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@Resistant
+GBM@loss:cnaPANCAN20@AS601245@JNK @Resistant
+PANCAN@U2AF1_mut@Sunitinib@PDGFRA, PDGFRB, KDR, KIT, FLT3@Resistant
+ESCA@NOTCH1_mut@FK866@NAMPT@Sensitive
+PANCAN@MYC_mut@CAL-101@PI3Kdelta@Resistant
+SKCM@ARID2_mut@BIRB 0796@p38, JNK2@Resistant
+PANCAN@BCR-ABL_fusion@Dasatinib@ABL, SRC, KIT, PDGFR@Resistant
+COAD/READ@CNOT1_mut@GSK690693@AKT@Resistant
+COAD/READ@ASXL2_mut@AR-42@HDAC@Sensitive
+PANCAN@BCR-ABL_fusion@Bosutinib@SRC, ABL, TEC@Resistant
+GBM@loss:cnaPANCAN230 (SYNCRIP,ZNF292)@MK-2206@AKT1, AKT2@Resistant
+PANCAN@RUNX1_mut@PD-173074@FGFR1, FGFR3@Resistant
+COAD/READ@BRWD1_mut@rTRAIL@TR10A (DR4),  TR10B (DR5)@Sensitive
+BRCA@ASH1L_mut@Shikonin@unknown@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Tipifarnib@Farnesyl-transferase (FNTA)@Resistant
+COAD/READ@PTEN_mut@GSK690693@AKT@Resistant
+LUAD@gain:cnaPANCAN332@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+GBM@loss:cnaPANCAN230 (SYNCRIP,ZNF292)@Embelin@XIAP@Resistant
+GBM@gain:cnaPANCAN126@Camptothecin@TOP1@Sensitive
+HNSC@TP53_mut@EHT 1864@Rac GTPases@Resistant
+BLCA@gain:cnaPANCAN363 (ASXL1)@NSC-207895@MDM4@Resistant
+PANCAN@loss:cnaPANCAN225@CGP-60474@CDK1,CDK2,CDK5,CDK7,CDK9@Sensitive
+BRCA@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Afatinib (rescreen)@ERBB2, EGFR@Resistant
+BRCA@POLR2B_mut@JQ1@BRD2, BRD3, BRD4@Resistant
+GBM@loss:cnaPANCAN37@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN39@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN42 (ANK3)@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN43@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN46@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN49@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN51@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN54@FK866@NAMPT@Sensitive
+GBM@loss:cnaPANCAN55@FK866@NAMPT@Sensitive
+BLCA@TP53_mut@Doxorubicin@DNA intercalating@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@Zibotentan, ZD4054@Endothelin A Receptor@Resistant
+THCA@BRAF_mut@FR-180204@ERK@Resistant
+BLCA@TP53_mut@Gemcitabine@DNA replication@Resistant
+COAD/READ@CDK12_mut@PXD101, Belinostat@HDAC@Sensitive
+PANCAN@loss:cnaPANCAN102@IOX2@EGLN1@Sensitive
+PANCAN@CDKN1B_mut@ABT-869@VEGFR and PDGFR family@Resistant
+PANCAN@BCR-ABL_fusion@HG-6-64-1@BRAFV600E, TAK, MAP4K5@Resistant
+LGG@gain:cnaPANCAN124 (EGFR)@AZD-2281@PARP1, PARP2@Resistant
+PANCAN@ASXL1_mut@Nilotinib@ABL@Resistant
+COAD/READ@BRAF_mut@PLX4720 (rescreen)@BRAF@Resistant
+COAD/READ@MAP2K4_mut@GSK690693@AKT@Resistant
+SKCM@BRAF_mut@Dabrafenib@BRAF@Resistant
+LAML@NRAS_mut@TG101348@JAK2@Sensitive
+GBM@loss:cnaPANCAN44 (BMPR1A,FAS,PTEN)@LAQ824@HDAC@Sensitive
+KIRC@NF2_mut@Dabrafenib@BRAF@Resistant
+PANCAN@RPGR_mut@YM155@BIRC5 (Survivin)@Sensitive
+BRCA@ASH1L_mut@OSU-03012@PDPK1 (PDK1)@Resistant
+PANCAN@TCF4_mut@VX-702@p38@Resistant
+COAD/READ@ASXL2_mut@PXD101, Belinostat@HDAC@Sensitive
+PANCAN@GNAS_mut@SGC0946@Q8TEK3 (DOT1L)@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Thapsigargin@sarco-endoplasmic reticulum Ca2+-ATPases@Sensitive
+COAD/READ@gain:cnaPANCAN362 (CRNKL1,FOXA2)@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+LUAD@EGFR_mut@FR-180204@ERK@Resistant
+GBM@loss:cnaPANCAN44 (BMPR1A,FAS,PTEN)@Mitomycin C@DNA crosslinker@Sensitive
+PANCAN@DHX15_mut@Bryostatin 1@PRKC@Sensitive
+BRCA@loss:cnaPANCAN200@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+LAML@NRAS_mut@KIN001-260@IKK@Resistant
+PANCAN@TJP2_mut@Cetuximab@EGFR@Resistant
+LAML@NRAS_mut@Bleomycin@DNA damage@Resistant
+HNSC@FAT1_mut@JQ1@BRD2, BRD3, BRD4@Resistant
+PANCAN@INPP4A_mut@IOX2@EGLN1@Sensitive
+LAML@NRAS_mut@BAY 61-3606@SYK@Resistant
+BLCA@ARID1A_mut@TPCA-1@IKK@Resistant
+PANCAN@SOS2_mut@Bortezomib@Proteasome@Sensitive
+LAML@NRAS_mut@JNK-9L@JNK@Sensitive
+BLCA@ARID1A_mut@KIN001-102@AKT1@Resistant
+PANCAN@CDKN1B_mut@VNLG/124@HDAC, RAR @Resistant
+LAML@NRAS_mut@GSK-650394@SGK3@Resistant
+PANCAN@HLA-B_mut@Ruxolitinib@JAK1, JAK2, TYK2@Resistant
+ESCA@loss:cnaPANCAN368@I-BET@BRD2, BRD3, BRD4@Resistant
+PANCAN@gain:cnaPANCAN345@HG-5-88-01@EGFR, ADCK4@Resistant
+PANCAN@BRAF_mut@PLX4720 (rescreen)@BRAF@Resistant
+PANCAN@HGF_mut@CEP-701@FLT3, JAK2, NTRK1, RET@Sensitive
+BRCA@loss:cnaPANCAN389 (RB1)@Ruxolitinib@JAK1, JAK2, TYK2@Resistant
+PANCAN@EWSR1-FLI1_fusion@BMN-673@PARP1@Resistant
+PANCAN@HGF_mut@AZD7762@CHEK1, CHEK2@Sensitive
+PANCAN@loss:cnaPANCAN297@T0901317@LXR@Resistant
+LAML@NRAS_mut@Etoposide@TOP2@Resistant
+PANCAN@BCR-ABL_fusion@Crizotinib@MET, ALK@Resistant
+BRCA@CDH1_mut@Bicalutamide@ANDR (androgen receptor)@Resistant
+PANCAN@ZFP36L2_mut@MG-132@Proteasome@Sensitive
+LAML@NRAS_mut@Doxorubicin@DNA intercalating@Sensitive
+PANCAN@EWSR1-X_fusion@SB52334@ALK5@Resistant
+BRCA@gain:cnaPANCAN393 (FOXA1,NKX2-1,PSMA6)@HG-6-64-1@BRAFV600E, TAK, MAP4K5@Resistant
+SKCM@NRAS_mut@Dabrafenib@BRAF@Sensitive
+PANCAN@BRAF_mut@PLX4720@BRAF@Resistant
+PANCAN@PGR_mut@Temsirolimus@MTOR@Sensitive
+PANCAN@BRAF_mut@SB590885@BRAF@Resistant
+PANCAN@U2AF1_mut@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@Resistant
+PANCAN@CDKN1B_mut@AMG-706@VEGFR, RET, c-KIT, PDGFR@Resistant
+PANCAN@TBX3_mut@AR-42@HDAC@Sensitive
+PANCAN@HRAS_mut@TGX221@PI3Kbeta@Resistant
+LAML@NRAS_mut@CAL-101@PI3Kdelta@Resistant
+COAD/READ@BRAF_mut@Dabrafenib@BRAF@Resistant
+LAML@NRAS_mut@Y-39983@ROCK@Resistant
+LAML@NRAS_mut@PI-103@PI3Ka, PRKDC (DNAPK)@Sensitive
+PANCAN@EWSR1-FLI1_fusion@AZD-2281@PARP1, PARP2@Resistant
+PANCAN@IREB2_mut@ABT-888@PARP1, PARP2@Resistant
+LAML@NRAS_mut@AUY922@HSP90@Sensitive
+LAML@NRAS_mut@NVP-TAE684@ALK@Sensitive
+LAML@NRAS_mut@YM201636@FYV1@Resistant
+SKCM@ARID2_mut@OSI-906@IGF1R@Resistant
+PANCAN@NFE2L2_mut@TGX221@PI3Kbeta@Resistant
+BRCA@gain:cnaPANCAN124 (EGFR)@Cetuximab@EGFR@Resistant
+LAML@NRAS_mut@CP466722@ATM@Resistant
+BRCA@PTEN_mut@KU-55933@ATM@Resistant
+PANCAN@HGF_mut@YM155@BIRC5 (Survivin)@Sensitive
+COAD/READ@gain:cnaPANCAN91 (MYC)@Temozolomide@DNA akylating agent@Resistant
+PANCAN@FLT3_mut@ABT-869@VEGFR and PDGFR family@Resistant
+LAML@NRAS_mut@XMD14-99@EPHB3, CAMK1@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Vinorelbine@Microtubules@Sensitive
+COAD/READ@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+SKCM@TP53_mut@Nutlin-3a@MDM2@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Temozolomide@DNA akylating agent@Resistant
+BRCA@gain:cnaPANCAN130 (RHEB)@QL-XII-47@BTK, BMX@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Epothilone B@Microtubules@Sensitive
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@XAV 939@TNKS1 (tankyrase-1)@Resistant
+COAD/READ@ARID2_mut@GSK690693@AKT@Resistant
+OV@TP53_mut@Nutlin-3a@MDM2@Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@OSU-03012@PDPK1 (PDK1)@Resistant
+LAML@TP53_mut@Paclitaxel@Microtubules@Sensitive
+PANCAN@TET2_mut@VNLG/124@HDAC, RAR @Resistant
+BRCA@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Lenalidomide@TNFA@Resistant
+LAML@NRAS_mut@Pyrimethamine@Dihydrofolate reductase (DHFR)@Resistant
+PANCAN@FAT2_mut@Pyrimethamine@Dihydrofolate reductase (DHFR)@Resistant
+LAML@TP53_mut@Doxorubicin@DNA intercalating@Sensitive
+BRCA@loss:cnaPANCAN389 (RB1)@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+PANCAN@CHEK2_mut@LAQ824@HDAC@Sensitive
+PANCAN@NR4A2_mut@Parthenolide@NFKB1@Resistant
+BRCA@loss:cnaPANCAN389 (RB1)@AV-951@VEGFR@Resistant
+PANCAN@USP6_mut@SGC0946@Q8TEK3 (DOT1L)@Resistant
+PANCAN@BCR-ABL_fusion@A-770041@SRC family@Resistant
+LAML@TP53_mut@CGP-60474@CDK1,CDK2,CDK5,CDK7,CDK9@Sensitive
+PANCAN@gain:cnaPANCAN140 (FANCG)@Z-LLNle-CHO@g-secretase@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Lapatinib@ERBB2, EGFR@Resistant
+BRCA@gain:cnaPANCAN393 (FOXA1,NKX2-1,PSMA6)@Tipifarnib@Farnesyl-transferase (FNTA)@Resistant
+PANCAN@CHEK2_mut@OSU-03012@PDPK1 (PDK1)@Resistant
+ESCA@gain:cnaPANCAN59 (CCND1,CTTN)@BX-795@TBK1, PDPK1, IKK, AURKB, AURKC@Resistant
+LAML@NRAS_mut@OSI-027@MTORC1/2@Sensitive
+PANCAN@CNOT1_mut@GSK690693@AKT@Resistant
+PANCAN@C15orf55_mut@FMK@RSK@Resistant
+PANCAN@GNAS_mut@GW-2580@CSF1R (cFMS)@Resistant
+SKCM@BRAF_mut@SB590885@BRAF@Resistant
+BRCA@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@CP724714@ERBB2@Resistant
+PANCAN@gain:cnaPANCAN192 (FIP1L1,PDGFRA)@AMG-706@VEGFR, RET, c-KIT, PDGFR@Resistant
+PANCAN@CHEK2_mut@Doxorubicin@DNA intercalating@Sensitive
+PANCAN@CHEK2_mut@Thapsigargin@sarco-endoplasmic reticulum Ca2+-ATPases@Sensitive
+SKCM@NRAS_mut@SB590885@BRAF@Resistant
+PANCAN@EWSR1-FLI1_fusion@OSI-906@IGF1R@Resistant
+PANCAN@loss:cnaPANCAN72@VX-702@p38@Resistant
+SKCM@BRAF_mut@PLX4720 (rescreen)@BRAF@Resistant
+PANCAN@loss:cnaPANCAN186@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@Resistant
+PANCAN@FLT3_mut@AC220@FLT3@Resistant
+COAD/READ@loss:cnaPANCAN120@Bryostatin 1@PRKC@Sensitive
+GBM@TP53_mut@Nutlin-3a@MDM2@Resistant
+LAML@TP53_mut@Etoposide@TOP2@Sensitive
+PANCAN@EWSR1-FLI1_fusion@Olaparib@PARP1, PARP2@Resistant
+BRCA@gain:cnaPANCAN272 (PIP5K1A,SETDB1)@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@HGF_mut@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@Sensitive
+PANCAN@EWSR1-FLI1_fusion@AG-014699@PARP1, PARP2@Resistant
+BRCA@gain:cnaPANCAN393 (FOXA1,NKX2-1,PSMA6)@BMS-754807@IGF1R@Resistant
+PANCAN@ASXL1_mut@Axitinib@PDGFR, KIT, VEGFR@Resistant
+PANCAN@SRGAP1_mut@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@Resistant
+BRCA@gain:cnaPANCAN124 (EGFR)@Gefitinib@EGFR@Resistant
+PANCAN@NOTCH1_mut@AZD-0530@SRC, ABL1@Resistant
+BRCA@gain:cnaPANCAN302 (CLTC,PPM1D)@CP724714@ERBB2@Resistant
+LUAD@KRAS_mut@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+BRCA@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Afatinib@ERBB2, EGFR@Resistant
+COAD/READ@gain:cnaPANCAN91 (MYC)@AV-951@VEGFR@Resistant
+PANCAN@loss:cnaPANCAN2 (STK11)@Erlotinib@EGFR@Resistant
+PANCAN@IDH1_mut@GSK429286A@ROCK2@Resistant
+PANCAN@loss:cnaPANCAN101@IOX2@EGLN1@Sensitive
+PANCAN@MAP3K4_mut@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@Resistant
+PANCAN@gain:cnaPANCAN191 (FIP1L1,PDGFRA)@AMG-706@VEGFR, RET, c-KIT, PDGFR@Resistant
+PANCAN@DLG1_mut@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@Sensitive
+PANCAN@BRAF_mut@AZ628@BRAF@Resistant
+LAML@TP53_mut@5-Fluorouracil@DNA antimetabolite@Resistant
+SKCM@NRAS_mut@PLX4720@BRAF@Resistant
+BRCA@gain:cnaPANCAN275 (SDHC)@AS605240@PI3Kgamma@Resistant
+PANCAN@EWSR1-FLI1_fusion@YM201636@FYV1@Resistant
+PANCAN@BRAF_mut@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@Resistant
+PANCAN@EWSR1-FLI1_fusion@GSK1070916@AURKB@Resistant
+PANCAN@EWSR1-FLI1_fusion@SB52334@ALK5@Resistant
+PANCAN@HGF_mut@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@BRCA1_mut@BMS-754807@IGF1R@Resistant
+PANCAN@KDR_mut@BAY 61-3606@SYK@Resistant
+PANCAN@XRN1_mut@ZM-447439@AURKB@Resistant
+COAD/READ@gain:cnaPANCAN91 (MYC)@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@Resistant
+COAD/READ@LPHN2_mut@Bexarotene@Retinioic acid X family agonist@Resistant
+BRCA@gain:cnaPANCAN272 (PIP5K1A,SETDB1)@PHA-793887@CDK-pan@Resistant
+PANCAN@BRAF_mut@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@EWSR1-FLI1_fusion@MPS-1-IN-1@MPS1@Resistant
+PANCAN@ASXL1_mut@Bosutinib@SRC, ABL, TEC@Resistant
+PANCAN@TP53_mut@Nutlin-3a@MDM2@Resistant
+SKCM@NRAS_mut@PLX4720 (rescreen)@BRAF@Resistant
+LUAD@KRAS_mut@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@BRAF_mut@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@CHEK2_mut@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@Sensitive
+COAD/READ@gain:cnaPANCAN91 (MYC)@NPK76-II-72-1@PLK3@Resistant
+BRCA@gain:cnaPANCAN302 (CLTC,PPM1D)@MP470@PDGFR@Resistant
+PANCAN@loss:cnaPANCAN266@JNJ-26854165@MDM2@Resistant
+PANCAN@HLA-A_mut@Gefitinib@EGFR@Resistant
+PANCAN@PBRM1_mut@BI-2536@PLK1, PLK2, PLK3@Sensitive
+PANCAN@KDR_mut@CP466722@ATM@Resistant
+SKCM@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@Nutlin-3a@MDM2@Resistant
+BRCA@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Camptothecin@TOP1@Sensitive
+PANCAN@ARFGEF2_mut@QL-VIII-58@MTOR, ATR@Sensitive
+PANCAN@PBRM1_mut@GW843682X@PLK1@Sensitive
+PANCAN@gain:cnaPANCAN302 (CLTC,PPM1D)@Lapatinib@ERBB2, EGFR@Resistant
+PANCAN@STAG2_mut@A-443654@AKT1, AKT2, AKT3@Sensitive
+PANCAN@TBX3_mut@GSK690693@AKT@Resistant
+PANCAN@DICER1_mut@AR-42@HDAC@Sensitive
+PANCAN@loss:cnaPANCAN187@JNJ-26854165@MDM2@Resistant
+PANCAN@loss:cnaPANCAN114 (CIITA)@AV-951@VEGFR@Resistant
+PANCAN@loss:cnaPANCAN326 (SOX9)@TG101348@JAK2@Resistant
+BRCA@gain:cnaPANCAN367 (ARFGAP1,GNAS)@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Afatinib (rescreen)@ERBB2, EGFR@Resistant
+PANCAN@MLH3_mut@Nilotinib@ABL@Resistant
+PANCAN@HRAS_mut@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@EWSR1-FLI1_fusion@KIN001-236@TIE2@Resistant
+BRCA@gain:cnaPANCAN367 (ARFGAP1,GNAS)@XAV 939@TNKS1 (tankyrase-1)@Resistant
+PANCAN@BRAF_mut@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@XRN1_mut@Sunitinib@PDGFRA, PDGFRB, KDR, KIT, FLT3@Resistant
+PANCAN@ARFGEF2_mut@ZM-447439@AURKB@Resistant
+PANCAN@BRAF_mut@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@KDR_mut@TG101348@JAK2@Resistant
+PANCAN@loss:cnaPANCAN72@Nilotinib@ABL@Resistant
+LAML@SACS_mut@Ruxolitinib@JAK1, JAK2, TYK2@Resistant
+PANCAN@EWSR1-FLI1_fusion@NPK76-II-72-1@PLK3@Resistant
+PANCAN@KDR_mut@AUY922@HSP90@Sensitive
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@Afatinib@ERBB2, EGFR@Resistant
+PANCAN@gain:cnaPANCAN382 (FLT3,WASF3)@Elesclomol@HSP70@Sensitive
+PANCAN@EWSR1-FLI1_fusion@KIN001-102@AKT1@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@CP724714@ERBB2@Resistant
+LUAD@KRAS_mut@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@BRAF_mut@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@VHL_mut@PFI-1@BRD2, BRD3, BRD4@Resistant
+PANCAN@GNAS_mut@Ruxolitinib@JAK1, JAK2, TYK2@Resistant
+PANCAN@loss:cnaPANCAN170@LAQ824@HDAC@Sensitive
+PANCAN@EWSR1-FLI1_fusion@XMD14-99@EPHB3, CAMK1@Resistant
+PANCAN@loss:cnaPANCAN326 (SOX9)@Masitinib@KIT@Resistant
+PANCAN@loss:cnaPANCAN326 (SOX9)@YM201636@FYV1@Resistant
+BRCA@loss:cnaPANCAN92@TG101348@JAK2@Resistant
+BRCA@loss:cnaPANCAN92@I-BET@BRD2, BRD3, BRD4@Resistant
+PANCAN@EWSR1-FLI1_fusion@BX-912@PDPK1 (PDK1)@Resistant
+PANCAN@STAG2_mut@BI-2536@PLK1, PLK2, PLK3@Sensitive
+PANCAN@EWSR1-FLI1_fusion@HG-5-113-01@LOK, LTK, TRCB, ABL(T315I)@Resistant
+PANCAN@EWSR1-FLI1_fusion@GSK690693@AKT@Resistant
+PANCAN@EWSR1-FLI1_fusion@Genentech Cpd 10@AURKA, AURKB@Resistant
+PANCAN@CLSPN_mut@AR-42@HDAC@Sensitive
+PANCAN@EWSR1-FLI1_fusion@SN-38@TOP1@Sensitive
+PANCAN@EWSR1-FLI1_fusion@Camptothecin@TOP1@Sensitive
+PANCAN@TP53BP1_mut@VX-680@AURKA, AURKB, AURKC, FLT3, ABL1, JAK2@Resistant
+PANCAN@EWSR1-FLI1_fusion@CX-5461@RNA Pol I@Resistant
+PANCAN@EWSR1-FLI1_fusion@PIK-93@PI4K, PI3K@Resistant
+PANCAN@XRN1_mut@CX-5461@RNA Pol I@Resistant
+PANCAN@PTCH1_mut@QL-VIII-58@MTOR, ATR@Sensitive
+PANCAN@RB1_mut@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@EWSR1-FLI1_fusion@FR-180204@ERK@Resistant
+PANCAN@loss:cnaPANCAN326 (SOX9)@WZ3105@CLK2, CNSK1E, FLT3, ULK1@Resistant
+PANCAN@EWSR1-FLI1_fusion@FK866@NAMPT@Sensitive
+PANCAN@BRCA1_mut@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@loss:cnaPANCAN326 (SOX9)@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@gain:cnaPANCAN139@Ruxolitinib@JAK1, JAK2, TYK2@Resistant
+PANCAN@EWSR1-FLI1_fusion@XMD13-2@RIPK@Resistant
+PANCAN@DHX9_mut@LFM-A13@BTK@Resistant
+PANCAN@SVEP1_mut@piperlongumine@Increases ROS levels@Resistant
+PANCAN@loss:cnaPANCAN168@Sorafenib@PDGFRA, PDGFRB, KDR, KIT, FLT3@Resistant
+PANCAN@TET2_mut@Bexarotene@Retinioic acid X family agonist@Resistant
+PANCAN@EWSR1-FLI1_fusion@WZ3105@CLK2, CNSK1E, FLT3, ULK1@Resistant
+PANCAN@EWSR1-FLI1_fusion@THZ-2-49@CDK9@Resistant
+PANCAN@EWSR1-FLI1_fusion@Mitomycin C@DNA crosslinker@Sensitive
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Z-LLNle-CHO@g-secretase@Resistant
+PANCAN@FLT3_mut@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@Resistant
+PANCAN@WNK1_mut@KIN001-270@CDK9@Resistant
+PANCAN@NFE2L2_mut@KIN001-270@CDK9@Resistant
+PANCAN@EWSR1-FLI1_fusion@JW-7-24-1@LCK@Resistant
+PANCAN@NOTCH1_mut@OSI-906@IGF1R@Resistant
+PANCAN@EWSR1-FLI1_fusion@THZ-2-102-1@CDK7@Sensitive
+PANCAN@EWSR1-FLI1_fusion@CH5424802@ALK@Resistant
+PANCAN@EWSR1-FLI1_fusion@LFM-A13@BTK@Resistant
+PANCAN@MYC_mut@Vinblastine@Microtubules@Sensitive
+PANCAN@STAG2_mut@AZD-2281@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN227@ZM-447439@AURKB@Resistant
+PANCAN@loss:cnaPANCAN228@ZM-447439@AURKB@Resistant
+PANCAN@ASXL1_mut@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@CLSPN_mut@PXD101, Belinostat@HDAC@Resistant
+PANCAN@loss:cnaPANCAN229@ZM-447439@AURKB@Resistant
+PANCAN@gain:cnaPANCAN236@ATRA@Retinoic acid and retinoid X receptor agonist@Resistant
+PANCAN@loss:cnaPANCAN227@SB-715992@KIF11@Sensitive
+PANCAN@loss:cnaPANCAN228@SB-715992@KIF11@Sensitive
+PANCAN@loss:cnaPANCAN169@Sorafenib@PDGFRA, PDGFRB, KDR, KIT, FLT3@Resistant
+PANCAN@NOTCH1_mut@BMS-754807@IGF1R@Resistant
+PANCAN@loss:cnaPANCAN320@BX-795@TBK1, PDPK1, IKK, AURKB, AURKC@Resistant
+PANCAN@EWSR1-FLI1_fusion@SB-715992@KIF11@Sensitive
+PANCAN@EWSR1-FLI1_fusion@GSK2126458@PI3K, MTOR@Sensitive
+PANCAN@EWSR1-FLI1_fusion@TPCA-1@IKK@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@CEP-701@FLT3, JAK2, NTRK1, RET@Sensitive
+PANCAN@loss:cnaPANCAN227@SL 0101-1@RSK, AURKB, PIM3@Resistant
+PANCAN@loss:cnaPANCAN228@SL 0101-1@RSK, AURKB, PIM3@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@Camptothecin@TOP1@Sensitive
+PANCAN@EWSR1-FLI1_fusion@OSI-027@MTORC1/2@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Camptothecin@TOP1@Sensitive
+PANCAN@EWSR1-FLI1_fusion@CP466722@ATM@Resistant
+PANCAN@NRAS_mut@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@EWSR1-FLI1_fusion@KIN001-260@IKK@Resistant
+PANCAN@loss:cnaPANCAN16@GSK429286A@ROCK2@Resistant
+PANCAN@EWSR1-FLI1_fusion@KIN001-055@JAK3, MNK1@Resistant
+PANCAN@loss:cnaPANCAN229@SL 0101-1@RSK, AURKB, PIM3@Resistant
+PANCAN@CTNNB1_mut@Nutlin-3a@MDM2@Resistant
+PANCAN@NRAS_mut@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@loss:cnaPANCAN229@SB-715992@KIF11@Sensitive
+PANCAN@EWSR1-FLI1_fusion@KIN001-266@MAP3K8 (COT)@Resistant
+PANCAN@EWSR1-FLI1_fusion@ZSTK474@PI3K@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Vinblastine@Microtubules@Sensitive
+PANCAN@BRAF_mut@VX-11e@ERK@Resistant
+PANCAN@loss:cnaPANCAN359 (CUL3)@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@EWSR1-FLI1_fusion@Gemcitabine@DNA replication@Sensitive
+PANCAN@loss:cnaPANCAN138@piperlongumine@Increases ROS levels@Resistant
+PANCAN@EWSR1-FLI1_fusion@Etoposide@TOP2@Resistant
+PANCAN@EWSR1-FLI1_fusion@OSI-930@KIT, VEGFR, PDGFR@Resistant
+PANCAN@ZFP36L2_mut@Embelin@XIAP@Resistant
+PANCAN@loss:cnaPANCAN358@CH5424802@ALK@Resistant
+PANCAN@EWSR1-FLI1_fusion@VNLG/124@HDAC, RAR @Resistant
+PANCAN@gain:cnaPANCAN349 (INPP4A)@UNC0638@G9a(EHMT2), GLP(EHMT1)@Resistant
+PANCAN@gain:cnaPANCAN108 (CHD9,CYLD)@SNX-2112@HSP90@Sensitive
+PANCAN@EWSR1-FLI1_fusion@QL-X-138@MNK2, PRKDC (DNAPK), MTOR, BTK, JAK3@Resistant
+PANCAN@EWSR1-FLI1_fusion@SNX-2112@HSP90@Sensitive
+PANCAN@NRAS_mut@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@WNK1_mut@KIN001-260@IKK@Resistant
+PANCAN@gain:cnaPANCAN270 (JUN)@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@loss:cnaPANCAN224@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN361@HG-5-113-01@LOK, LTK, TRCB, ABL(T315I)@Resistant
+PANCAN@EWSR1-FLI1_fusion@CAY10603@HDAC6@Resistant
+PANCAN@gain:cnaPANCAN349 (INPP4A)@THZ-2-102-1@CDK7@Sensitive
+PANCAN@gain:cnaPANCAN275 (SDHC)@Camptothecin@TOP1@Sensitive
+PANCAN@loss:cnaPANCAN169@AC220@FLT3@Resistant
+PANCAN@loss:cnaPANCAN227@XMD13-2@RIPK@Resistant
+PANCAN@loss:cnaPANCAN228@XMD13-2@RIPK@Resistant
+PANCAN@EWSR1-FLI1_fusion@KIN001-270@CDK9@Resistant
+PANCAN@NRAS_mut@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@NRAS_mut@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN227@YK 4-279@RNA helicase A@Resistant
+PANCAN@loss:cnaPANCAN228@YK 4-279@RNA helicase A@Resistant
+PANCAN@gain:cnaPANCAN277 (DHX9)@Camptothecin@TOP1@Sensitive
+PANCAN@loss:cnaPANCAN290@ATRA@Retinoic acid and retinoid X receptor agonist@Resistant
+PANCAN@gain:cnaPANCAN275 (SDHC)@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@EWSR1-FLI1_fusion@Tubastatin A@HDAC6@Resistant
+PANCAN@loss:cnaPANCAN229@AG-014699@PARP1, PARP2@Resistant
+PANCAN@gain:cnaPANCAN300@681640.0@WEE1, CHEK1@Resistant
+PANCAN@XRN1_mut@Axitinib@PDGFR, KIT, VEGFR@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@EGFR_mut@Gefitinib@EGFR@Resistant
+PANCAN@loss:cnaPANCAN359 (CUL3)@KIN001-260@IKK@Resistant
+PANCAN@loss:cnaPANCAN227@AG-014699@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN228@AG-014699@PARP1, PARP2@Resistant
+PANCAN@SOS1_mut@UNC0638@G9a(EHMT2), GLP(EHMT1)@Resistant
+PANCAN@EWSR1-FLI1_fusion@AT-7519@CDK9@Resistant
+PANCAN@XRN1_mut@BX-912@PDPK1 (PDK1)@Resistant
+PANCAN@loss:cnaPANCAN229@YK 4-279@RNA helicase A@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Doxorubicin@DNA intercalating@Sensitive
+PANCAN@EWSR1-FLI1_fusion@TAK-715@p38a@Resistant
+PANCAN@gain:cnaPANCAN300@CP724714@ERBB2@Resistant
+PANCAN@PIK3R1_mut@LAQ824@HDAC@Sensitive
+PANCAN@loss:cnaPANCAN229@BIRB 0796@p38, JNK2@Resistant
+PANCAN@loss:cnaPANCAN360@Mitomycin C@DNA crosslinker@Sensitive
+PANCAN@NRAS_mut@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@BPTF_mut@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@Sensitive
+PANCAN@loss:cnaPANCAN359 (CUL3)@KIN001-244@PDPK1 (PDK1)@Resistant
+PANCAN@EZH2_mut@BMN-673@PARP1@Resistant
+PANCAN@STK11_mut@GW 441756@NTRK1@Resistant
+PANCAN@loss:cnaPANCAN167@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@SN-38@TOP1@Sensitive
+PANCAN@ABCB1_mut@AR-42@HDAC@Sensitive
+PANCAN@XRN1_mut@Pazopanib@VEGFR, PDGFRA, PDGFRB, KIT@Resistant
+PANCAN@loss:cnaPANCAN357 (ACVR2A)@Axitinib@PDGFR, KIT, VEGFR@Resistant
+PANCAN@loss:cnaPANCAN229@OSI-930@KIT, VEGFR, PDGFR@Resistant
+PANCAN@loss:cnaPANCAN37@JNK-9L@JNK@Sensitive
+PANCAN@loss:cnaPANCAN13@GSK429286A@ROCK2@Resistant
+PANCAN@MLL_mut@Parthenolide@NFKB1@Resistant
+PANCAN@EWSR1-FLI1_fusion@KIN001-244@PDPK1 (PDK1)@Resistant
+PANCAN@loss:cnaPANCAN15@GSK429286A@ROCK2@Resistant
+PANCAN@loss:cnaPANCAN227@Epothilone B@Microtubules@Sensitive
+PANCAN@loss:cnaPANCAN228@Epothilone B@Microtubules@Sensitive
+PANCAN@loss:cnaPANCAN227@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@loss:cnaPANCAN228@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@ATM_mut@AKT inhibitor VIII@AKT1, AKT2, AKT3@Resistant
+PANCAN@KRAS_mut@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN167@FMK@RSK@Resistant
+PANCAN@loss:cnaPANCAN233@SB-715992@KIF11@Sensitive
+PANCAN@KRAS_mut@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@loss:cnaPANCAN227@OSI-930@KIT, VEGFR, PDGFR@Resistant
+PANCAN@loss:cnaPANCAN228@OSI-930@KIT, VEGFR, PDGFR@Resistant
+PANCAN@loss:cnaPANCAN69@CCT018159@HSP90@Resistant
+PANCAN@loss:cnaPANCAN234@TAK-715@p38a@Resistant
+PANCAN@loss:cnaPANCAN14@GSK429286A@ROCK2@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN357 (ACVR2A)@Cisplatin@DNA crosslinker@Resistant
+PANCAN@loss:cnaPANCAN218@AG-014699@PARP1, PARP2@Resistant
+PANCAN@gain:cnaPANCAN365@NPK76-II-72-1@PLK3@Resistant
+PANCAN@loss:cnaPANCAN293@ATRA@Retinoic acid and retinoid X receptor agonist@Resistant
+PANCAN@gain:cnaPANCAN382 (FLT3,WASF3)@CX-5461@RNA Pol I@Resistant
+PANCAN@KRAS_mut@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN232@SB-715992@KIF11@Sensitive
+PANCAN@KRAS_mut@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN162@YK 4-279@RNA helicase A@Resistant
+PANCAN@loss:cnaPANCAN234@SB-715992@KIF11@Sensitive
+PANCAN@gain:cnaPANCAN213 (MCM3)@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@EWSR1-FLI1_fusion@PHA-793887@CDK-pan@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@JNK-9L@JNK@Sensitive
+PANCAN@gain:cnaPANCAN366@SB-715992@KIF11@Sensitive
+PANCAN@loss:cnaPANCAN359 (CUL3)@TW 37@BCL2, BCL2L1@Sensitive
+PANCAN@EWSR1-FLI1_fusion@PXD101, Belinostat@HDAC@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@BMS-536924@IGF1R@Resistant
+PANCAN@loss:cnaPANCAN357 (ACVR2A)@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Epothilone B@Microtubules@Sensitive
+PANCAN@loss:cnaPANCAN233@TAK-715@p38a@Resistant
+PANCAN@gain:cnaPANCAN273@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@KRAS_mut@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@loss:cnaPANCAN360@BMN-673@PARP1@Resistant
+PANCAN@CIC_mut@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@Sensitive
+PANCAN@MYC_mut@CEP-701@FLT3, JAK2, NTRK1, RET@Sensitive
+PANCAN@loss:cnaPANCAN167@PD-173074@FGFR1, FGFR3@Resistant
+PANCAN@EWSR1-FLI1_fusion@CUDC-101@HDAC, EGFR@Sensitive
+PANCAN@gain:cnaPANCAN344 (MYCN)@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@681640.0@WEE1, CHEK1@Resistant
+PANCAN@gain:cnaPANCAN364 (STK4)@NPK76-II-72-1@PLK3@Resistant
+PANCAN@loss:cnaPANCAN359 (CUL3)@Y-39983@ROCK@Resistant
+PANCAN@gain:cnaPANCAN364 (STK4)@SB-715992@KIF11@Sensitive
+PANCAN@loss:cnaPANCAN234@CP724714@ERBB2@Resistant
+PANCAN@gain:cnaPANCAN366@NPK76-II-72-1@PLK3@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@ZM-447439@AURKB@Resistant
+PANCAN@loss:cnaPANCAN234@Temozolomide@DNA akylating agent@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@gain:cnaPANCAN84 (FGFR1,WHSC1L1)@BAY 61-3606@SYK@Resistant
+PANCAN@loss:cnaPANCAN232@Epothilone B@Microtubules@Sensitive
+PANCAN@gain:cnaPANCAN344 (MYCN)@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@EWSR1-FLI1_fusion@STF-62247@stimulates autophagy@Resistant
+PANCAN@loss:cnaPANCAN233@XMD13-2@RIPK@Resistant
+PANCAN@loss:cnaPANCAN389 (RB1)@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@gain:cnaPANCAN18@LY317615@PRKCB (PKCbeta)@Resistant
+PANCAN@EWSR1-FLI1_fusion@YM155@BIRC5 (Survivin)@Sensitive
+PANCAN@loss:cnaPANCAN131@EKB-569@EGFR@Resistant
+PANCAN@gain:cnaPANCAN364 (STK4)@LFM-A13@BTK@Resistant
+PANCAN@loss:cnaPANCAN168@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@gain:cnaPANCAN18@CP466722@ATM@Resistant
+PANCAN@gain:cnaPANCAN84 (FGFR1,WHSC1L1)@Zibotentan, ZD4054@Endothelin A Receptor@Resistant
+PANCAN@MLL2_mut@NPK76-II-72-1@PLK3@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@Lenalidomide@TNFA@Resistant
+PANCAN@PTEN_mut@GSK690693@AKT@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN360@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@loss:cnaPANCAN234@Vismodegib@SMO@Resistant
+PANCAN@ARID2_mut@FTI-277@Farnesyl transferase (FNTA)@Resistant
+PANCAN@ANK3_mut@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN286@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+PANCAN@loss:cnaPANCAN360@YM201636@FYV1@Resistant
+PANCAN@EWSR1-FLI1_fusion@AR-42@HDAC@Sensitive
+PANCAN@gain:cnaPANCAN363 (ASXL1)@Olaparib@PARP1, PARP2@Resistant
+PANCAN@gain:cnaPANCAN213 (MCM3)@Camptothecin@TOP1@Sensitive
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@loss:cnaPANCAN360@KIN001-244@PDPK1 (PDK1)@Resistant
+PANCAN@loss:cnaPANCAN233@T0901317@LXR@Resistant
+PANCAN@loss:cnaPANCAN234@LAQ824@HDAC@Sensitive
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@ATRA@Retinoic acid and retinoid X receptor agonist@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@SN-38@TOP1@Sensitive
+PANCAN@gain:cnaPANCAN363 (ASXL1)@ABT-888@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN234@XMD13-2@RIPK@Resistant
+PANCAN@MLL2_mut@T0901317@LXR@Resistant
+PANCAN@gain:cnaPANCAN1 (CCNE1)@Temsirolimus@MTOR@Sensitive
+PANCAN@loss:cnaPANCAN45@TW 37@BCL2, BCL2L1@Sensitive
+PANCAN@MLL2_mut@XMD13-2@RIPK@Resistant
+PANCAN@gain:cnaPANCAN364 (STK4)@YK 4-279@RNA helicase A@Resistant
+PANCAN@ANK3_mut@TW 37@BCL2, BCL2L1@Sensitive
+PANCAN@loss:cnaPANCAN99 (SOX17)@Masitinib@KIT@Resistant
+PANCAN@loss:cnaPANCAN233@JNK-9L@JNK@Sensitive
+PANCAN@STAG2_mut@CH5424802@ALK@Resistant
+PANCAN@gain:cnaPANCAN411 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@Resistant
+PANCAN@loss:cnaPANCAN68@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN360@KIN001-270@CDK9@Resistant
+PANCAN@loss:cnaPANCAN231@SB-715992@KIF11@Sensitive
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+PANCAN@gain:cnaPANCAN273@AICAR@AAPK1 (AMPK) agonist@Resistant
+PANCAN@loss:cnaPANCAN233@Tipifarnib@Farnesyl-transferase (FNTA)@Resistant
+PANCAN@loss:cnaPANCAN15@BMS-345541@IKBKB@Resistant
+PANCAN@loss:cnaPANCAN314@Nutlin-3a@MDM2@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@Vinblastine@Microtubules@Sensitive
+PANCAN@loss:cnaPANCAN24@WZ-1-84@BMX@Resistant
+PANCAN@TP53_mut@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@Resistant
+PANCAN@SMARCA4_mut@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@MLL2_mut@NVP-BHG712@EPHB4@Resistant
+PANCAN@gain:cnaPANCAN301 (CDK12,ERBB2,MED24)@PD-173074@FGFR1, FGFR3@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@gain:cnaPANCAN84 (FGFR1,WHSC1L1)@AUY922@HSP90@Sensitive
+PANCAN@MLL2_mut@YM201636@FYV1@Resistant
+PANCAN@gain:cnaPANCAN367 (ARFGAP1,GNAS)@NPK76-II-72-1@PLK3@Resistant
+PANCAN@gain:cnaPANCAN84 (FGFR1,WHSC1L1)@AS601245@JNK @Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@Camptothecin@TOP1@Sensitive
+PANCAN@gain:cnaPANCAN364 (STK4)@MLN4924@NEDD8-activating enzyme@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@CX-5461@RNA Pol I@Resistant
+PANCAN@loss:cnaPANCAN369@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@Resistant
+PANCAN@loss:cnaPANCAN162@TW 37@BCL2, BCL2L1@Sensitive
+PANCAN@KRAS_mut@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@MLL2_mut@TPCA-1@IKK@Resistant
+PANCAN@loss:cnaPANCAN304@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN124 (EGFR)@Afatinib@ERBB2, EGFR@Resistant
+PANCAN@loss:cnaPANCAN251@CCT018159@HSP90@Resistant
+PANCAN@loss:cnaPANCAN252@CCT018159@HSP90@Resistant
+PANCAN@loss:cnaPANCAN98@PD-173074@FGFR1, FGFR3@Resistant
+PANCAN@loss:cnaPANCAN386@JNK-9L@JNK@Sensitive
+PANCAN@gain:cnaPANCAN367 (ARFGAP1,GNAS)@GSK1070916@AURKB@Resistant
+PANCAN@loss:cnaPANCAN215@UNC0638@G9a(EHMT2), GLP(EHMT1)@Resistant
+PANCAN@gain:cnaPANCAN84 (FGFR1,WHSC1L1)@Doxorubicin@DNA intercalating@Sensitive
+PANCAN@MLL2_mut@CX-5461@RNA Pol I@Resistant
+PANCAN@loss:cnaPANCAN232@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN367 (ARFGAP1,GNAS)@MPS-1-IN-1@MPS1@Resistant
+PANCAN@MLL2_mut@I-BET@BRD2, BRD3, BRD4@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@Zibotentan, ZD4054@Endothelin A Receptor@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@MLN4924@NEDD8-activating enzyme@Resistant
+PANCAN@MLL2_mut@SNX-2112@HSP90@Sensitive
+PANCAN@loss:cnaPANCAN305@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN360@KIN001-260@IKK@Resistant
+PANCAN@MLL2_mut@THZ-2-102-1@CDK7@Sensitive
+PANCAN@loss:cnaPANCAN369@ZG-10@IRAK1@Resistant
+PANCAN@TP53_mut@Dabrafenib@BRAF@Resistant
+PANCAN@loss:cnaPANCAN93@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@gain:cnaPANCAN363 (ASXL1)@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@loss:cnaPANCAN304@Roscovitine@CDKs@Resistant
+PANCAN@loss:cnaPANCAN305@Roscovitine@CDKs@Resistant
+PANCAN@loss:cnaPANCAN306@Roscovitine@CDKs@Resistant
+PANCAN@gain:cnaPANCAN367 (ARFGAP1,GNAS)@SB-715992@KIF11@Sensitive
+PANCAN@MLL2_mut@GSK1070916@AURKB@Resistant
+PANCAN@gain:cnaPANCAN366@Vinorelbine@Microtubules@Sensitive
+PANCAN@MLL2_mut@BIX02189@MAP2K5 (MEK5)@Resistant
+PANCAN@loss:cnaPANCAN94@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@MLL2_mut@MPS-1-IN-1@MPS1@Resistant
+PANCAN@EWSR1-FLI1_fusion@EX-527@SIRT1@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@SB-715992@KIF11@Sensitive
+PANCAN@MLL2_mut@KIN001-260@IKK@Resistant
+PANCAN@CIC_mut@RDEA119 (rescreen)@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@loss:cnaPANCAN231@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN97@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@Sensitive
+PANCAN@loss:cnaPANCAN308@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN368@IPA-3@PAK1, PAK2, PAK3@Resistant
+PANCAN@MLL2_mut@NG-25@MAP3K7 (TAK1)@Resistant
+PANCAN@MLL2_mut@KIN001-244@PDPK1 (PDK1)@Resistant
+PANCAN@loss:cnaPANCAN62 (HRAS,IRF7)@CCT018159@HSP90@Resistant
+PANCAN@PIK3CA_mut@GDC0941 (rescreen)@PI3K@Resistant
+PANCAN@loss:cnaPANCAN309@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN86@CP724714@ERBB2@Resistant
+PANCAN@loss:cnaPANCAN310 (MAP2K4)@Roscovitine@CDKs@Resistant
+PANCAN@MLL2_mut@PIK-93@PI4K, PI3K@Resistant
+PANCAN@loss:cnaPANCAN368@WZ3105@CLK2, CNSK1E, FLT3, ULK1@Resistant
+PANCAN@BRAF_mut@NVP-BHG712@EPHB4@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@Cisplatin@DNA crosslinker@Resistant
+PANCAN@loss:cnaPANCAN261@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@Resistant
+PANCAN@loss:cnaPANCAN261@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@gain:cnaPANCAN61@PI-103@PI3Ka, PRKDC (DNAPK)@Resistant
+PANCAN@loss:cnaPANCAN308@Roscovitine@CDKs@Resistant
+PANCAN@gain:cnaPANCAN280 (ARID4B,FH)@Docetaxel@Microtubules@Sensitive
+PANCAN@gain:cnaPANCAN213 (MCM3)@BMS-536924@IGF1R@Resistant
+PANCAN@gain:cnaPANCAN364 (STK4)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@MLL2_mut@Genentech Cpd 10@AURKA, AURKB@Resistant
+PANCAN@gain:cnaPANCAN366@YK 4-279@RNA helicase A@Resistant
+PANCAN@gain:cnaPANCAN124 (EGFR)@Gefitinib@EGFR@Resistant
+PANCAN@loss:cnaPANCAN369@FK866@NAMPT@Sensitive
+PANCAN@loss:cnaPANCAN369@CP466722@ATM@Resistant
+PANCAN@loss:cnaPANCAN144 (BNC2,CDKN2A,JAK2,PSIP1)@PD-0332991@CDK4, CDK6@Resistant
+PANCAN@loss:cnaPANCAN307 (CHD3,GPS2,TP53)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN272 (PIP5K1A,SETDB1)@ABT-263@BCL2, BCL2L1, BCL2L2@Resistant
+PANCAN@loss:cnaPANCAN93@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@MLL2_mut@BX-912@PDPK1 (PDK1)@Resistant
+PANCAN@loss:cnaPANCAN259@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@loss:cnaPANCAN260@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@loss:cnaPANCAN315 (NF1,SUZ12)@QL-XI-92@DDR1@Resistant
+PANCAN@loss:cnaPANCAN258@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@AZD-2281@PARP1, PARP2@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@YK 4-279@RNA helicase A@Resistant
+PANCAN@SMARCA4_mut@Elesclomol@HSP70@Sensitive
+PANCAN@loss:cnaPANCAN369@HG-5-88-01@EGFR, ADCK4@Resistant
+PANCAN@loss:cnaPANCAN230 (SYNCRIP,ZNF292)@Rapamycin@MTOR@Sensitive
+PANCAN@loss:cnaPANCAN258@PF-4708671@RPS6KB1 (p70S6KA)@Resistant
+PANCAN@gain:cnaPANCAN362 (CRNKL1,FOXA2)@Vinorelbine@Microtubules@Sensitive
+PANCAN@loss:cnaPANCAN305@AG-014699@PARP1, PARP2@Resistant
+PANCAN@PIK3CA_mut@GSK690693@AKT@Resistant
+PANCAN@loss:cnaPANCAN251@17-AAG@HSP90@Sensitive
+PANCAN@loss:cnaPANCAN252@17-AAG@HSP90@Sensitive
+PANCAN@loss:cnaPANCAN253@17-AAG@HSP90@Sensitive
+PANCAN@loss:cnaPANCAN361@BMN-673@PARP1@Resistant
+PANCAN@MLL2_mut@Cytarabine@DNA synthesis@Resistant
+PANCAN@loss:cnaPANCAN63@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN230 (SYNCRIP,ZNF292)@BMS-509744@ITK@Resistant
+PANCAN@loss:cnaPANCAN313@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN311@AG-014699@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN26@Methotrexate@Dihydrofolate reductase (DHFR)@Sensitive
+PANCAN@loss:cnaPANCAN62 (HRAS,IRF7)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN312@AG-014699@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN26@CEP-701@FLT3, JAK2, NTRK1, RET@Sensitive
+PANCAN@loss:cnaPANCAN312@Nutlin-3a@MDM2@Resistant
+PANCAN@BRAF_mut@FR-180204@ERK@Resistant
+PANCAN@loss:cnaPANCAN262 (FOXP1)@AZD6482@PI3Kbeta@Resistant
+PANCAN@loss:cnaPANCAN92@Genentech Cpd 10@AURKA, AURKB@Resistant
+PANCAN@loss:cnaPANCAN361@Methotrexate@Dihydrofolate reductase (DHFR)@Sensitive
+PANCAN@TP53_mut@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN366@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@BRAF_mut@UNC0638@G9a(EHMT2), GLP(EHMT1)@Resistant
+PANCAN@loss:cnaPANCAN250 (SRGAP3)@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@Resistant
+PANCAN@loss:cnaPANCAN311@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN308@AG-014699@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN255@Cisplatin@DNA crosslinker@Resistant
+PANCAN@loss:cnaPANCAN257@AZD6482@PI3Kbeta@Resistant
+PANCAN@loss:cnaPANCAN307 (CHD3,GPS2,TP53)@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN145 (FANCG,PAX5)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@gain:cnaPANCAN363 (ASXL1)@Bleomycin (50 uM)@DNA damage@Resistant
+PANCAN@loss:cnaPANCAN307 (CHD3,GPS2,TP53)@AG-014699@PARP1, PARP2@Resistant
+PANCAN@loss:cnaPANCAN310 (MAP2K4)@Nutlin-3a@MDM2@Resistant
+PANCAN@MLL2_mut@SB52334@ALK5@Resistant
+PANCAN@loss:cnaPANCAN250 (SRGAP3)@17-AAG@HSP90@Sensitive
+PANCAN@loss:cnaPANCAN305@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN308@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN304@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN309@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN306@Nutlin-3a@MDM2@Resistant
+PANCAN@loss:cnaPANCAN307 (CHD3,GPS2,TP53)@CX-5461@RNA Pol I@Resistant
+PANCAN@loss:cnaPANCAN307 (CHD3,GPS2,TP53)@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@NRAS_mut@XL-880@MET@Resistant
+PANCAN@NRAS_mut@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@Resistant
+PANCAN@BCR-ABL_fusion@AC220@FLT3@Resistant
+PANCAN@loss:cnaPANCAN304@CX-5461@RNA Pol I@Resistant
+PANCAN@gain:cnaPANCAN91 (MYC)@PI-103@PI3Ka, PRKDC (DNAPK)@Resistant
+PANCAN@loss:cnaPANCAN306@CX-5461@RNA Pol I@Resistant
+PANCAN@loss:cnaPANCAN305@CX-5461@RNA Pol I@Resistant
+PANCAN@loss:cnaPANCAN304@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@loss:cnaPANCAN306@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@loss:cnaPANCAN305@5-Fluorouracil@DNA antimetabolite@Resistant
+PANCAN@NRAS_mut@AP-24534@ABL@Resistant
+PANCAN@gain:cnaPANCAN91 (MYC)@Vismodegib@SMO@Resistant
+PANCAN@NRAS_mut@TL-1-85@MAP3K7 (TAK1)@Resistant
+PANCAN@gain:cnaPANCAN90@Zibotentan, ZD4054@Endothelin A Receptor@Resistant
+PANCAN@gain:cnaPANCAN91 (MYC)@Zibotentan, ZD4054@Endothelin A Receptor@Resistant
+PANCAN@NRAS_mut@PLX4720@BRAF@Resistant
+PANCAN@NRAS_mut@NG-25@MAP3K7 (TAK1)@Resistant
+PANCAN@RB1_mut@Parthenolide@NFKB1@Resistant
+PANCAN@KRAS_mut@Nutlin-3a@MDM2@Resistant

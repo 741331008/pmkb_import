@@ -1,0 +1,4 @@
+import re
+
+str = "chr19:22018594-22018827()_HypMET@167@194@32491@175594@19@22018594@22018827@@1stExon; TSS200; 5'UTR@S_Shore@1@COAD/READ@0.31213@0.732824427480916@"
+print(len(str.split("@")))

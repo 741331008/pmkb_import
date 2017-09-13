@@ -1,0 +1,1046 @@
+BLCA@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@8@¬AHNAK & ¬RB1 & ¬a(GATA3,KLF6,LARP4B,VIM) & ¬a6p22.3@0.857@1.0@Sensitive
+BLCA@CX-5461@RNA Pol I@other@6@13@¬ARID1A & ¬NF2 & ¬a(ASXL1)@0.75@1.0@Sensitive
+BLCA@FTI-277@Farnesyl transferase (FNTA)@other@8@11@ANK3 | FAT1 | NCOR1 | d13q14.2@1.0@0.25@Sensitive
+BLCA@GSK690693@AKT@PI3K signaling@5@14@a3p25.2@1.0@0.2@Sensitive
+BLCA@OSU-03012@PDPK1 (PDK1)@PI3K signaling@5@14@TP53 & ¬d(FAT1,IRF2) & ¬a(SDHC) & ¬MAPK_PI3K-UP@0.667@0.8@Sensitive
+BLCA@RO-3306@CDK1@cell cycle@5@10@ANK3 | MLL3 | NCOR2 | a3p25.2@1.0@0.8@Sensitive
+BLCA@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@7@11@SMARCA4@1.0@0.143@Sensitive
+OV@CX-5461@RNA Pol I@other@13@16@SMARCA4@0.667@0.154@Sensitive
+BLCA@SB 216763@GSK3A, GSK3B@WNT signaling@5@7@ANK3 | d(CHD9,CNOT1,CYLD,MMP2,NUP93)@1.0@0.6@Sensitive
+BLCA@Tubastatin A@HDAC6@chromain  histone acetylation@5@14@¬ARID1A & ¬RB1 & ¬a(ASXL1)@0.667@0.8@Sensitive
+BLCA@Y-39983@ROCK@cytoskeleton@6@13@¬a18p11.32 & a(MYC) | CDKN1A & ¬MAPK_only-UP@1.0@0.667@Sensitive
+BRCA@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@8@35@d(STK11) | d13q14.2 | a(BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6) | IL-1-UP@0.8@1.0@Sensitive
+BRCA@Afatinib@ERBB2, EGFR@EGFR signaling@15@29@¬ASXL2 & a(CDK12,ERBB2,MED24) & ¬PI3K_only-UP@0.833@0.667@Sensitive
+BRCA@CP724714@ERBB2@EGFR signaling@9@37@a(CDK12,ERBB2,MED24)@0.571@0.889@Sensitive
+BRCA@Lapatinib@ERBB2, EGFR@EGFR signaling@5@8@a(CDK12,ERBB2,MED24)@1.0@0.8@Sensitive
+PANCAN@CP724714@ERBB2@EGFR signaling@109@793@a(CDK12,ERBB2,MED24)@0.37@0.156@Sensitive
+BRCA@AICAR@AAPK1 (AMPK) agonist@metabolism@5@39@a(FGFR1,WHSC1L1) & d(FAT1,IRF2)@0.667@0.4@Sensitive
+BRCA@AKT inhibitor VIII@AKT1, AKT2, AKT3@PI3K signaling@9@37@ARID1A | a(GATA3,KLF6,LARP4B,VIM)@0.556@0.556@Sensitive
+BRCA@AS601245@JNK @JNK and p38 signaling@7@40@ASH1L | ASPM | MLL3 | a(KRAS)@0.455@0.714@Sensitive
+BRCA@ATRA@Retinoic acid and retinoid X receptor agonist@other@6@38@¬CDH1 & ¬a(TERT) & a(RAD21) & ¬d(SYNCRIP,ZNF292)@1.0@0.833@Sensitive
+BRCA@AZD6482@PI3Kbeta@PI3K signaling@9@33@ARID1A | CHD4 | EIF4A2 | a(FOXA1,NKX2-1,PSMA6)@0.667@0.444@Sensitive
+BRCA@BIRB 0796@p38, JNK2@JNK and p38 signaling@5@38@FLT3 | PTEN | d19p12 | VEGF-UP@0.5@1.0@Sensitive
+BRCA@Bleomycin@DNA damage@DNA replication@6@41@ASH1L | a6p24.2@0.571@0.667@Sensitive
+BRCA@BMS-708163@g-secretase@other@6@39@d19p12 | VEGF-UP@1.0@0.5@Sensitive
+BRCA@Bryostatin 1@PRKC@other@8@39@¬a(RAD21) & ¬d(SYNCRIP,ZNF292) & ¬a(CDK12,ERBB2,MED24)@0.556@0.625@Sensitive
+BRCA@CCT007093@PPM1D@other@6@39@¬a(MDM2,NUP107) & ¬a(TERT) & a8q24.21 & ¬H2O2-DOWN@0.375@0.5@Sensitive
+BRCA@CH5424802@ALK@RTK signaling@11@35@CDH1 | CHD4 | KRAS | a(EGFR)@0.692@0.818@Sensitive
+BRCA@CHIR-99021@GSK3B@WNT signaling@5@41@BRCA2@0.5@0.6@Sensitive
+BRCA@CX-5461@RNA Pol I@other@16@31@¬a6p24.2 & ¬d(SYNCRIP,ZNF292) & ¬a(CDK12,ERBB2,MED24) & ¬d(PABPC3,SACS,ZMYM2)@0.615@0.5@Sensitive
+BRCA@EKB-569@EGFR@EGFR signaling@7@38@¬a(KRAS) & ¬a(FGFR1,WHSC1L1) & a(CDK12,ERBB2,MED24)@0.625@0.714@Sensitive
+BRCA@FH535@unknown @other@10@37@¬ARID1A & ¬d8p23.2 & ¬d(FAT1,IRF2) & ¬a1q21.3@0.533@0.8@Sensitive
+BRCA@GSK-1904529A@IGF1R@IGFR signaling@8@39@a(RAD21) & ¬a8q24.21@0.6@0.375@Sensitive
+BRCA@GSK269962A@ROCK1, ROCK2@cytoskeleton@5@40@PTEN & d(FAT1,IRF2) | a(FGFR1,WHSC1L1) & ¬a(SDHC)@0.571@0.8@Sensitive
+BRCA@GSK690693@AKT@PI3K signaling@24@22@PIK3CA@0.75@0.5@Sensitive
+OV@GSK690693@AKT@PI3K signaling@5@25@PIK3CA@0.833@1.0@Sensitive
+BRCA@GW-2580@CSF1R (cFMS)@RTK signaling@6@40@¬a(FGFR1,WHSC1L1) & a(RAD21) & ¬a(EGFR)@0.455@0.833@Sensitive
+BRCA@GW 441756@NTRK1@RTK signaling@5@39@BAP1@1.0@0.2@Sensitive
+BRCA@KIN001-102@AKT1@PI3K signaling@10@37@a(CLTC,PPM1D) & ¬d(FAT1,IRF2) | a8q24.21 & d8p23.2@0.667@0.8@Sensitive
+BRCA@LFM-A13@BTK@other@6@41@¬d(FAS,PTEN) & ¬a(FGFR1,WHSC1L1) & d8p23.3@0.5@0.5@Sensitive
+BRCA@LY317615@PRKCB (PKCbeta)@other@5@42@CUX1 | ZFP36L1 | a1q21.3@0.444@0.8@Sensitive
+BRCA@MK-2206@AKT1, AKT2@PI3K signaling@11@31@¬BRCA1 & TP53 & ¬d(SYNCRIP,ZNF292) & ¬d(FAT1,IRF2)@0.636@0.636@Sensitive
+BRCA@MP470@PDGFR@RTK signaling@8@38@GATA3 | MGA | POLR2B | PI3K_only-UP@0.7@0.875@Sensitive
+BRCA@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@6@40@ASH1L@0.667@0.333@Sensitive
+BRCA@Shikonin@unknown@other@5@41@ASH1L@1.0@0.6@Sensitive
+BRCA@PF-4708671@RPS6KB1 (p70S6KA)@TOR signaling@6@36@PIK3CA & ¬a(FGFR1,WHSC1L1) & ¬d8p23.2 & ¬a20q13.2@0.75@0.5@Sensitive
+BRCA@Phenformin@AAPK1 (AMPK) agonist@metabolism@8@38@a(CLTC,PPM1D)@0.444@0.5@Sensitive
+BRCA@PIK-93@PI4K, PI3K@PI3K signaling@5@42@d15q12@0.5@0.4@Sensitive
+BRCA@QL-XI-92@DDR1@RTK signaling@6@40@CHD4 | d13q14.2@0.714@0.833@Sensitive
+BRCA@QL-XII-61@BTK@other@5@17@PTEN & a(FOXA1,NKX2-1,PSMA6) | PIK3CA & a(CLTC,PPM1D)@1.0@0.8@Sensitive
+BRCA@RO-3306@CDK1@cell cycle@6@37@APC | ATR | d19p12 | PI3K_only-DOWN@0.667@0.667@Sensitive
+BRCA@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@7@39@a7q36.2@0.6@0.429@Sensitive
+BRCA@SB52334@ALK5@RTK signaling@8@39@ATR | CHD4 | FAT1 | H2O2-DOWN@0.875@0.875@Sensitive
+BRCA@SL 0101-1@RSK, AURKB, PIM3@ERK MAPK signaling@5@38@¬TP53 & ¬a8q24.21 | a8q24.21 & PI3K_only-UP@0.667@0.8@Sensitive
+BRCA@STF-62247@stimulates autophagy@other@6@41@¬a(TERT) & a(RAD21) & ¬a20q13.2 & ¬a(CCND1)@0.75@0.5@Sensitive
+BRCA@Tipifarnib@Farnesyl-transferase (FNTA)@other@5@42@PIK3CA & ¬a(FOXA1,NKX2-1,PSMA6)@0.333@0.8@Sensitive
+BRCA@TL-2-105@CRAF@ERK MAPK signaling@5@42@MLL3@0.667@0.4@Sensitive
+BRCA@Tubastatin A@HDAC6@chromain  histone acetylation@12@35@¬BRCA1 & ¬d(SYNCRIP,ZNF292) & a1q21.3@1.0@0.333@Sensitive
+BRCA@WZ3105@CLK2, CNSK1E, FLT3, ULK1@other@5@41@BAP1 | d8p23.3 | TGFB-DOWN@0.417@1.0@Sensitive
+BRCA@Y-39983@ROCK@cytoskeleton@10@37@¬a(FOXA1,NKX2-1,PSMA6) & a1q21.3@0.8@0.4@Sensitive
+COREAD@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@7@41@BRWD1 | NCOR1 | d4q31.21 | a(MET)@0.583@1.0@Sensitive
+COREAD@A-770041@SRC family@other@5@10@ITSN1 | SMAD2 | SMAD4 | Wnt-DOWN@1.0@1.0@Sensitive
+COREAD@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@5@35@a(HSP90AB1,TRERF1) | a20p11.21 | a8p11.21 | a(MET)@0.667@0.8@Sensitive
+COREAD@AC220@FLT3@RTK signaling@6@40@TCF7L2 | ZC3H11A | IL-1-DOWN@0.667@1.0@Sensitive
+COREAD@Afatinib@ERBB2, EGFR@EGFR signaling@10@32@¬BRAF & ¬KRAS@0.545@0.6@Sensitive
+COREAD@AS605240@PI3Kgamma@PI3K signaling@9@37@¬BMPR2 & d(SMAD4) | ¬PIK3CA & SMAD4@0.533@0.889@Sensitive
+COREAD@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@13@35@¬EGFR & ¬PIK3CA & ¬d(CDKN2A) & ¬VEGF-DOWN@0.625@0.769@Sensitive
+COREAD@Bleomycin@DNA damage@DNA replication@5@33@KRAS & ¬SMAD4 & ¬d(CDKN2A) & ¬dXp21.3@0.6@0.6@Sensitive
+COREAD@BMS-536924@IGF1R@IGFR signaling@7@41@¬CREBBP & ¬KRAS & d3p14.2@0.5@0.714@Sensitive
+COREAD@BMS-708163@g-secretase@other@6@39@CHD9 | GNAS | PPP2R1A | d4q34.3@0.5@1.0@Sensitive
+COREAD@BMS-754807@IGF1R@IGFR signaling@13@25@CHD9 | TCF7L2 | a(FLT3,WASF3)@0.688@0.846@Sensitive
+COREAD@Cetuximab@EGFR@EGFR signaling@9@33@¬CREBBP & ¬a(ING1,IRS2,TFDP1) & ¬d8p21.1 & VEGF-DOWN@1.0@0.556@Sensitive
+COREAD@CH5424802@ALK@RTK signaling@10@36@MLL2 & ¬dXp21.3@0.778@0.7@Sensitive
+COREAD@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@15@26@¬MLL2 & ¬PIK3CA & ¬a(CHD4,WNK1) & ¬d8p21.1@0.722@0.867@Sensitive
+COREAD@CX-5461@RNA Pol I@other@29@17@MLL2@0.8@0.414@Sensitive
+PANCAN@Cytarabine@DNA synthesis@DNA replication@83@747@MLL2@0.195@0.205@Sensitive
+PANCAN@GDC0941@PI3K (class 1)@PI3K signaling@79@749@MLL2@0.163@0.177@Sensitive
+PANCAN@OSI-027@MTORC1/2@TOR signaling@61@835@MLL2@0.137@0.213@Sensitive
+COREAD@Dabrafenib@BRAF@ERK MAPK signaling@7@37@BRAF | CDC73@0.667@0.857@Sensitive
+COREAD@EKB-569@EGFR@EGFR signaling@5@41@SOX9@0.5@0.4@Sensitive
+COREAD@FR-180204@ERK@ERK MAPK signaling@5@41@MECOM | SMC1A | a(MYC)@0.333@0.8@Sensitive
+COREAD@GSK1070916@AURKB@mitosis@6@38@¬B2M & MLL2 & ¬NR4A2@0.667@0.667@Sensitive
+COREAD@GSK690693@AKT@PI3K signaling@10@36@PTEN@0.667@0.4@Sensitive
+LUAD@BMN-673@PARP1@Genome integrity@7@52@PTEN@1.0@0.143@Sensitive
+COREAD@HG-5-88-01@EGFR, ADCK4@EGFR signaling@5@32@a8p11.21 | a(MYC) | d2p12@0.667@0.8@Sensitive
+COREAD@I-BET-762@BRD2, BRD3, BRD4@chromatin  other@5@41@SACS@0.4@0.8@Sensitive
+COREAD@JNK-9L@JNK@JNK and p38 signaling@5@34@RNF43 | a(HSP90AB1,TRERF1)@0.5@1.0@Sensitive
+COREAD@JQ1@BRD4@chromatin  other@5@43@¬EP300 & ¬KRAS & ¬SMAD4@0.417@1.0@Sensitive
+COREAD@KIN001-260@IKK@other@8@38@¬FBXW7 & ¬d(SMAD4) & d3p14.2@0.5@0.75@Sensitive
+COREAD@LY317615@PRKCB (PKCbeta)@other@5@41@MSR1 | RB1 | d4q31.21 | TGFB-DOWN@0.571@0.8@Sensitive
+COREAD@MP470@PDGFR@RTK signaling@7@38@PBRM1@0.6@0.429@Sensitive
+KIRC@GW 441756@NTRK1@RTK signaling@7@16@PBRM1@0.571@0.571@Sensitive
+COREAD@Nutlin-3a@MDM2@p53 pathway@12@28@CTNNB1 | ¬TP53 | Wnt-DOWN@0.75@1.0@Sensitive
+COREAD@NVP-BHG712@EPHB4@RTK signaling@5@41@¬APC & KRAS | ¬TP53 & a(MYC)@0.571@0.8@Sensitive
+COREAD@OSI-906@IGF1R@IGFR signaling@11@27@¬BMPR2 & d3p14.2 & ¬VEGF-DOWN@0.8@0.727@Sensitive
+COREAD@OSU-03012@PDPK1 (PDK1)@PI3K signaling@6@31@ITSN1 | a(HSP90AB1,TRERF1)@1.0@0.667@Sensitive
+COREAD@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@17@23@¬BMPR2 & ¬d(CDKN2A) & ¬VEGF-DOWN@0.786@0.647@Sensitive
+COREAD@PF-562271@FAK@cytoskeleton@5@34@¬KRAS & d(SMAD4)@1.0@0.4@Sensitive
+COREAD@Phenformin@AAPK1 (AMPK) agonist@metabolism@6@40@TRIO@0.571@0.667@Sensitive
+COREAD@PLX4720@BRAF@ERK MAPK signaling@5@35@BRAF & ¬dXp21.3 & d3p14.2@0.8@0.8@Sensitive
+PANCAN@17-AAG@HSP90@other@48@789@BRAF@0.103@0.146@Sensitive
+PANCAN@Dabrafenib@BRAF@ERK MAPK signaling@144@716@BRAF@0.775@0.382@Sensitive
+PANCAN@PLX4720@BRAF@ERK MAPK signaling@88@747@BRAF@0.588@0.455@Sensitive
+PANCAN@SB590885@BRAF@ERK MAPK signaling@124@692@BRAF@0.625@0.323@Sensitive
+COREAD@QL-XII-61@BTK@other@6@29@DNMT3A | FN1 | FOXP1 | SRGAP3@0.75@1.0@Sensitive
+COREAD@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@12@27@¬EGFR & ¬PIK3CA & ¬d(CDKN2A) & ¬VEGF-DOWN@0.692@0.75@Sensitive
+COREAD@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@19@27@BRWD1 | ¬TP53@0.786@0.579@Sensitive
+COREAD@SB590885@BRAF@ERK MAPK signaling@8@32@¬KRAS & ¬d8p21.1 & ¬dXp21.3 & ¬d(APC)@0.7@0.875@Sensitive
+COREAD@STF-62247@stimulates autophagy@other@6@40@d6q26 & d3p14.2 | TCF7L2 & ¬d(APC)@0.5@0.667@Sensitive
+COREAD@Tipifarnib@Farnesyl-transferase (FNTA)@other@7@31@BMPR2 & ¬SMARCA4@0.5@0.571@Sensitive
+COREAD@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@26@20@¬ATM & ¬B2M & ¬PIK3R1 & ¬d(CDKN2A)@0.84@0.808@Sensitive
+COREAD@Tubastatin A@HDAC6@chromain  histone acetylation@7@39@RNF43@0.3@0.429@Sensitive
+DLBC@Methotrexate@Dihydrofolate reductase (DHFR)@DNA replication@13@16@RNF43@1.0@0.077@Sensitive
+COREAD@VX-11e@ERK@ERK MAPK signaling@12@34@¬CTCF & ¬d(CDKN2A) & ¬d(SMAD4) & ¬VEGF-DOWN@0.571@0.667@Sensitive
+COREAD@XMD14-99@EPHB3, CAMK1@RTK signaling@5@41@¬MGA & SMAD4 & ¬a13q22.1@0.5@0.6@Sensitive
+COREAD@Y-39983@ROCK@cytoskeleton@18@28@MLL2 & ¬d(APC)@0.615@0.444@Sensitive
+COREAD@ZM-447439@AURKB@mitosis@5@33@¬ARID2 & ¬NR4A2 & RNF43@1.0@0.8@Sensitive
+DLBC@5-Fluorouracil@DNA antimetabolite@DNA replication@10@17@RNF43 | d16q23.1 | JAK-STAT-UP | Wnt-UP@0.75@0.6@Sensitive
+DLBC@A-770041@SRC family@other@10@13@¬PTEN & TP53 & ¬d16q23.1 & ¬d15q15.1@0.889@0.8@Sensitive
+DLBC@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@18@13@¬PTEN & TP53 & ¬d16q23.1 & ¬JAK-STAT-UP@0.833@0.556@Sensitive
+DLBC@ABT-869@VEGFR and PDGFR family@RTK signaling@10@17@¬MLL2 & TP53 & ¬MAPK_PI3K-DOWN@0.625@0.5@Sensitive
+DLBC@ABT-888@PARP1, PARP2@Genome integrity@7@22@¬MLL2 & ¬PTEN & TP53 & ¬TLR-UP@0.571@0.571@Sensitive
+DLBC@AC220@FLT3@RTK signaling@10@17@H2O2-DOWN | MAPK_only-DOWN@0.5@0.3@Sensitive
+DLBC@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@PI3K signaling@6@25@H2O2-DOWN | MAPK_only-DOWN@0.667@0.667@Sensitive
+DLBC@AICAR@AAPK1 (AMPK) agonist@metabolism@9@20@ASXL2 | Wnt-UP@1.0@0.333@Sensitive
+DLBC@AP-24534@ABL@ABL signaling@10@17@CREBBP & ¬d15q15.1 & ¬IL-1-DOWN@1.0@0.5@Sensitive
+DLBC@AR-42@HDAC@chromain  histone acetylation@11@15@ASXL2 | MYC | H2O2-DOWN | MAPK_only-DOWN@0.778@0.636@Sensitive
+DLBC@AT-7519@CDK9@cell cycle@11@16@JAK-STAT-UP | MAPK_only-DOWN@0.667@0.364@Sensitive
+DLBC@ATRA@Retinoic acid and retinoid X receptor agonist@other@7@22@MYC | PTEN@0.667@0.571@Sensitive
+DLBC@AV-951@VEGFR@RTK signaling@12@15@ASXL2@1.0@0.083@Sensitive
+DLBC@AZD-0530@SRC, ABL1@ABL signaling@5@20@¬ARID1A & CREBBP@0.6@0.6@Sensitive
+DLBC@CMK@RSK@ERK MAPK signaling@7@16@¬ARID1A & CREBBP@0.75@0.429@Sensitive
+DLBC@AZD6482@PI3Kbeta@PI3K signaling@8@19@EP300 | MAPK_only-DOWN@0.75@0.75@Sensitive
+DLBC@AZD7762@CHEK1, CHEK2@Genome integrity@6@23@MYC | MAPK_only-DOWN@0.5@0.667@Sensitive
+DLBC@AZD8055@MTORC1/2@TOR signaling@16@15@MAPK_only-DOWN@0.833@0.312@Sensitive
+DLBC@IPA-3@PAK1, PAK2, PAK3@cytoskeleton@6@21@MAPK_only-DOWN@0.4@0.333@Sensitive
+DLBC@KU-55933@ATM@Genome integrity@8@23@MAPK_only-DOWN@0.5@0.375@Sensitive
+DLBC@LY317615@PRKCB (PKCbeta)@other@5@22@MAPK_only-DOWN@0.6@0.6@Sensitive
+DLBC@Nilotinib@ABL@ABL signaling@10@19@MAPK_only-DOWN@0.667@0.4@Sensitive
+DLBC@Vismodegib@SMO@other@9@20@MAPK_only-DOWN@0.5@0.333@Sensitive
+DLBC@ZSTK474@PI3K@PI3K signaling@13@14@MAPK_only-DOWN@1.0@0.385@Sensitive
+DLBC@BAY 61-3606@SYK@other@6@21@CREBBP & ¬d15q15.1 | ¬TP53 & Wnt-UP@0.625@0.833@Sensitive
+DLBC@Bicalutamide@ANDR (androgen receptor)@other@10@17@Wnt-UP@0.667@0.2@Sensitive
+DLBC@Camptothecin@TOP1@DNA replication@7@22@Wnt-UP@0.667@0.286@Sensitive
+DLBC@Embelin@XIAP@apoptosis regulation@5@22@Wnt-UP@0.667@0.4@Sensitive
+DLBC@KIN001-270@CDK9@cell cycle@16@11@Wnt-UP@1.0@0.188@Sensitive
+OV@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@5@27@Wnt-UP@1.0@0.2@Sensitive
+DLBC@BIRB 0796@p38, JNK2@JNK and p38 signaling@6@22@MLL2 & ¬d(CDKN2A) | ¬TP53 & ¬d(CDKN2A)@0.5@0.667@Sensitive
+DLBC@BIX02189@MAP2K5 (MEK5)@other@9@18@Wnt-UP & ¬MAPK_only-DOWN | CREBBP & ¬TP53@1.0@0.444@Sensitive
+DLBC@BMS-345541@IKBKB@other@13@14@EP300@0.8@0.308@Sensitive
+PAAD@FR-180204@ERK@ERK MAPK signaling@5@24@EP300@0.333@0.2@Sensitive
+SKCM@Bosutinib@SRC, ABL, TEC@ABL signaling@5@40@EP300@1.0@0.2@Sensitive
+DLBC@BMS-708163@g-secretase@other@12@15@¬MLL2 & ¬d16q23.1 & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.778@0.583@Sensitive
+DLBC@Bosutinib@SRC, ABL, TEC@ABL signaling@6@23@¬MLL2 & ¬PTEN & TP53 & ¬JAK-STAT-UP@0.625@0.833@Sensitive
+DLBC@Bryostatin 1@PRKC@other@6@21@CREBBP & d(CDKN2A) | MLL2 & TP53@0.4@0.333@Sensitive
+DLBC@BX-795@TBK1, PDPK1, IKK, AURKB, AURKC@other@7@24@RNF43 | MAPK_only-DOWN@0.571@0.571@Sensitive
+DLBC@BX-912@PDPK1 (PDK1)@PI3K signaling@12@15@ARID1A | EP300 | MYC | MAPK_only-DOWN@0.727@0.667@Sensitive
+DLBC@CAL-101@PI3Kdelta@PI3K signaling@13@14@EP300 | Wnt-UP@0.875@0.538@Sensitive
+DLBC@CAY10603@HDAC6@chromain  histone acetylation@13@14@MLL2 | H2O2-DOWN@0.778@0.538@Sensitive
+DLBC@CCT007093@PPM1D@other@7@20@¬ARID1A & ¬MLL2 & TP53 & ¬TLR-UP@0.6@0.857@Sensitive
+DLBC@CEP-701@FLT3, JAK2, NTRK1, RET@RTK signaling@10@19@¬EP300 & MAPK_only-DOWN & ¬PI3K_only-DOWN@1.0@0.2@Sensitive
+DLBC@CGP-082996@CDK4@cell cycle@6@17@B2M@1.0@0.167@Sensitive
+DLBC@JQ1@BRD4@chromatin  other@16@12@B2M@1.0@0.125@Sensitive
+DLBC@CH5424802@ALK@RTK signaling@11@16@¬CREBBP & ¬TP53 & ¬d16q23.1 & ¬TLR-UP@0.8@0.364@Sensitive
+DLBC@piperlongumine@Increases ROS levels@other@5@24@¬CREBBP & ¬TP53 & ¬d16q23.1 & ¬TLR-UP@0.5@0.8@Sensitive
+DLBC@CHIR-99021@GSK3B@WNT signaling@7@21@d15q15.1 | Wnt-UP@0.6@0.429@Sensitive
+DLBC@UNC0638@G9a(EHMT2), GLP(EHMT1)@chromatin  histone methylation@5@24@d15q15.1 | Wnt-UP@0.6@0.6@Sensitive
+DLBC@CP466722@ATM@Genome integrity@7@20@B2M | CREBBP | Wnt-UP | H2O2-DOWN@0.556@0.714@Sensitive
+DLBC@CP724714@ERBB2@EGFR signaling@10@17@¬EP300 & ¬MLL2 & ¬d16q23.1 & ¬TLR-UP@0.778@0.7@Sensitive
+DLBC@CUDC-101@HDAC, EGFR@chromain  histone acetylation@14@12@ASXL2 | MLL2 | H2O2-DOWN@0.8@0.571@Sensitive
+DLBC@Cyclopamine@SMO@other@8@17@¬ARID1A & CREBBP & ¬d(CIITA) & ¬d15q15.1@1.0@0.375@Sensitive
+DLBC@Cytarabine@DNA synthesis@DNA replication@7@22@MLL2 | RNF43@0.556@0.714@Sensitive
+DLBC@Dabrafenib@BRAF@ERK MAPK signaling@5@24@¬TP53 & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.5@0.8@Sensitive
+DLBC@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@other@13@14@¬TP53 & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.75@0.462@Sensitive
+DLBC@Dasatinib@ABL, SRC, KIT, PDGFR@ABL signaling@7@15@CREBBP@0.667@0.571@Sensitive
+DLBC@DMOG@Prolyl-4-Hydroxylase@other@9@19@d16q23.1 | Wnt-UP | H2O2-DOWN@0.571@0.444@Sensitive
+DLBC@EKB-569@EGFR@EGFR signaling@7@20@d(CDKN2A) & ¬TLR-UP | ASXL2@0.8@0.571@Sensitive
+DLBC@Erlotinib@EGFR@EGFR signaling@5@20@¬MLL2 & ¬PTEN & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.429@0.6@Sensitive
+DLBC@Etoposide@TOP2@DNA replication@5@23@¬TP53 & ¬d16q23.1 & ¬TLR-UP & ¬PI3K_only-DOWN@0.5@0.6@Sensitive
+DLBC@EX-527@SIRT1@other@11@16@ASXL2 | JAK-STAT-UP | Wnt-UP | H2O2-DOWN@0.8@0.364@Sensitive
+DLBC@FMK@RSK@ERK MAPK signaling@10@16@ARID1A | EP300 | JAK-STAT-UP | Wnt-UP@0.818@0.9@Sensitive
+DLBC@GDC0941@PI3K (class 1)@PI3K signaling@11@20@MAPK_only-DOWN & ¬PI3K_only-DOWN@0.667@0.364@Sensitive
+DLBC@GNF-2@ABL [T315I]@ABL signaling@5@18@¬MLL2 & ¬PTEN & ¬d16q23.1 & ¬TLR-UP@0.833@1.0@Sensitive
+DLBC@GSK1070916@AURKB@mitosis@8@15@ARID1A | MYC | PTEN@0.625@0.625@Sensitive
+DLBC@GSK-1904529A@IGF1R@IGFR signaling@5@22@¬MLL2 & ¬PTEN & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.571@0.8@Sensitive
+DLBC@GSK2126458@PI3K, MTOR@PI3K signaling@8@19@ASXL2 | EP300 | Wnt-UP@0.667@0.75@Sensitive
+DLBC@PI-103@PI3Ka, PRKDC (DNAPK)@PI3K signaling@10@16@ASXL2 | EP300 | Wnt-UP@0.889@0.8@Sensitive
+DLBC@GSK269962A@ROCK1, ROCK2@cytoskeleton@5@24@¬TP53 & ¬d(CDKN2A) | ¬EP300 & MAPK_only-DOWN@0.667@0.8@Sensitive
+DLBC@GSK429286A@ROCK2@cytoskeleton@11@16@MYC | Wnt-UP | H2O2-DOWN | MAPK_PI3K-DOWN@0.75@0.818@Sensitive
+DLBC@GW-2580@CSF1R (cFMS)@RTK signaling@12@15@¬TP53 & ¬d10p12.2 & ¬MAPK_PI3K-DOWN@0.75@0.5@Sensitive
+DLBC@GW 441756@NTRK1@RTK signaling@6@23@¬CREBBP & TLR-UP | MLL2 & d(CDKN2A)@0.571@0.667@Sensitive
+DLBC@HG-6-64-1@BRAFV600E, TAK, MAP4K5@ERK MAPK signaling@6@22@H2O2-DOWN & ¬IL-1-DOWN@1.0@0.167@Sensitive
+DLBC@I-BET-762@BRD2, BRD3, BRD4@chromatin  other@19@8@EP300 & ¬d(CIITA) | ¬TP53 & ¬TLR-UP@0.923@0.632@Sensitive
+DLBC@IOX2@EGLN1@other@11@18@¬ARID1A & CREBBP@0.75@0.273@Sensitive
+DLBC@JNK Inhibitor VIII@JNK@JNK and p38 signaling@6@25@¬CREBBP & ¬PTEN & TP53 & ¬TLR-UP@0.5@0.833@Sensitive
+DLBC@JQ12@HDAC@chromain  histone acetylation@5@23@ASXL2 | Wnt-UP | H2O2-DOWN@0.8@0.8@Sensitive
+DLBC@JW-7-24-1@LCK@other@14@13@ASXL2 & ¬RNF43 | EP300@1.0@0.429@Sensitive
+DLBC@KIN001-102@AKT1@PI3K signaling@6@21@¬d(CDKN2A) & Wnt-UP | EP300 & ¬IL-1-DOWN@1.0@1.0@Sensitive
+DLBC@KIN001-135@IKKE@other@8@17@¬MLL2 & ¬d16q23.1 & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.714@0.625@Sensitive
+DLBC@KIN001-236@TIE2@other@17@10@¬d16q23.1 & ¬d(CDKN2A) & ¬d15q15.1 & ¬TLR-UP@0.867@0.765@Sensitive
+DLBC@KIN001-244@PDPK1 (PDK1)@PI3K signaling@12@15@¬RNF43 & TP53 & ¬H2O2-DOWN & ¬MAPK_PI3K-DOWN@0.75@0.5@Sensitive
+DLBC@KIN001-260@IKK@other@21@6@MLL2 | Wnt-UP@0.909@0.476@Sensitive
+DLBC@LAQ824@HDAC@chromain  histone acetylation@7@20@d16q23.1 | MAPK_only-DOWN@0.5@0.571@Sensitive
+DLBC@Lenalidomide@TNFA@other@10@19@¬MLL2 & ¬PTEN & ¬TLR-UP@0.727@0.8@Sensitive
+DLBC@LFM-A13@BTK@other@7@20@¬ARID1A & d16q23.1@1.0@0.286@Sensitive
+DLBC@Masitinib@KIT@RTK signaling@5@22@ARID1A@0.333@0.2@Sensitive
+OV@MK-2206@AKT1, AKT2@PI3K signaling@5@26@ARID1A@0.556@1.0@Sensitive
+DLBC@MK-2206@AKT1, AKT2@PI3K signaling@12@19@PTEN & ¬MAPK_only-DOWN | MAPK_only-DOWN & ¬PI3K_only-DOWN@0.875@0.583@Sensitive
+DLBC@MP470@PDGFR@RTK signaling@8@18@¬TP53 & ¬TLR-UP@0.75@0.75@Sensitive
+DLBC@TPCA-1@IKK@other@13@14@¬TP53 & ¬TLR-UP@0.778@0.538@Sensitive
+DLBC@MS-275@HDAC@chromain  histone acetylation@7@20@¬MLL2 & ¬TP53 & ¬TLR-UP@0.8@0.571@Sensitive
+DLBC@NG-25@MAP3K7 (TAK1)@other@12@15@MAPK_only-DOWN | ¬d10p12.2 & Wnt-UP@1.0@0.583@Sensitive
+DLBC@NPK76-II-72-1@PLK3@mitosis@10@17@¬EP300 & PTEN | MLL2 & ¬MAPK_PI3K-DOWN@0.625@0.5@Sensitive
+DLBC@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@6@22@¬MLL2 & ¬d16q23.1 & ¬TLR-UP & ¬MAPK_only-DOWN@0.556@0.833@Sensitive
+DLBC@NU-7441@PRKDC (DNAPK)@Genome integrity@10@21@EP300 | MYC | d15q15.1 | MAPK_only-DOWN@0.75@0.9@Sensitive
+DLBC@Nutlin-3a@MDM2@p53 pathway@19@12@¬TP53@1.0@0.684@Sensitive
+LAML@Nutlin-3a@MDM2@p53 pathway@11@12@¬TP53@0.909@0.909@Sensitive
+LAML@NVP-BHG712@EPHB4@RTK signaling@14@11@¬TP53@0.846@0.786@Sensitive
+LUAD@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@55@¬TP53@0.333@0.667@Sensitive
+LUAD@Nutlin-3a@MDM2@p53 pathway@7@46@¬TP53@0.5@0.714@Sensitive
+OV@Nutlin-3a@MDM2@p53 pathway@7@25@¬TP53@0.667@0.857@Sensitive
+DLBC@NVP-BHG712@EPHB4@RTK signaling@13@14@ASXL2 | Wnt-UP | MAPK_only-DOWN@1.0@0.615@Sensitive
+DLBC@TL-1-85@MAP3K7 (TAK1)@other@12@15@ASXL2 | Wnt-UP | MAPK_only-DOWN@1.0@0.667@Sensitive
+DLBC@Olaparib@PARP1, PARP2@Genome integrity@7@22@ARID1A | ASXL2 | B2M | Wnt-UP@0.625@0.714@Sensitive
+DLBC@OSI-027@MTORC1/2@TOR signaling@10@17@ASXL2 | MLL2@0.7@0.7@Sensitive
+DLBC@OSI-930@KIT, VEGFR, PDGFR@RTK signaling@12@15@ASXL2 | Wnt-UP | H2O2-DOWN | MAPK_PI3K-DOWN@0.75@0.75@Sensitive
+DLBC@PAC-1@CASP3 agonist@apoptosis regulation@7@20@ARID1A | d16q23.1 | Wnt-UP@0.5@0.571@Sensitive
+DLBC@Parthenolide@NFKB1@other@10@15@¬TP53 & ¬d16q23.1 & ¬TLR-UP & ¬IL-1-DOWN@0.714@0.5@Sensitive
+DLBC@PD-173074@FGFR1, FGFR3@RTK signaling@6@25@¬MLL2 & ¬PTEN & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.444@0.667@Sensitive
+DLBC@PFI-1@BRD2, BRD3, BRD4@chromatin  other@6@23@H2O2-DOWN | ¬TP53 & ¬TLR-UP@0.556@0.833@Sensitive
+DLBC@PHA-793887@CDK-pan@cell cycle@17@10@¬TP53 & ¬TLR-UP | EP300@0.929@0.765@Sensitive
+DLBC@Phenformin@AAPK1 (AMPK) agonist@metabolism@10@17@¬d16q23.1 & Wnt-UP | MLL2 & MAPK_PI3K-DOWN@1.0@0.6@Sensitive
+DLBC@PIK-93@PI4K, PI3K@PI3K signaling@16@11@TP53 & ¬d16q23.1 & ¬d15q15.1 & ¬IL-1-DOWN@0.923@0.75@Sensitive
+DLBC@PXD101, Belinostat@HDAC@chromain  histone acetylation@11@15@¬CREBBP & ¬PTEN & TP53 & ¬d16q23.1@0.625@0.455@Sensitive
+DLBC@QL-X-138@MNK2, PRKDC (DNAPK), MTOR, BTK, JAK3@other@11@16@MLL2 & ¬d16q23.1 & ¬d10p12.2@0.714@0.455@Sensitive
+DLBC@QL-XI-92@DDR1@RTK signaling@20@7@d(CDKN2A) | MAPK_only-DOWN@0.9@0.45@Sensitive
+DLBC@Rapamycin@MTOR@TOR signaling@8@13@¬PTEN & TP53 & ¬d15q15.1@0.75@0.75@Sensitive
+DLBC@Roscovitine@CDKs@cell cycle@7@19@¬CREBBP & ¬MLL2 & ¬PTEN & ¬TLR-UP@0.571@0.571@Sensitive
+DLBC@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@12@17@¬CREBBP & ¬PTEN & TP53@0.8@0.667@Sensitive
+DLBC@Ruxolitinib@JAK1, JAK2, TYK2@other@16@11@¬MLL2 & ¬TLR-UP & ¬MAPK_only-DOWN & ¬MAPK_PI3K-DOWN@0.889@0.5@Sensitive
+DLBC@SB 216763@GSK3A, GSK3B@WNT signaling@5@24@¬PTEN & ¬d(CIITA) & MAPK_only-DOWN & ¬PI3K_only-DOWN@1.0@0.4@Sensitive
+DLBC@SB-505124@TGFR1 (ALK5)@other@9@20@¬MLL2 & ¬RNF43 & ¬TLR-UP & ¬MAPK_PI3K-DOWN@0.636@0.778@Sensitive
+DLBC@SB52334@ALK5@RTK signaling@5@22@MLL2 & d(CDKN2A) | PTEN & ¬TP53@1.0@0.8@Sensitive
+DLBC@SB590885@BRAF@ERK MAPK signaling@7@24@d10p12.2 & ¬TLR-UP@1.0@0.143@Sensitive
+DLBC@SGC0946@Q8TEK3 (DOT1L)@chromatin  histone methylation@11@18@¬CREBBP & ¬MLL2 & ¬d16q23.1 & ¬TLR-UP@0.8@0.727@Sensitive
+DLBC@Shikonin@unknown@other@7@21@MYC | d(CIITA) | Wnt-UP | H2O2-DOWN@0.6@0.857@Sensitive
+DLBC@SL 0101-1@RSK, AURKB, PIM3@ERK MAPK signaling@11@20@¬PTEN & TP53 & ¬d16q23.1 & ¬TLR-UP@0.727@0.727@Sensitive
+DLBC@STF-62247@stimulates autophagy@other@17@10@RNF43 | Wnt-UP | H2O2-DOWN | MAPK_only-DOWN@0.889@0.471@Sensitive
+DLBC@T0901317@LXR@other@15@12@¬CREBBP & ¬TP53 & ¬TLR-UP@0.857@0.4@Sensitive
+DLBC@TAK-715@p38a@JNK and p38 signaling@12@15@JAK-STAT-UP | H2O2-DOWN | MAPK_only-DOWN@1.0@0.5@Sensitive
+DLBC@Tamoxifen@ER@other@11@18@CREBBP & ¬d(CIITA) & ¬IL-1-DOWN & ¬PI3K_only-DOWN@1.0@0.273@Sensitive
+DLBC@Temozolomide@DNA akylating agent@DNA replication@12@17@RNF43 | d16q23.1 | Wnt-UP@0.714@0.417@Sensitive
+DLBC@Temsirolimus@MTOR@TOR signaling@13@16@d15q15.1 | MAPK_only-DOWN@0.75@0.462@Sensitive
+DLBC@TG101348@JAK2@other@11@16@¬TP53 & ¬d10p12.2 & ¬TLR-UP & ¬PI3K_only-DOWN@0.714@0.455@Sensitive
+DLBC@THZ-2-102-1@CDK7@cell cycle@6@21@TP53 & TLR-UP | ARID1A & ¬MAPK_PI3K-DOWN@1.0@0.667@Sensitive
+DLBC@THZ-2-49@CDK9@cell cycle@5@22@ARID1A | MYC | d(CIITA) | JAK-STAT-UP@0.5@0.8@Sensitive
+DLBC@Tipifarnib@Farnesyl-transferase (FNTA)@other@6@21@d16q23.1@1.0@0.5@Sensitive
+SKCM@CHIR-99021@GSK3B@WNT signaling@7@42@d16q23.1@0.375@0.429@Sensitive
+DLBC@TL-2-105@CRAF@ERK MAPK signaling@6@21@CREBBP | H2O2-DOWN | MAPK_PI3K-DOWN@0.5@0.667@Sensitive
+DLBC@Tubastatin A@HDAC6@chromain  histone acetylation@21@5@MLL2 | MAPK_only-DOWN@1.0@0.571@Sensitive
+PANCAN@Camptothecin@TOP1@DNA replication@57@776@MLL2 | MAPK_only-DOWN@0.158@0.316@Sensitive
+PANCAN@QL-X-138@MNK2, PRKDC (DNAPK), MTOR, BTK, JAK3@other@86@803@MLL2 | MAPK_only-DOWN@0.259@0.349@Sensitive
+DLBC@UNC1215@LMBL3@other@14@15@¬d16q23.1 & ¬d(CDKN2A) & ¬JAK-STAT-UP & ¬MAPK_PI3K-DOWN@0.75@0.643@Sensitive
+DLBC@Vinblastine@Microtubules@cytoskeleton@8@21@¬MLL2 & ¬TP53 & ¬TLR-UP@0.4@0.25@Sensitive
+DLBC@VNLG/124@HDAC, RAR @chromain  histone acetylation@16@11@¬CREBBP & TP53 & ¬TLR-UP@0.818@0.562@Sensitive
+DLBC@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@chromain  histone acetylation@8@21@ASXL2 | B2M | MYC@0.8@0.5@Sensitive
+DLBC@VX-11e@ERK@ERK MAPK signaling@7@20@ARID1A | ASXL2 | d(CIITA) | Wnt-UP@0.75@0.857@Sensitive
+DLBC@VX-680@AURKA, AURKB, AURKC, FLT3, ABL1, JAK2@mitosis@6@16@ARID1A | ASXL2 | d16q23.1@0.667@0.333@Sensitive
+DLBC@VX-702@p38@JNK and p38 signaling@12@17@¬MLL2 & ¬PTEN & ¬TLR-UP@0.727@0.667@Sensitive
+DLBC@WH-4-023@SRC family, ABL@ABL signaling@6@17@¬ARID1A & CREBBP & ¬d15q15.1@1.0@0.5@Sensitive
+DLBC@WZ-1-84@BMX@other@5@18@CREBBP & TP53 & ¬d15q15.1 & ¬IL-1-DOWN@1.0@0.4@Sensitive
+DLBC@WZ3105@CLK2, CNSK1E, FLT3, ULK1@other@5@22@JAK-STAT-UP@1.0@0.2@Sensitive
+PANCAN@AR-42@HDAC@chromain  histone acetylation@80@811@JAK-STAT-UP@0.314@0.138@Sensitive
+PANCAN@EX-527@SIRT1@other@101@796@JAK-STAT-UP@0.353@0.119@Sensitive
+PANCAN@FR-180204@ERK@ERK MAPK signaling@117@783@JAK-STAT-UP@0.514@0.154@Sensitive
+PANCAN@Ruxolitinib@JAK1, JAK2, TYK2@other@121@781@JAK-STAT-UP@0.429@0.124@Sensitive
+DLBC@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@RTK signaling@5@22@ASXL2 | TP53 & MAPK_only-DOWN@1.0@0.8@Sensitive
+DLBC@XMD13-2@RIPK@other@12@15@¬TP53 & ¬TLR-UP & ¬Wnt-UP@0.857@0.5@Sensitive
+DLBC@XMD14-99@EPHB3, CAMK1@RTK signaling@18@9@¬TP53 & ¬TLR-UP@0.889@0.444@Sensitive
+DLBC@XMD8-85@MAP2K5 (ERK5)@other@6@19@¬d(CIITA) & MAPK_only-DOWN & ¬PI3K_only-DOWN@1.0@0.333@Sensitive
+DLBC@YK 4-279@RNA helicase A@other@5@21@MLL2 & ¬MYC & ¬d(CDKN2A) & ¬MAPK_PI3K-DOWN@1.0@0.4@Sensitive
+DLBC@YM201636@FYV1@other@10@17@ASXL2 | MYC | MAPK_only-DOWN@0.75@0.6@Sensitive
+DLBC@Zibotentan, ZD4054@Endothelin A Receptor@other@12@15@¬PTEN & TP53 & ¬d16q23.1@0.727@0.667@Sensitive
+DLBC@ZM-447439@AURKB@mitosis@7@24@¬TP53 & ¬d16q23.1 & ¬d(CDKN2A) & ¬TLR-UP@0.667@0.286@Sensitive
+ESCA@Afatinib@ERBB2, EGFR@EGFR signaling@18@13@NOTCH1 | a(KRAS) | a(ERBB2)@0.875@0.778@Sensitive
+ESCA@AICAR@AAPK1 (AMPK) agonist@metabolism@5@25@NOTCH1 & ¬d20p12.1@1.0@0.6@Sensitive
+ESCA@AS601245@JNK @JNK and p38 signaling@6@21@Wnt-DOWN | NOTCH1 & ¬RB1@1.0@0.667@Sensitive
+ESCA@AZD-0530@SRC, ABL1@ABL signaling@6@5@¬RTN4 & ¬PIK3CA & ¬d2q22.1@1.0@1.0@Sensitive
+ESCA@BIRB 0796@p38, JNK2@JNK and p38 signaling@5@25@d20p12.1 & ¬a(EGFR) & ¬d(PAX5)@1.0@0.8@Sensitive
+ESCA@BMS-345541@IKBKB@other@5@30@d20p12.1 | VEGF-DOWN@0.5@0.6@Sensitive
+ESCA@BMS-708163@g-secretase@other@6@29@d20p12.1 & ¬d16q23.1@1.0@0.167@Sensitive
+ESCA@Cetuximab@EGFR@EGFR signaling@11@21@d2q22.1 & ¬Wnt-UP@0.6@0.545@Sensitive
+ESCA@CH5424802@ALK@RTK signaling@7@28@¬SMAD2 & ¬a(FGFR1,WHSC1L1) & ¬d2q22.1 & a(ERBB2)@0.667@0.571@Sensitive
+ESCA@CP724714@ERBB2@EGFR signaling@10@25@a(ERBB2) & ¬TGFB-DOWN@0.889@0.8@Sensitive
+ESCA@CX-5461@RNA Pol I@other@18@17@d20p12.1@0.833@0.278@Sensitive
+ESCA@Docetaxel@Microtubules@cytoskeleton@6@25@¬BAP1 & a(CCND1,CTTN) & ¬ARID2 & ¬Wnt-UP@0.5@0.833@Sensitive
+ESCA@EKB-569@EGFR@EGFR signaling@8@27@STK11 | SMAD4 | Wnt-DOWN@0.714@0.625@Sensitive
+ESCA@Epothilone B@Microtubules@cytoskeleton@7@20@CREBBP & ¬RB1 | ¬a(ERBB2) & PI3K_only-UP@1.0@0.429@Sensitive
+ESCA@FR-180204@ERK@ERK MAPK signaling@5@30@¬SMAD2 & ¬a(CCND1,CTTN) & ¬a(EGFR) & a(ERBB2)@0.667@0.4@Sensitive
+ESCA@Gefitinib@EGFR@EGFR signaling@15@16@a(EGFR)@0.714@0.333@Sensitive
+ESCA@GSK-1904529A@IGF1R@IGFR signaling@5@22@a(CCND1,CTTN) & ¬a(EGFR) & ¬a(ERBB2) & ¬d16q23.1@0.429@0.6@Sensitive
+ESCA@GSK2126458@PI3K, MTOR@PI3K signaling@5@30@TLR-DOWN | Wnt-DOWN@0.667@0.4@Sensitive
+ESCA@GSK-650394@SGK3@other@7@20@KDM6A | PI3K_only-UP@0.8@0.571@Sensitive
+ESCA@GSK690693@AKT@PI3K signaling@14@21@d20p12.1 | Wnt-DOWN@0.75@0.429@Sensitive
+ESCA@KIN001-055@JAK3, MNK1@other@7@28@MACF1 | FAT1 | TLR-DOWN | Wnt-DOWN@1.0@0.714@Sensitive
+ESCA@KIN001-260@IKK@other@6@29@¬a7q31.1 & ¬a(CCND1,CTTN) & ¬a(EGFR) & ¬PIK3CA@0.5@0.833@Sensitive
+ESCA@MPS-1-IN-1@MPS1@mitosis@5@30@MACF1@1.0@0.2@Sensitive
+ESCA@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@5@22@¬CREBBP & a(EGFR) & ¬NFE2L2@0.667@0.4@Sensitive
+ESCA@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@apoptosis regulation@5@22@¬CDKN2A & PI3K_only-UP@1.0@0.4@Sensitive
+ESCA@OSI-906@IGF1R@IGFR signaling@6@20@NOTCH1 | BAP1@0.8@0.667@Sensitive
+ESCA@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@5@26@d20p12.1 & ¬d(PAX5) | ¬a(KRAS) & VEGF-DOWN@0.6@0.6@Sensitive
+ESCA@PF-562271@FAK@cytoskeleton@6@20@ARID2 | KDM6A | NFE2L2@0.8@0.667@Sensitive
+ESCA@QL-XI-92@DDR1@RTK signaling@8@27@d20p12.1 | BAP1 | Wnt-DOWN@0.667@0.75@Sensitive
+ESCA@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@10@23@¬d2q22.1 & a(ERBB2)@0.75@0.6@Sensitive
+ESCA@Tamoxifen@ER@other@5@29@¬EP300 & ¬d(PAX5) & d2q22.1 & ¬d16q23.1@0.8@0.8@Sensitive
+ESCA@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@8@24@a(EGFR) | TGFB-DOWN@0.556@0.625@Sensitive
+ESCA@WZ-1-84@BMX@other@5@6@¬RTN4 & ¬PIK3CA & ¬d2q22.1@0.833@1.0@Sensitive
+ESCA@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@5@28@a(CCND1,CTTN) & d2q22.1@0.5@0.6@Sensitive
+ESCA@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@RTK signaling@5@30@¬a(CCND1,CTTN) & d16q23.1@1.0@0.4@Sensitive
+ESCA@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@other@5@30@¬a7q31.1 & d16q23.1@0.667@0.8@Sensitive
+ESCA@Y-39983@ROCK@cytoskeleton@10@25@d(PAX5) | KDM6A@0.8@0.4@Sensitive
+GBM@A-770041@SRC family@other@7@5@¬BRAF & ¬PTEN@1.0@0.857@Sensitive
+GBM@ABT-869@VEGFR and PDGFR family@RTK signaling@7@28@KDM6A | a(MDM2,NUP107) | d(ANK3),d10q22.1@0.833@0.714@Sensitive
+GBM@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@8@25@d18p11.32 | a(FIP1L1,PDGFRA) | a(MDM2,NUP107) | d10p12.1@0.667@0.75@Sensitive
+GBM@AP-24534@ABL@ABL signaling@6@25@a(CDK4) | IL-1-UP@0.6@0.5@Sensitive
+GBM@AV-951@VEGFR@RTK signaling@6@29@KDM6A | a(FIP1L1,PDGFRA) | a(MDM2,NUP107)@0.8@0.667@Sensitive
+GBM@AZD6482@PI3Kbeta@PI3K signaling@8@25@KDM6A | d17q21.2 | a(MYC) | d10q23.31@0.7@0.875@Sensitive
+GBM@BIRB 0796@p38, JNK2@JNK and p38 signaling@5@27@¬NF1 & d(CDKN2A) & ¬d(CDKN2C,FAF1) & ¬TGFB-UP@0.571@0.8@Sensitive
+GBM@Bortezomib@Proteasome@other@5@9@¬BRAF & ¬a(CDK4) & ¬d(CDKN2C,FAF1) & ¬TGFB-UP@0.833@1.0@Sensitive
+GBM@Bryostatin 1@PRKC@other@5@25@PTEN & ¬d11q14.1 & ¬d10p12.1 & ¬H2O2-UP@0.8@0.8@Sensitive
+GBM@CCT007093@PPM1D@other@5@29@KDM6A | d17q21.2 | d8p21.3 | JAK-STAT-DOWN@0.556@1.0@Sensitive
+GBM@CHIR-99021@GSK3B@WNT signaling@7@24@KDM6A@1.0@0.143@Sensitive
+GBM@CX-5461@RNA Pol I@other@17@18@¬d(CDKN2C,FAF1) & ¬a7q11.23 & ¬TGFB-UP@0.812@0.765@Sensitive
+GBM@GSK269962A@ROCK1, ROCK2@cytoskeleton@8@27@¬RB1 & TP53 & ¬d(FAT1,IRF2) & ¬d(CDKN2C,FAF1)@0.7@0.875@Sensitive
+GBM@GSK690693@AKT@PI3K signaling@9@26@¬RB1 & ¬d(CDKN2A)@0.6@0.333@Sensitive
+GBM@IOX2@EGLN1@other@6@29@d(FAT1,IRF2) & VEGF-UP | d10p12.1 & ¬TGFB-UP@1.0@0.667@Sensitive
+GBM@JQ1@BRD4@chromatin  other@5@30@d12q23.3 | d(TP53) | d10p12.1@0.625@1.0@Sensitive
+GBM@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@5@25@MAPK_only-UP@0.5@0.2@Sensitive
+GBM@Nutlin-3a@MDM2@p53 pathway@8@25@¬TP53 & ¬d(TP53) & ¬d(CDKN2C,FAF1) & ¬d3p14.1@0.889@1.0@Sensitive
+GBM@Olaparib@PARP1, PARP2@Genome integrity@6@28@NF1 & ¬SACS | ¬d(CDKN2A) & ¬TGFB-UP@0.5@0.833@Sensitive
+GBM@Pazopanib@VEGFR, PDGFRA, PDGFRB, KIT@RTK signaling@8@21@a(AKAP9)@0.333@0.25@Sensitive
+GBM@QL-XI-92@DDR1@RTK signaling@16@19@NF1@0.75@0.375@Sensitive
+GBM@RO-3306@CDK1@cell cycle@8@25@a(FIP1L1,PDGFRA) | d8p21.3 | IL-1-UP@1.0@0.5@Sensitive
+GBM@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@9@25@¬EGFR & ¬NF1 & ¬MAPK_only-UP & ¬TGFB-UP@0.583@0.778@Sensitive
+GBM@SB 216763@GSK3A, GSK3B@WNT signaling@5@24@¬RB1 & TP53 & ¬H2O2-UP@0.667@0.8@Sensitive
+GBM@Tamoxifen@ER@other@5@30@d8p21.3@1.0@0.2@Sensitive
+GBM@Temozolomide@DNA akylating agent@DNA replication@6@28@¬d(CDKN2A) & ¬TGFB-UP@0.6@0.5@Sensitive
+GBM@TGX221@PI3Kbeta@PI3K signaling@8@6@d10q26.3 | a(EGFR) | H2O2-UP@0.875@0.875@Sensitive
+GBM@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@7@27@¬PTEN & ¬TP53@0.429@0.429@Sensitive
+GBM@Tubastatin A@HDAC6@chromain  histone acetylation@5@30@¬a(EGFR) & ¬H2O2-UP & ¬MAPK_only-UP & ¬JAK-STAT-DOWN@0.455@1.0@Sensitive
+GBM@Y-39983@ROCK@cytoskeleton@17@18@NF1 & ¬JAK-STAT-DOWN@0.714@0.294@Sensitive
+HNSC@17-AAG@HSP90@other@6@29@a(CCND1,CTTN) & d(FAT1) & ¬TNFa-UP@0.75@0.5@Sensitive
+HNSC@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@6@32@CASP8@0.333@0.333@Sensitive
+HNSC@681640@WEE1, CHEK1@cell cycle@8@18@a(ASXL1)@1.0@0.5@Sensitive
+HNSC@ABT-888@PARP1, PARP2@Genome integrity@9@25@¬PIK3CA & ¬PTEN & ¬a(FANCG) & ¬dXq21.33@0.615@0.889@Sensitive
+HNSC@Afatinib@ERBB2, EGFR@EGFR signaling@22@12@¬d(CDKN2A) & d18q22.1 | a(EGFR)@0.882@0.682@Sensitive
+HNSC@AKT inhibitor VIII@AKT1, AKT2, AKT3@PI3K signaling@9@33@¬PBRM1 & ¬d8p23.2 & ¬a22q11.21 & ¬a(CCND1,CTTN)@0.455@0.556@Sensitive
+HNSC@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@12@27@¬HLA-A & ¬a(CCND1,CTTN) & ¬dXq21.33 & ¬d(ATP1A1,CSDE1,NRAS)@0.643@0.75@Sensitive
+HNSC@AZD6482@PI3Kbeta@PI3K signaling@5@36@PIK3CA | a(FANCG)@0.444@0.8@Sensitive
+HNSC@Bicalutamide@ANDR (androgen receptor)@other@6@31@RASA1 | RHOA | SMAD4@0.667@0.667@Sensitive
+HNSC@BIRB 0796@p38, JNK2@JNK and p38 signaling@8@27@FBXW7 | a(MYC),a8q24.21@1.0@0.125@Sensitive
+PAAD@BMS-708163@g-secretase@other@5@25@SMAD4@0.375@0.6@Sensitive
+HNSC@BMS-708163@g-secretase@other@10@31@HLA-A | a6q11.1 | a(MDM2,NUP107,SRGAP1) | TNFa-UP@0.583@0.7@Sensitive
+HNSC@Bosutinib@SRC, ABL, TEC@ABL signaling@16@18@MYH9 | SMAD4 | a(ASXL1) | PI3K_only-UP@0.846@0.688@Sensitive
+HNSC@CCT007093@PPM1D@other@11@30@a(ACTB,CARD11,PMS2,RAC1) | a(NR2F2,PCSK6)@0.625@0.455@Sensitive
+HNSC@Cetuximab@EGFR@EGFR signaling@19@18@HLA-A | PTEN | Wnt-DOWN@0.917@0.579@Sensitive
+HNSC@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@8@25@CDKN2A & ¬SPTAN1 | ¬d(CDKN2A) & Wnt-DOWN@0.714@0.625@Sensitive
+HNSC@CX-5461@RNA Pol I@other@17@23@MAPK_only-UP | MAPK_PI3K-UP | Wnt-DOWN@0.769@0.588@Sensitive
+HNSC@Docetaxel@Microtubules@cytoskeleton@15@19@d8p23.2 & dXq21.33@0.714@0.333@Sensitive
+HNSC@EKB-569@EGFR@EGFR signaling@7@33@SMAD4 | a(FANCG) | MAPK_PI3K-UP@0.667@0.857@Sensitive
+HNSC@Epothilone B@Microtubules@cytoskeleton@7@35@MYH9 & ¬TNFa-UP | d2q21.2 & ¬Wnt-DOWN@0.8@0.571@Sensitive
+HNSC@FTI-277@Farnesyl transferase (FNTA)@other@15@27@¬CASP8 & ¬NSD1 & ¬a(CCND1,CTTN) & ¬a3q28@0.667@0.667@Sensitive
+HNSC@Gefitinib@EGFR@EGFR signaling@26@8@¬KDM6A & ¬NSD1 & TP53 & ¬a6q11.1@0.958@0.885@Sensitive
+HNSC@GSK-1904529A@IGF1R@IGFR signaling@5@37@FBXW7 | MAPK_PI3K-UP | PI3K_only-DOWN@0.8@0.8@Sensitive
+HNSC@GSK-650394@SGK3@other@5@37@¬PIK3CA & d8p23.2 & ¬a(CCND1,CTTN)@0.571@0.8@Sensitive
+HNSC@GSK690693@AKT@PI3K signaling@9@31@Wnt-DOWN@0.444@0.444@Sensitive
+HNSC@Shikonin@unknown@other@5@36@Wnt-DOWN@0.222@0.4@Sensitive
+HNSC@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@26@13@Wnt-DOWN@1.0@0.308@Sensitive
+SKCM@HG-6-64-1@BRAFV600E, TAK, MAP4K5@ERK MAPK signaling@5@42@Wnt-DOWN@0.2@0.2@Sensitive
+HNSC@GW 441756@NTRK1@RTK signaling@9@25@FAT1 | FBXW7 | PBRM1 | a(ASXL1)@0.778@0.778@Sensitive
+HNSC@IOX2@EGLN1@other@10@29@CASP8 | PTEN | a(MYC),a8q24.21 | VEGF-DOWN@0.7@0.7@Sensitive
+HNSC@JNJ-26854165@MDM2@p53 pathway@7@33@RHOA@1.0@0.143@Sensitive
+HNSC@JNK Inhibitor VIII@JNK@JNK and p38 signaling@9@26@a(CCND1,CTTN) & d18q22.1 & ¬PI3K_only-UP@1.0@0.333@Sensitive
+HNSC@JQ1@BRD4@chromatin  other@6@32@FAT1@0.667@0.667@Sensitive
+HNSC@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@7@33@FAT1@0.286@0.286@Sensitive
+HNSC@KIN001-055@JAK3, MNK1@other@9@31@VEGF-DOWN | Wnt-DOWN@0.5@0.556@Sensitive
+HNSC@Lenalidomide@TNFA@other@8@26@TP53 & ¬d(CDKN2A) & ¬dXq21.33@0.5@0.625@Sensitive
+HNSC@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@7@35@HLA-A | KDM6A | a(MYC),a8q24.21@0.8@0.571@Sensitive
+HNSC@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@PI3K signaling@6@29@KDM6A | MYH9 | SMAD4 | a22q11.21@0.667@1.0@Sensitive
+HNSC@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@apoptosis regulation@9@33@¬a(FANCG) & Wnt-DOWN | ¬d(MED17) & d2q21.2@0.6@0.667@Sensitive
+HNSC@Olaparib@PARP1, PARP2@Genome integrity@6@33@¬d8p23.2 & ¬a(CCND1,CTTN) & ¬d18q22.1@0.375@0.5@Sensitive
+HNSC@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@13@22@¬TNFa-UP & Wnt-DOWN | TP53 & PI3K_only-UP@0.875@0.538@Sensitive
+HNSC@PD-173074@FGFR1, FGFR3@RTK signaling@5@30@BPTF | HLA-B | KDM6A@1.0@0.4@Sensitive
+HNSC@PF-562271@FAK@cytoskeleton@6@36@KDM6A | PIK3CA | RHOA | VEGF-DOWN@0.5@1.0@Sensitive
+HNSC@PFI-1@BRD2, BRD3, BRD4@chromatin  other@6@33@TP53 & ¬a(FANCG) & ¬a(CCND1,CTTN) & ¬dXq21.33@0.455@0.833@Sensitive
+HNSC@piperlongumine@Increases ROS levels@other@6@33@a(EGFR) & d(CDKN2A) | CASP8 & ¬d(ATP1A1,CSDE1,NRAS)@0.625@0.833@Sensitive
+HNSC@QL-XI-92@DDR1@RTK signaling@5@35@d(CDKN2A) & MAPK_PI3K-UP | d(FAT1) & TNFa-UP@0.714@1.0@Sensitive
+HNSC@RO-3306@CDK1@cell cycle@15@20@SMAD4 | PI3K_only-UP@1.0@0.533@Sensitive
+HNSC@SB590885@BRAF@ERK MAPK signaling@6@29@¬a22q11.21 & ¬TNFa-UP & Wnt-DOWN@1.0@0.5@Sensitive
+HNSC@SL 0101-1@RSK, AURKB, PIM3@ERK MAPK signaling@5@30@a(CCND1,CTTN) & d18q22.1@0.5@0.6@Sensitive
+HNSC@Tamoxifen@ER@other@8@31@PIK3CA & ¬d18q22.1 | ¬PIK3CA & SMAD4@0.714@0.625@Sensitive
+HNSC@Vinblastine@Microtubules@cytoskeleton@5@29@MYH9 | SMAD4@0.6@0.6@Sensitive
+HNSC@Vinorelbine@Microtubules@cytoskeleton@5@37@¬a(EGFR) & Wnt-DOWN@0.333@0.4@Sensitive
+HNSC@VX-702@p38@JNK and p38 signaling@9@25@ATM | NSD1 | SMAD4 | a(MCM3)@0.556@0.556@Sensitive
+HNSC@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@11@29@PBRM1 | a(ACTB,CARD11,PMS2,RAC1)@0.75@0.545@Sensitive
+HNSC@Y-39983@ROCK@cytoskeleton@5@35@¬TP53 | MAPK_PI3K-UP@0.571@0.8@Sensitive
+KIRC@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@5@18@¬SOX9 & ¬VHL & d14q24.3@1.0@0.6@Sensitive
+KIRC@Afatinib@ERBB2, EGFR@EGFR signaling@8@15@NF2@1.0@0.5@Sensitive
+KIRC@Gefitinib@EGFR@EGFR signaling@7@16@NF2@0.75@0.429@Sensitive
+KIRC@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@5@17@PBRM1 | TNFa-UP@0.667@0.8@Sensitive
+KIRC@AZD6482@PI3Kbeta@PI3K signaling@15@16@¬TP53 & ¬MAPK_only-UP & ¬TNFa-UP@0.769@0.667@Sensitive
+KIRC@BIRB 0796@p38, JNK2@JNK and p38 signaling@5@18@¬SOX9 & ¬TP53 & d3p14.1 & ¬d1p31.1@1.0@0.6@Sensitive
+KIRC@CCT007093@PPM1D@other@6@25@KDM6A | MGA | PTEN@0.571@0.667@Sensitive
+KIRC@Cetuximab@EGFR@EGFR signaling@12@18@¬BAP1 & ¬TP53 & ¬VHL & ¬d15q15.1@0.8@0.667@Sensitive
+KIRC@CH5424802@ALK@RTK signaling@5@25@MGA | d3q11.1@0.5@0.8@Sensitive
+KIRC@CHIR-99021@GSK3B@WNT signaling@9@21@¬TP53 & ¬VHL & ¬d(FAT1,IRF2) & ¬TNFa-UP@0.667@0.667@Sensitive
+KIRC@Cisplatin@DNA crosslinker@DNA replication@5@18@PI3K_only-DOWN@1.0@0.2@Sensitive
+SKCM@QL-XI-92@DDR1@RTK signaling@13@37@PI3K_only-DOWN@1.0@0.231@Sensitive
+KIRC@CX-5461@RNA Pol I@other@8@21@PTEN & TP53 | ¬TP53 & d3p14.1@0.571@0.5@Sensitive
+KIRC@Dabrafenib@BRAF@ERK MAPK signaling@8@20@NF2 | TGFB-DOWN@0.8@0.5@Sensitive
+KIRC@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@9@21@NF2 | TGFB-DOWN@0.556@0.556@Sensitive
+KIRC@Gemcitabine@DNA replication@DNA replication@5@17@¬BAP1 & NF2 & d(CDKN2A) & ¬d2q22.1@1.0@0.4@Sensitive
+KIRC@GSK429286A@ROCK2@cytoskeleton@6@24@¬d(SOX17) & d14q24.3 & ¬JAK-STAT-DOWN@0.833@0.833@Sensitive
+KIRC@GSK690693@AKT@PI3K signaling@9@21@PTEN | d15q15.1 | TGFB-DOWN@0.857@0.667@Sensitive
+KIRC@JNJ-26854165@MDM2@p53 pathway@6@23@¬MGA & VHL & ¬MAPK_only-UP@0.571@0.667@Sensitive
+KIRC@JNK Inhibitor VIII@JNK@JNK and p38 signaling@5@17@PBRM1 & VHL@1.0@0.6@Sensitive
+KIRC@JW-7-24-1@LCK@other@7@23@¬TP53 & d3p14.1 & ¬d2q22.1@0.8@0.571@Sensitive
+KIRC@LFM-A13@BTK@other@5@18@FBXW7 | ¬MGA & SETD2@1.0@0.6@Sensitive
+KIRC@LY317615@PRKCB (PKCbeta)@other@6@24@¬d6q27 & d(FAT1,IRF2) | d14q24.3 & MAPK_only-UP@0.571@0.667@Sensitive
+KIRC@MP470@PDGFR@RTK signaling@5@25@¬TP53 & d(FAT1,IRF2)@0.75@0.6@Sensitive
+KIRC@Nutlin-3a@MDM2@p53 pathway@9@14@¬TP53 & ¬d6q27 & ¬TGFB-DOWN@0.818@1.0@Sensitive
+KIRC@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@PI3K signaling@5@18@d4q21.22@0.5@0.4@Sensitive
+KIRC@QL-XI-92@DDR1@RTK signaling@10@20@d3q11.1 & d(FAT1,IRF2) | ¬d6q27 & d14q24.3@0.875@0.7@Sensitive
+KIRC@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@5@25@EZH2@1.0@0.2@Sensitive
+SKCM@JQ12@HDAC@chromain  histone acetylation@7@41@EZH2@0.667@0.286@Sensitive
+SKCM@NVP-BHG712@EPHB4@RTK signaling@11@39@EZH2@0.667@0.182@Sensitive
+KIRC@STF-62247@stimulates autophagy@other@7@22@¬MGA & ¬d6q27 & d3p14.1 & ¬d2q22.1@0.857@0.857@Sensitive
+KIRC@Temsirolimus@MTOR@TOR signaling@7@16@¬BAP1 & ¬NF2 & ¬d1p31.1 & ¬MAPK_only-UP@0.667@0.857@Sensitive
+KIRC@TGX221@PI3Kbeta@PI3K signaling@5@5@¬d8p23.1 & ¬MAPK_only-UP & ¬TNFa-UP & ¬VEGF-UP@1.0@1.0@Sensitive
+KIRC@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@7@23@d2q22.1@0.667@0.286@Sensitive
+KIRC@Y-39983@ROCK@cytoskeleton@13@17@¬NFE2L2 & ¬d(SOX17) & d14q24.3 & ¬d2q22.1@1.0@0.538@Sensitive
+LAML@5-Fluorouracil@DNA antimetabolite@DNA replication@13@12@¬NOTCH1 & ¬TP53@0.909@0.769@Sensitive
+LAML@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@10@16@NPM1 | RUNX1-RUNX1T1 | U2AF1 | H2O2-DOWN@0.875@0.7@Sensitive
+LAML@A-770041@SRC family@other@7@19@¬ASXL1 & ¬NRAS & ¬IL-1-UP & JAK-STAT-UP@0.571@0.571@Sensitive
+LAML@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@18@5@d9p13.1 | ¬JAK-STAT-UP | H2O2-DOWN@0.917@0.611@Sensitive
+LAML@ABT-869@VEGFR and PDGFR family@RTK signaling@14@12@¬NRAS & ¬IL-1-UP & ¬TLR-UP & ¬IL-1-DOWN@0.857@0.857@Sensitive
+LAML@ABT-888@PARP1, PARP2@Genome integrity@5@19@U2AF1 | d9p13.1 | VEGF-UP@1.0@0.2@Sensitive
+LAML@AC220@FLT3@RTK signaling@17@9@¬KRAS & ¬NRAS@0.938@0.882@Sensitive
+LAML@AICAR@AAPK1 (AMPK) agonist@metabolism@11@13@¬KRAS & ¬TP53 & ¬TLR-UP@0.75@0.545@Sensitive
+LAML@AP-24534@ABL@ABL signaling@9@17@FLT3 | MAP3K1 | RUNX1-RUNX1T1 | U2AF1@1.0@0.556@Sensitive
+LAML@HG-6-64-1@BRAFV600E, TAK, MAP4K5@ERK MAPK signaling@6@20@FLT3 | MAP3K1 | RUNX1-RUNX1T1 | U2AF1@1.0@0.833@Sensitive
+LAML@AR-42@HDAC@chromain  histone acetylation@10@15@¬KRAS & ¬NOTCH1 & ¬NRAS & ¬d7p12.1@0.769@1.0@Sensitive
+LAML@AS605240@PI3Kgamma@PI3K signaling@15@11@KRAS | PML-RARA | TET2@1.0@0.4@Sensitive
+LAML@AT-7519@CDK9@cell cycle@7@19@¬NRAS & TP53 & JAK-STAT-UP@0.6@0.429@Sensitive
+LAML@ATRA@Retinoic acid and retinoid X receptor agonist@other@9@15@NRAS & ¬TP53 | ¬RUNX1-RUNX1T1 & ASXL1@1.0@0.667@Sensitive
+LAML@AV-951@VEGFR@RTK signaling@12@14@¬KRAS & ¬NRAS & ¬IL-1-UP & ¬TLR-UP@0.917@0.917@Sensitive
+LAML@AZ628@BRAF@ERK MAPK signaling@14@12@¬TP53 & ¬TLR-UP@0.818@0.643@Sensitive
+LAML@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@20@¬EP300 & ¬TP53 & JAK-STAT-UP@0.5@0.5@Sensitive
+LAML@AZD7762@CHEK1, CHEK2@Genome integrity@8@16@U2AF1@1.0@0.25@Sensitive
+LAML@Olaparib@PARP1, PARP2@Genome integrity@5@19@U2AF1@0.5@0.2@Sensitive
+LAML@AZD8055@MTORC1/2@TOR signaling@5@18@¬NF1 & ASXL1@1.0@0.4@Sensitive
+LAML@BAY 61-3606@SYK@other@8@17@¬ASXL1 & ¬NOTCH1 & ¬NRAS & ¬TP53@0.625@0.625@Sensitive
+LAML@Bexarotene@Retinioic acid X family agonist@other@6@19@CDKN2A | TET2 | IL-1-UP@1.0@0.5@Sensitive
+LAML@Bicalutamide@ANDR (androgen receptor)@other@6@19@¬ASXL1 & ¬NRAS & JAK-STAT-UP & ¬H2O2-DOWN@0.667@0.667@Sensitive
+LAML@BIX02189@MAP2K5 (MEK5)@other@16@9@¬CDKN2A & ¬TP53@0.917@0.688@Sensitive
+LAML@BMS-345541@IKBKB@other@16@10@ASXL1 | NOTCH1 | PML-RARA | TET2@0.889@0.5@Sensitive
+LAML@BMS-509744@ITK@other@5@21@FLT3 | NOTCH1 | TET2 | IL-1-DOWN@0.625@1.0@Sensitive
+LAML@BMS-536924@IGF1R@IGFR signaling@6@20@¬NRAS & ¬JAK-STAT-UP & ¬TLR-UP@0.571@0.667@Sensitive
+LAML@BMS-708163@g-secretase@other@13@13@¬CREBBP & ¬KRAS & JAK-STAT-UP@0.833@0.769@Sensitive
+LAML@BMS-754807@IGF1R@IGFR signaling@5@19@PML-RARA@1.0@0.2@Sensitive
+LAML@SB590885@BRAF@ERK MAPK signaling@6@17@PML-RARA@1.0@0.167@Sensitive
+LAML@Bryostatin 1@PRKC@other@5@20@¬ASXL1 & ¬NRAS & ¬IL-1-UP & JAK-STAT-UP@0.571@0.8@Sensitive
+LAML@BX-795@TBK1, PDPK1, IKK, AURKB, AURKC@other@5@18@FLT3 | U2AF1 | VEGF-UP@1.0@0.6@Sensitive
+LAML@BX-912@PDPK1 (PDK1)@PI3K signaling@14@12@¬NRAS & ¬JAK-STAT-UP & ¬TNFa-UP@0.857@0.429@Sensitive
+LAML@CAL-101@PI3Kdelta@PI3K signaling@16@10@¬CDKN2A & ¬DNMT3A & ¬TP53@0.875@0.438@Sensitive
+LAML@ZSTK474@PI3K@PI3K signaling@14@12@¬CDKN2A & ¬DNMT3A & ¬TP53@0.818@0.643@Sensitive
+LAML@CAY10603@HDAC6@chromain  histone acetylation@9@16@¬ASXL1 & ¬NOTCH1 & ¬NRAS & ¬H2O2-DOWN@0.818@1.0@Sensitive
+LAML@CCT018159@HSP90@other@6@20@¬CREBBP & ¬KRAS & ¬NRAS & TP53@0.5@0.5@Sensitive
+LAML@CEP-701@FLT3, JAK2, NTRK1, RET@RTK signaling@9@15@FLT3 & H2O2-DOWN | ¬NRAS & TP53@0.778@0.778@Sensitive
+LAML@CH5424802@ALK@RTK signaling@15@11@¬MAP3K1 & ¬KRAS & ¬NRAS & ¬TLR-UP@0.833@0.667@Sensitive
+LAML@CHIR-99021@GSK3B@WNT signaling@5@21@RUNX1-RUNX1T1 | SACS | VEGF-UP@0.8@0.8@Sensitive
+LAML@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@9@15@¬d6p21.33 & ¬EP300 & ¬IL-1-UP & JAK-STAT-UP@0.8@0.889@Sensitive
+LAML@CP466722@ATM@Genome integrity@14@12@¬CREBBP & ¬NRAS & ¬TET2 & ¬d9p13.1@0.857@0.857@Sensitive
+LAML@CP724714@ERBB2@EGFR signaling@7@19@¬ASXL1 & ¬EP300 & JAK-STAT-UP & ¬H2O2-DOWN@0.625@0.714@Sensitive
+LAML@Crizotinib@MET, ALK@RTK signaling@6@20@¬NRAS & ¬TP53 & ¬TLR-UP@0.556@0.833@Sensitive
+LAML@Cyclopamine@SMO@other@6@20@¬ASXL1 & ¬NRAS & JAK-STAT-UP@0.75@1.0@Sensitive
+LAML@Dabrafenib@BRAF@ERK MAPK signaling@10@16@FLT3 | PTPN11 | RUNX1-RUNX1T1 | U2AF1@1.0@0.4@Sensitive
+LAML@EKB-569@EGFR@EGFR signaling@13@13@¬ASXL1 & ¬CREBBP & ¬NRAS@0.917@0.846@Sensitive
+LAML@EX-527@SIRT1@other@8@17@¬NRAS & JAK-STAT-UP & ¬H2O2-DOWN & ¬IL-1-DOWN@0.875@0.875@Sensitive
+LAML@FMK@RSK@ERK MAPK signaling@15@11@¬NRAS & JAK-STAT-UP@0.909@0.667@Sensitive
+LAML@FR-180204@ERK@ERK MAPK signaling@15@10@¬FBXW7 & ¬NRAS & ¬d9p13.1 & ¬TLR-UP@0.923@0.8@Sensitive
+LAML@FTI-277@Farnesyl transferase (FNTA)@other@5@21@RUNX1-RUNX1T1@1.0@0.2@Sensitive
+LAML@MP470@PDGFR@RTK signaling@6@20@RUNX1-RUNX1T1@1.0@0.167@Sensitive
+LAML@Nilotinib@ABL@ABL signaling@9@15@RUNX1-RUNX1T1@1.0@0.111@Sensitive
+LAML@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@chromain  histone acetylation@7@17@RUNX1-RUNX1T1@1.0@0.143@Sensitive
+LAML@GDC0941@PI3K (class 1)@PI3K signaling@6@17@CDKN2A@1.0@0.167@Sensitive
+LAML@Genentech Cpd 10@AURKA, AURKB@mitosis@14@12@¬NF1 & ¬KRAS & ¬NRAS@0.867@0.929@Sensitive
+LAML@GSK1070916@AURKB@mitosis@18@7@¬TP53 | ¬NRAS & JAK-STAT-UP@0.941@0.889@Sensitive
+LAML@GSK2126458@PI3K, MTOR@PI3K signaling@15@11@¬NRAS & ¬JAK-STAT-UP@0.875@0.467@Sensitive
+LAML@GSK269962A@ROCK1, ROCK2@cytoskeleton@5@21@RUNX1-RUNX1T1 | CREBBP@0.75@0.6@Sensitive
+LAML@GSK429286A@ROCK2@cytoskeleton@16@10@¬TP53 & ¬U2AF1 & ¬MAPK_only-DOWN@0.909@0.625@Sensitive
+LAML@GSK-650394@SGK3@other@6@18@¬NOTCH1 & ¬NRAS & ¬TP53 & ¬TLR-UP@0.714@0.833@Sensitive
+LAML@GSK690693@AKT@PI3K signaling@18@8@¬NRAS & ¬d9p13.1 & ¬JAK-STAT-UP@0.875@0.389@Sensitive
+LAML@GW-2580@CSF1R (cFMS)@RTK signaling@10@16@¬TP53 & ¬TLR-UP & ¬H2O2-DOWN@0.667@0.6@Sensitive
+LAML@I-BET-762@BRD2, BRD3, BRD4@chromatin  other@20@5@¬EP300 & ¬NRAS@0.941@0.8@Sensitive
+LAML@JQ12@HDAC@chromain  histone acetylation@7@19@IL-1-UP@1.0@0.143@Sensitive
+LAML@JQ1@BRD4@chromatin  other@11@15@CREBBP | IL-1-UP | TLR-UP | H2O2-DOWN@0.8@0.727@Sensitive
+LAML@JW-7-24-1@LCK@other@16@10@¬NRAS & ¬U2AF1 & ¬d9p13.1 & ¬IL-1-DOWN@0.867@0.812@Sensitive
+LAML@KIN001-055@JAK3, MNK1@other@6@19@TP53 & JAK-STAT-UP & ¬H2O2-DOWN & ¬IL-1-DOWN@0.6@0.5@Sensitive
+LAML@KIN001-102@AKT1@PI3K signaling@17@9@ASXL1 & ¬d9p13.1 | ¬TP53 & ¬JAK-STAT-UP@1.0@0.471@Sensitive
+LAML@KIN001-135@IKKE@other@5@21@¬NRAS & ¬TP53 & JAK-STAT-UP@0.625@1.0@Sensitive
+LAML@KIN001-236@TIE2@other@16@9@¬ASXL1 & ¬NRAS@0.929@0.812@Sensitive
+LAML@KIN001-244@PDPK1 (PDK1)@PI3K signaling@12@13@¬MAP3K1 & ¬TP53 & JAK-STAT-UP@0.714@0.417@Sensitive
+LAML@KIN001-270@CDK9@cell cycle@10@15@¬KRAS & ¬NRAS & ¬U2AF1 & ¬TLR-UP@0.727@0.8@Sensitive
+LAML@KU-55933@ATM@Genome integrity@5@18@d9p13.1 | VEGF-UP | H2O2-DOWN@0.667@0.8@Sensitive
+LAML@LAQ824@HDAC@chromain  histone acetylation@8@17@¬KRAS & ¬NRAS & ¬SACS & ¬TLR-UP@0.7@0.875@Sensitive
+LAML@Lenalidomide@TNFA@other@11@13@¬TP53 & JAK-STAT-UP | STAG2 & ¬KRAS@0.857@0.545@Sensitive
+LAML@LY317615@PRKCB (PKCbeta)@other@8@18@SACS & ¬IL-1-DOWN@1.0@0.25@Sensitive
+LAML@Masitinib@KIT@RTK signaling@8@17@¬NRAS & ¬JAK-STAT-UP@0.571@0.5@Sensitive
+LAML@Methotrexate@Dihydrofolate reductase (DHFR)@DNA replication@13@11@JAK-STAT-UP & ¬IL-1-DOWN@0.917@0.846@Sensitive
+LAML@Midostaurin@KIT@RTK signaling@5@21@FLT3 | PTPN11 | RUNX1-RUNX1T1 | U2AF1@1.0@0.8@Sensitive
+LAML@MPS-1-IN-1@MPS1@mitosis@6@19@TET2 & ¬H2O2-DOWN | CREBBP & NOTCH1@1.0@0.5@Sensitive
+LAML@NG-25@MAP3K7 (TAK1)@other@11@14@¬CREBBP & ¬KRAS & ¬NRAS & ¬MAPK_only-DOWN@0.846@1.0@Sensitive
+LAML@TL-1-85@MAP3K7 (TAK1)@other@10@15@¬CREBBP & ¬KRAS & ¬NRAS & ¬MAPK_only-DOWN@0.769@1.0@Sensitive
+LAML@NPK76-II-72-1@PLK3@mitosis@12@13@¬ASXL1 & ¬NRAS & ¬SACS & ¬IL-1-UP@0.818@0.75@Sensitive
+LAML@NVP-TAE684@ALK@RTK signaling@6@20@FLT3 | PTPN11 | TET2@1.0@0.667@Sensitive
+LAML@OSI-027@MTORC1/2@TOR signaling@10@16@¬NRAS & ¬JAK-STAT-UP@0.875@0.7@Sensitive
+LAML@PI-103@PI3Ka, PRKDC (DNAPK)@PI3K signaling@11@15@¬NRAS & ¬JAK-STAT-UP@0.875@0.636@Sensitive
+LAML@OSI-906@IGF1R@IGFR signaling@7@17@KRAS@0.667@0.286@Sensitive
+LAML@OSI-930@KIT, VEGFR, PDGFR@RTK signaling@16@10@¬CREBBP & ¬KRAS & ¬NRAS & ¬TLR-UP@0.917@0.688@Sensitive
+LAML@PAC-1@CASP3 agonist@apoptosis regulation@6@19@¬ASXL1 & ¬NRAS & JAK-STAT-UP & ¬H2O2-DOWN@0.5@0.5@Sensitive
+LAML@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@8@15@¬SACS & ¬U2AF1 & ¬IL-1-UP & JAK-STAT-UP@0.667@0.75@Sensitive
+LAML@PD-173074@FGFR1, FGFR3@RTK signaling@5@18@TP53 & ¬JAK-STAT-UP | ¬CREBBP & EP300@0.4@0.4@Sensitive
+LAML@PF-562271@FAK@cytoskeleton@5@21@¬FBXW7 & ¬KRAS & ¬NRAS & JAK-STAT-UP@0.571@0.8@Sensitive
+LAML@PFI-1@BRD2, BRD3, BRD4@chromatin  other@7@19@¬NRAS & ¬SACS & TP53 & ¬IL-1-DOWN@0.714@0.714@Sensitive
+LAML@PHA-665752@MET@RTK signaling@5@21@¬CREBBP & ¬NRAS & ¬TP53 & ¬TLR-UP@0.625@1.0@Sensitive
+LAML@PHA-793887@CDK-pan@cell cycle@13@13@FLT3 | PML-RARA | TET2 | U2AF1@0.833@0.385@Sensitive
+LAML@Phenformin@AAPK1 (AMPK) agonist@metabolism@8@17@PTPN11 | CREBBP | SACS | IL-1-UP@0.833@0.625@Sensitive
+LAML@PIK-93@PI4K, PI3K@PI3K signaling@16@9@ASXL1 | ¬TP53@0.938@0.938@Sensitive
+LAML@PXD101, Belinostat@HDAC@chromain  histone acetylation@6@19@TET2@1.0@0.333@Sensitive
+PANCAN@Bexarotene@Retinioic acid X family agonist@other@69@773@TET2@0.294@0.072@Sensitive
+LAML@QL-X-138@MNK2, PRKDC (DNAPK), MTOR, BTK, JAK3@other@6@16@¬NRAS & ¬JAK-STAT-UP@0.667@0.667@Sensitive
+LAML@QL-XI-92@DDR1@RTK signaling@20@6@RUNX1-RUNX1T1 | PML-RARA | ¬TP53@1.0@0.65@Sensitive
+LAML@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@7@16@¬d6p21.33 & ¬SACS & ¬IL-1-UP & JAK-STAT-UP@0.667@0.857@Sensitive
+LAML@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@9@17@¬JAK-STAT-UP & H2O2-DOWN | KRAS & ¬NRAS@0.8@0.444@Sensitive
+LAML@Ruxolitinib@JAK1, JAK2, TYK2@other@15@11@¬KRAS & ¬NRAS & ¬U2AF1 & ¬TLR-UP@1.0@0.8@Sensitive
+LAML@SGC0946@Q8TEK3 (DOT1L)@chromatin  histone methylation@5@21@¬PTPN11 & ¬NRAS & ¬JAK-STAT-UP & ¬TLR-UP@0.5@0.6@Sensitive
+LAML@SNX-2112@HSP90@other@11@14@¬ASXL1 & ¬NRAS & ¬SACS@0.833@0.909@Sensitive
+LAML@Sorafenib@PDGFRA, PDGFRB, KDR, KIT, FLT3@RTK signaling@7@19@FLT3 | U2AF1@1.0@0.429@Sensitive
+LAML@STF-62247@stimulates autophagy@other@17@8@¬CDKN2A & ¬d9p13.1 & JAK-STAT-UP@0.929@0.765@Sensitive
+LAML@Sunitinib@PDGFRA, PDGFRB, KDR, KIT, FLT3@RTK signaling@7@19@¬NOTCH1 & ¬NRAS & ¬TP53 & ¬TLR-UP@0.857@0.857@Sensitive
+LAML@XL-880@MET@RTK signaling@6@19@¬NOTCH1 & ¬NRAS & ¬TP53 & ¬TLR-UP@0.571@0.667@Sensitive
+LAML@TAK-715@p38a@JNK and p38 signaling@10@16@MAP3K1 | d6p21.33@1.0@0.2@Sensitive
+LAML@Tamoxifen@ER@other@5@21@¬NRAS & JAK-STAT-UP & ¬H2O2-DOWN@0.5@0.8@Sensitive
+LAML@Temozolomide@DNA akylating agent@DNA replication@10@16@¬PTPN11 & ¬ASXL1 & ¬NRAS & ¬H2O2-DOWN@0.727@0.8@Sensitive
+LAML@TG101348@JAK2@other@20@6@¬NRAS@1.0@0.95@Sensitive
+LAML@THZ-2-102-1@CDK7@cell cycle@10@15@¬NRAS & ¬d9p13.1 & JAK-STAT-UP@0.8@0.8@Sensitive
+LAML@THZ-2-49@CDK9@cell cycle@5@20@U2AF1 & ¬JAK-STAT-UP | TET2 & JAK-STAT-UP@1.0@0.4@Sensitive
+LAML@Tipifarnib@Farnesyl-transferase (FNTA)@other@7@17@¬FLT3 & ¬ASXL1 & ¬NRAS & ¬SACS@0.7@1.0@Sensitive
+LAML@TL-2-105@CRAF@ERK MAPK signaling@14@12@¬CDKN2A & ¬TP53 & ¬TLR-UP@0.9@0.643@Sensitive
+LAML@TPCA-1@IKK@other@15@10@¬NOTCH1 & ¬NRAS & ¬MAPK_only-DOWN@0.938@1.0@Sensitive
+LAML@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@8@15@NPM1 | H2O2-DOWN@0.75@0.375@Sensitive
+LAML@UNC1215@LMBL3@other@10@16@RUNX1-RUNX1T1 | SACS@1.0@0.4@Sensitive
+LAML@VNLG/124@HDAC, RAR @chromain  histone acetylation@17@7@KRAS | TET2@1.0@0.118@Sensitive
+LAML@VX-11e@ERK@ERK MAPK signaling@10@15@¬SACS & ¬TP53 & JAK-STAT-UP@0.714@0.5@Sensitive
+LAML@VX-680@AURKA, AURKB, AURKC, FLT3, ABL1, JAK2@mitosis@11@14@¬NPM1 & ¬TP53@0.818@0.818@Sensitive
+LAML@VX-702@p38@JNK and p38 signaling@10@14@¬NRAS & TP53 & ¬IL-1-DOWN@0.714@0.5@Sensitive
+LAML@WZ3105@CLK2, CNSK1E, FLT3, ULK1@other@9@17@FLT3 | PML-RARA | TET2 | U2AF1@1.0@0.667@Sensitive
+LAML@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@RTK signaling@8@17@FLT3 | PTPN11 | TET2 | U2AF1@1.0@0.75@Sensitive
+LAML@XMD13-2@RIPK@other@8@18@PTPN11 | NOTCH1 | PML-RARA | TLR-UP@0.857@0.75@Sensitive
+LAML@XMD14-99@EPHB3, CAMK1@RTK signaling@19@7@d6p21.33 & NRAS | ¬KRAS & ¬NRAS@1.0@0.842@Sensitive
+LAML@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@other@14@12@¬ASXL1 & ¬CREBBP & ¬NRAS@1.0@0.857@Sensitive
+LAML@Y-39983@ROCK@cytoskeleton@20@5@CDKN2A | ¬NRAS@1.0@0.9@Sensitive
+LAML@YM201636@FYV1@other@7@18@¬TP53 & ¬JAK-STAT-UP@0.6@0.429@Sensitive
+LAML@Zibotentan, ZD4054@Endothelin A Receptor@other@12@13@¬TP53 & JAK-STAT-UP | SACS & ¬U2AF1@0.75@0.5@Sensitive
+LAML@ZM-447439@AURKB@mitosis@7@16@FLT3 | STAG2 | ASXL1 | EP300@0.857@0.857@Sensitive
+LGG@A-770041@SRC family@other@6@5@¬EP300 & ¬d(RPL22) & ¬PI3K_only-DOWN@1.0@1.0@Sensitive
+LGG@Docetaxel@Microtubules@cytoskeleton@5@10@¬PTEN & H2O2-UP | a(EGFR) & ¬TNFa-UP@0.833@1.0@Sensitive
+LGG@GSK690693@AKT@PI3K signaling@6@11@¬EP300 & ¬d(RPL22) & ¬a(FGFR1,WHSC1L1) & ¬d(CUL2)@0.75@1.0@Sensitive
+LGG@Nutlin-3a@MDM2@p53 pathway@5@10@¬SMARCA4 & ¬TP53@0.8@0.8@Sensitive
+LGG@QL-XI-92@DDR1@RTK signaling@10@7@EP300 | SETD2 | IL-1-UP | PI3K_only-DOWN@1.0@0.6@Sensitive
+LGG@RO-3306@CDK1@cell cycle@5@10@¬EP300 & ¬d(RPL22) & ¬TGFB-UP@1.0@0.8@Sensitive
+LGG@SB 216763@GSK3A, GSK3B@WNT signaling@6@8@H2O2-UP | PI3K_only-DOWN@1.0@0.833@Sensitive
+LGG@Tubastatin A@HDAC6@chromain  histone acetylation@5@12@¬PTEN & a(EGFR)@0.75@0.6@Sensitive
+LGG@Y-39983@ROCK@cytoskeleton@5@12@¬d(CUL2) & TGFB-UP & ¬TNFa-UP & ¬PI3K_only-DOWN@1.0@0.8@Sensitive
+LIHC@CX-5461@RNA Pol I@other@7@10@¬PHLPP1 & ¬d(CDKN2A) & ¬IL-1-UP & ¬MAPK_only-DOWN@0.75@0.857@Sensitive
+LIHC@FH535@unknown @other@5@12@ACVR2A | PHLPP1 | RB1 | CTNNB1@1.0@0.8@Sensitive
+LIHC@GSK-1904529A@IGF1R@IGFR signaling@5@12@ACVR2A | CREBBP | CTNNB1 | d(RB1)@0.8@0.8@Sensitive
+LIHC@JQ1@BRD4@chromatin  other@7@9@¬TP53 & ¬CREBBP | ¬RB1 & IL-1-UP@0.833@0.714@Sensitive
+LIHC@NSC-207895@MDM4@p53 pathway@5@12@MAPK_PI3K-UP@1.0@0.2@Sensitive
+PAAD@FMK@RSK@ERK MAPK signaling@5@25@MAPK_PI3K-UP@0.25@0.2@Sensitive
+LIHC@Pazopanib@VEGFR, PDGFRA, PDGFRB, KIT@RTK signaling@7@10@ACVR2A | CREBBP | CTNNB1 | d(RB1)@0.8@0.571@Sensitive
+LIHC@Tipifarnib@Farnesyl-transferase (FNTA)@other@5@12@CTNNB1 | SMARCA4 | d(RB1)@1.0@1.0@Sensitive
+LIHC@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@7@9@¬TP53 & ¬CTNNB1 | FAM123B & ¬CTNNB1@1.0@0.571@Sensitive
+LIHC@Y-39983@ROCK@cytoskeleton@9@8@TP53 & ¬d(CDKN2A) & ¬FAM123B & ¬MAPK_PI3K-UP@0.857@0.667@Sensitive
+LUAD@17-AAG@HSP90@other@5@48@CUL2 | a(ARFGAP1)@0.6@0.6@Sensitive
+LUAD@A-770041@SRC family@other@5@8@¬SMARCA4 & a(CCND1) | a(MET) & ¬d(FAT1,IRF2)@1.0@0.6@Sensitive
+LUAD@Afatinib@ERBB2, EGFR@EGFR signaling@16@35@EGFR@1.0@0.25@Sensitive
+LUAD@EKB-569@EGFR@EGFR signaling@11@49@EGFR@1.0@0.455@Sensitive
+LUAD@AKT inhibitor VIII@AKT1, AKT2, AKT3@PI3K signaling@9@49@d(CDKN2A) & a(TERT) | ¬SMARCA4 & SVEP1@0.714@0.556@Sensitive
+LUAD@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@8@45@¬TP53 & ¬MAPK_only-UP & ¬JAK-STAT-DOWN@0.667@0.5@Sensitive
+LUAD@AS601245@JNK @JNK and p38 signaling@8@49@KEAP1 | PI3K_only-UP | TGFB-DOWN@0.455@0.625@Sensitive
+LUAD@AS605240@PI3Kgamma@PI3K signaling@6@54@d17p11.2 | a(MECOM)@0.25@0.5@Sensitive
+LUAD@AUY922@HSP90@other@5@53@¬STK11 & a(ARFGAP1) | U2AF1 & MAPK_only-UP@1.0@0.6@Sensitive
+LUAD@Bicalutamide@ANDR (androgen receptor)@other@5@53@SOX9 | a(ARFGAP1) | PI3K_only-UP@0.417@1.0@Sensitive
+LUAD@BIRB 0796@p38, JNK2@JNK and p38 signaling@6@47@CDKN2A | MAP4K3 | NTRK2 | d17p11.2@0.5@0.667@Sensitive
+LUAD@Bleomycin@DNA damage@DNA replication@6@52@d22q11.1 & ¬d22q13.31 | a(KRAS) & ¬a12q12@0.667@0.667@Sensitive
+LUAD@BMS-345541@IKBKB@other@5@55@d(SMARCA4)@0.4@0.4@Sensitive
+LUAD@Ruxolitinib@JAK1, JAK2, TYK2@other@8@52@d(SMARCA4)@0.4@0.25@Sensitive
+LUAD@BMS-536924@IGF1R@IGFR signaling@5@55@U2AF1 | a(FOXA2)@0.364@0.8@Sensitive
+LUAD@BMS-708163@g-secretase@other@10@47@d22q11.1 & ¬aXq28 | KRAS & a(MYC)@0.6@0.6@Sensitive
+LUAD@BMS-754807@IGF1R@IGFR signaling@11@47@KRAS & ¬RBM10 & ¬SMARCA4@0.385@0.455@Sensitive
+LUAD@Bryostatin 1@PRKC@other@12@46@¬NRAS & ¬a(ASXL1) & a(MYC) & ¬a(CCND1)@0.556@0.417@Sensitive
+LUAD@CCT007093@PPM1D@other@6@51@d17p11.2@0.429@0.5@Sensitive
+LUAD@Midostaurin@KIT@RTK signaling@7@51@d17p11.2@0.333@0.286@Sensitive
+LUAD@CCT018159@HSP90@other@6@54@STK11 & d(CDKN2A) | d(CDKN2A) & a(CCND1)@0.455@0.833@Sensitive
+LUAD@Cetuximab@EGFR@EGFR signaling@13@45@BRAF | EGFR | d(SMARCA4) | a(EGFR)@0.5@0.692@Sensitive
+LUAD@CH5424802@ALK@RTK signaling@17@43@¬SMARCA4 & TP53 & d(CDKN2A) & ¬d(FAT1,IRF2)@0.688@0.647@Sensitive
+LUAD@CHIR-99021@GSK3B@WNT signaling@5@53@BRAF | PI3K_only-UP | PI3K_only-DOWN | TGFB-DOWN@0.385@1.0@Sensitive
+LUAD@CP724714@ERBB2@EGFR signaling@9@51@d(TFDP1) & d(FAT1,IRF2) | ¬KRAS & STK11@0.455@0.556@Sensitive
+LUAD@CX-5461@RNA Pol I@other@25@35@KRAS & ¬a(MET) & ¬d(TFDP1) & ¬MAPK_PI3K-UP@0.833@0.4@Sensitive
+LUAD@Dasatinib@ABL, SRC, KIT, PDGFR@ABL signaling@6@7@¬SMARCA4 & ¬a(FOXA2) & ¬d(FAT1,IRF2)@0.857@1.0@Sensitive
+LUAD@DMOG@Prolyl-4-Hydroxylase@other@8@50@d(CDKN2A) & a(MYC)@0.444@0.5@Sensitive
+LUAD@Epothilone B@Microtubules@cytoskeleton@5@52@¬SMARCA4 & d(CDKN2A) & a(MYC)@0.333@0.6@Sensitive
+LUAD@Erlotinib@EGFR@EGFR signaling@5@6@¬CTNNB1 & ¬KRAS & ¬NF1 & ¬a(ARFGAP1)@1.0@0.8@Sensitive
+LUAD@FR-180204@ERK@ERK MAPK signaling@6@54@EGFR & ¬a(CCND1)@0.8@0.667@Sensitive
+LUAD@Gefitinib@EGFR@EGFR signaling@8@44@EGFR & ¬a(CCND1)@0.8@0.5@Sensitive
+LUAD@FTI-277@Farnesyl transferase (FNTA)@other@5@53@a(ARFGAP1) | PI3K_only-UP | PI3K_only-DOWN@0.333@0.8@Sensitive
+LUAD@Gemcitabine@DNA replication@DNA replication@5@53@TP53 & MAPK_only-UP@1.0@0.4@Sensitive
+LUAD@GSK-1904529A@IGF1R@IGFR signaling@8@50@a(MET) & a(MYC) | RBM10 & d19p12@0.75@0.375@Sensitive
+LUAD@GSK269962A@ROCK1, ROCK2@cytoskeleton@5@55@¬STK11 & ¬a(CDK4) & a(MYC)@0.2@0.4@Sensitive
+LUAD@GSK-650394@SGK3@other@5@53@SVEP1@0.667@0.4@Sensitive
+LUAD@GSK690693@AKT@PI3K signaling@9@51@EGFR | HLA-A | U2AF1 | d22q13.31@0.5@0.778@Sensitive
+LUAD@GW 441756@NTRK1@RTK signaling@12@40@ARID1A | d(SMARCA4) | PI3K_only-UP | Wnt-UP@0.5@0.5@Sensitive
+LUAD@HG-5-88-01@EGFR, ADCK4@EGFR signaling@6@27@EGFR | KEAP1 | U2AF1 | d22q11.1@0.667@0.667@Sensitive
+LUAD@IOX2@EGLN1@other@5@55@CLASP2 | d(SMARCA4)@0.5@0.6@Sensitive
+LUAD@JNK Inhibitor VIII@JNK@JNK and p38 signaling@8@45@KRAS & ¬MAPK_PI3K-UP@0.429@0.75@Sensitive
+LUAD@JQ12@HDAC@chromain  histone acetylation@6@52@¬a(CDK4) & ¬a(ASXL1) & a(MYC)@0.5@0.667@Sensitive
+LUAD@KIN001-055@JAK3, MNK1@other@15@45@EGFR | MAP4K3 | d22q13.31 | Wnt-DOWN@0.692@0.6@Sensitive
+LUAD@KIN001-102@AKT1@PI3K signaling@5@55@¬KRAS & STK11 & ¬d22q11.1 & ¬a(FOXA2)@1.0@0.6@Sensitive
+LUAD@KIN001-260@IKK@other@10@50@d(CDKN2A) & ¬d22q11.1 & ¬a(MYC) & ¬d(FAT1,IRF2)@0.357@0.5@Sensitive
+LUAD@KU-55933@ATM@Genome integrity@5@48@CUL2@1.0@0.2@Sensitive
+LUAD@LAQ824@HDAC@chromain  histone acetylation@5@53@¬BRAF & ¬d(PAX5) & d17p11.2 & ¬a(CDK4)@1.0@0.4@Sensitive
+LUAD@LY317615@PRKCB (PKCbeta)@other@9@50@DDX3X | MAP4K3 | STK11 | d(SMARCA4)@0.412@0.778@Sensitive
+LUAD@Mitomycin C@DNA crosslinker@DNA replication@9@49@¬SMARCA4 & d(CDKN2A) & ¬d13q14.2 & ¬d(FAT1,IRF2)@0.4@0.667@Sensitive
+LUAD@OSI-906@IGF1R@IGFR signaling@11@47@KEAP1@0.5@0.091@Sensitive
+LUAD@OSU-03012@PDPK1 (PDK1)@PI3K signaling@5@53@d18p11.21@0.5@0.2@Sensitive
+LUAD@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@9@44@¬CLASP2 & KRAS & ¬d22q11.1@0.533@0.889@Sensitive
+LUAD@PF-4708671@RPS6KB1 (p70S6KA)@TOR signaling@5@55@¬SMARCA4 & ¬d(PAX5) & d(FAT1,IRF2)@0.5@0.8@Sensitive
+LUAD@QL-XI-92@DDR1@RTK signaling@15@45@STK11 & ¬a(ARFGAP1)@0.75@0.4@Sensitive
+LUAD@RO-3306@CDK1@cell cycle@6@47@KRAS & d(CDKN2A) | CTNNB1 & ¬PI3K_only-UP@0.444@0.667@Sensitive
+LUAD@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@19@40@STK11@0.545@0.316@Sensitive
+LUAD@SB 216763@GSK3A, GSK3B@WNT signaling@6@38@¬BRAF & a(FOXA2) & ¬d(FAT1,IRF2)@1.0@0.333@Sensitive
+LUAD@SB52334@ALK5@RTK signaling@6@54@¬STK11 & ¬TP53 & ¬a(EGFR) & ¬JAK-STAT-DOWN@0.75@0.5@Sensitive
+LUAD@STF-62247@stimulates autophagy@other@6@54@d22q11.1 & d22q13.31@0.667@0.333@Sensitive
+LUAD@Thapsigargin@sarco-endoplasmic reticulum Ca2+-ATPases@other@5@53@¬SMARCA4 & SVEP1@1.0@0.4@Sensitive
+LUAD@Tipifarnib@Farnesyl-transferase (FNTA)@other@5@53@STK11 & PI3K_only-UP | a(TERT) & ¬a(EGFR)@0.333@0.6@Sensitive
+LUAD@TL-2-105@CRAF@ERK MAPK signaling@6@54@d(SMARCA4) | a(FUS,TAOK2) | a(MECOM) | VEGF-UP@0.417@0.833@Sensitive
+LUAD@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@22@37@¬CTNNB1 & KRAS & ¬d19p12 & ¬a(ASXL1)@1.0@0.591@Sensitive
+LUAD@Tubastatin A@HDAC6@chromain  histone acetylation@9@51@¬a(KRAS) & ¬a(CDK4) & ¬a(ASXL1) & a(MYC)@0.429@0.333@Sensitive
+LUAD@Vinorelbine@Microtubules@cytoskeleton@5@53@d18p11.21 | a(ARFGAP1) | PI3K_only-DOWN | TNFa-DOWN@0.556@1.0@Sensitive
+LUAD@VX-11e@ERK@ERK MAPK signaling@5@55@d17p11.2 & ¬d(FAT1,IRF2)@1.0@0.6@Sensitive
+LUAD@WH-4-023@SRC family, ABL@ABL signaling@6@7@¬STK11 & ¬d(FAT1,IRF2)@0.857@1.0@Sensitive
+LUAD@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@12@47@SVEP1 | d(TFDP1)@0.417@0.417@Sensitive
+LUAD@XMD14-99@EPHB3, CAMK1@RTK signaling@5@55@¬KRAS & ¬SMARCA4 & ¬a(MYC) & ¬d(FAT1,IRF2)@0.357@1.0@Sensitive
+LUAD@Y-39983@ROCK@cytoskeleton@14@46@d(SMARCA4) | d17p11.2 | a(CCND1)@0.556@0.714@Sensitive
+LUSC@Afatinib@ERBB2, EGFR@EGFR signaling@6@7@¬HRAS & ¬a(CCT5,TERT,TRIO) & ¬d13q13.1@1.0@1.0@Sensitive
+LUSC@CX-5461@RNA Pol I@other@7@7@¬d(CDKN2A)@1.0@0.571@Sensitive
+LUSC@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@9@6@d18q21.2@0.857@0.667@Sensitive
+LUSC@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@9@¬PBRM1 & ¬PIK3CA & ¬a3q26.1 & ¬PI3K_only-UP@0.857@1.0@Sensitive
+LUSC@Y-39983@ROCK@cytoskeleton@5@9@¬d(CDKN2A) | ¬a3q26.1 & MAPK_only-UP@1.0@0.8@Sensitive
+OV@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@6@26@ARID1A & ¬TP53 | ¬dXp22.32 & d8p21.3@0.667@1.0@Sensitive
+OV@Afatinib@ERBB2, EGFR@EGFR signaling@11@19@¬FBXW7 & ¬KRAS & ¬a19q12 & ¬d18q22.1@0.769@0.909@Sensitive
+OV@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@5@27@d15q25.2@1.0@0.4@Sensitive
+OV@Cetuximab@EGFR@EGFR signaling@7@24@a(MYC)@0.625@0.714@Sensitive
+STAD@QL-XI-92@DDR1@RTK signaling@5@15@a(MYC)@0.6@0.6@Sensitive
+OV@Elesclomol@HSP70@other@7@23@EP300 | d19q13.32 | d15q25.2 | TGFB-DOWN@1.0@0.857@Sensitive
+OV@Gefitinib@EGFR@EGFR signaling@6@23@¬KRAS & ¬a(CCNE1) & ¬dXp22.32 & ¬d(ARID1B,MAP3K4,MLLT4)@0.75@1.0@Sensitive
+OV@GW 441756@NTRK1@RTK signaling@7@23@dXq22.3@0.714@0.714@Sensitive
+OV@IOX2@EGLN1@other@6@25@BRAF | CTNNB1 | Wnt-DOWN@1.0@0.833@Sensitive
+OV@JNK Inhibitor VIII@JNK@JNK and p38 signaling@5@27@ARID1A & ¬PIK3CA | a(SOX17) & ¬a3q27.1@1.0@1.0@Sensitive
+OV@KIN001-260@IKK@other@5@24@¬SMARCA4 & TP53 & ¬a(KRAS) & ¬d8p21.3@0.556@1.0@Sensitive
+OV@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@8@24@KRAS | a(TRIO) | MAPK_only-UP | JAK-STAT-DOWN@0.667@1.0@Sensitive
+OV@QL-XII-61@BTK@other@6@16@KRAS & ¬TP53 | ¬SMAD4 & d(ARID1B,MAP3K4,MLLT4)@1.0@1.0@Sensitive
+OV@SB590885@BRAF@ERK MAPK signaling@5@27@¬TP53 & ¬d(ARID1B,MAP3K4,MLLT4) | d16q23.3 & ¬dXp21.1@0.556@1.0@Sensitive
+OV@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@13@19@KRAS | d21q22.3 | MAPK_only-UP | PI3K_only-UP@0.857@0.923@Sensitive
+OV@Tubastatin A@HDAC6@chromain  histone acetylation@5@24@¬KRAS & ¬a(KRAS) & ¬dXp21.1 & ¬d(ARID1B,MAP3K4,MLLT4)@0.429@0.6@Sensitive
+OV@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@7@24@a(SOX17) | PI3K_only-UP | JAK-STAT-DOWN@0.833@0.714@Sensitive
+OV@Y-39983@ROCK@cytoskeleton@7@23@BRAF | EP300 | FBXW7 | SMARCA4@0.875@1.0@Sensitive
+PAAD@AS605240@PI3Kgamma@PI3K signaling@6@24@¬SMAD4 & a(KRAS) & ¬MAPK_PI3K-UP & ¬TLR-DOWN@0.571@0.667@Sensitive
+PAAD@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@9@19@¬RNF43 & ¬d(CDKN2A) & ¬MAPK_PI3K-UP@0.625@0.556@Sensitive
+PAAD@BIRB 0796@p38, JNK2@JNK and p38 signaling@5@18@¬ARID1A & TLR-DOWN@1.0@0.2@Sensitive
+PAAD@BMS-536924@IGF1R@IGFR signaling@5@24@RNF43 | VEGF-DOWN@0.8@0.8@Sensitive
+PAAD@BMS-754807@IGF1R@IGFR signaling@7@23@SACS | TLR-UP | TLR-DOWN | Wnt-DOWN@0.833@0.714@Sensitive
+PAAD@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@19@TLR-DOWN@1.0@0.167@Sensitive
+PAAD@CX-5461@RNA Pol I@other@12@17@CDKN2A & ¬VEGF-UP@1.0@0.25@Sensitive
+PAAD@Dabrafenib@BRAF@ERK MAPK signaling@5@20@¬PBRM1 & RNF43 | EP300 & a(KRAS)@1.0@0.8@Sensitive
+PAAD@FH535@unknown @other@6@24@KRAS & ¬SMAD4 & ¬a(KRAS) & ¬TGFB-DOWN@0.556@0.833@Sensitive
+PAAD@GW-2580@CSF1R (cFMS)@RTK signaling@5@24@CDKN2A | a18q11.1@0.5@0.8@Sensitive
+PAAD@JQ1@BRD4@chromatin  other@6@21@¬SMAD4 & ¬a(KRAS) & d(CDKN2A)@0.5@0.5@Sensitive
+PAAD@OSI-906@IGF1R@IGFR signaling@7@23@SMAD4 & ¬Wnt-DOWN@0.5@0.429@Sensitive
+PAAD@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@11@11@KRAS & ¬a(KRAS) & ¬PI3K_only-UP & ¬TGFB-DOWN@0.9@0.818@Sensitive
+PAAD@QL-XI-92@DDR1@RTK signaling@8@21@MAPK_PI3K-UP | VEGF-DOWN@0.6@0.375@Sensitive
+PAAD@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@15@¬MAP2K4 & TP53 & ¬a(KRAS) & ¬TGFB-DOWN@0.625@0.833@Sensitive
+PAAD@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@10@17@¬ARID1A & ¬FBXW7 & ¬a18q11.1 & d(CDKN2A)@0.75@0.9@Sensitive
+PAAD@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@18@7@¬d(CDKN2A) & ¬MAPK_PI3K-UP & ¬VEGF-UP@0.9@0.5@Sensitive
+PAAD@Tubastatin A@HDAC6@chromain  histone acetylation@5@24@CDKN2A & ¬SMAD4 & ¬VEGF-UP@1.0@0.4@Sensitive
+PAAD@VX-11e@ERK@ERK MAPK signaling@7@22@ARID1A | EP300 | RNF43@0.571@0.571@Sensitive
+PAAD@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@5@22@SACS | Wnt-DOWN@0.75@0.6@Sensitive
+PAAD@Y-39983@ROCK@cytoskeleton@5@24@EP300 & a(KRAS) | CDKN2A & TP53@1.0@0.6@Sensitive
+PANCAN@5-Fluorouracil@DNA antimetabolite@DNA replication@92@802@d19q13.43 | JAK-STAT-UP | TLR-UP@0.329@0.293@Sensitive
+PANCAN@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@117@785@BRAF | CDKN1B | NRAS | JAK-STAT-UP@0.355@0.504@Sensitive
+PANCAN@681640@WEE1, CHEK1@cell cycle@69@678@d(FGFR3),d4p16.3@0.2@0.13@Sensitive
+PANCAN@A-443654@AKT1, AKT2, AKT3@PI3K signaling@31@357@MLL2 | PIK3CA | d21q11.2@0.193@0.548@Sensitive
+PANCAN@A-770041@SRC family@other@160@229@BCR-ABL | CREBBP | NF2 | NOTCH1@0.627@0.2@Sensitive
+PANCAN@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@221@615@d(CHD3,GPS2,TP53) | JAK-STAT-UP | TLR-UP | TNFa-DOWN@0.539@0.439@Sensitive
+PANCAN@ABT-869@VEGFR and PDGFR family@RTK signaling@108@794@CDKN1B | FLT3 | d12p12.3@0.279@0.111@Sensitive
+PANCAN@ABT-888@PARP1, PARP2@Genome integrity@96@738@EP300 | a9p24.1 | JAK-STAT-UP | TLR-UP@0.233@0.323@Sensitive
+PANCAN@AC220@FLT3@RTK signaling@142@759@d(CREBBP) | d12p12.3 | H2O2-DOWN | MAPK_only-DOWN@0.354@0.246@Sensitive
+PANCAN@Afatinib@ERBB2, EGFR@EGFR signaling@151@682@a(EGFR) | a(CDK12,ERBB2,MED24)@0.431@0.331@Sensitive
+PANCAN@AG-014699@PARP1, PARP2@Genome integrity@76@830@EWSR1-FLI1 | d16p13.3 | TLR-DOWN@0.21@0.289@Sensitive
+PANCAN@AICAR@AAPK1 (AMPK) agonist@metabolism@88@736@NOTCH1 | d(SDHD) | d(GNAQ,NTRK2,PCSK5,TJP2) | JAK-STAT-UP@0.229@0.409@Sensitive
+PANCAN@AKT inhibitor VIII@AKT1, AKT2, AKT3@PI3K signaling@85@775@FGFR2 | PIK3CA | a(EGFR)@0.161@0.318@Sensitive
+PANCAN@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@102@734@¬a(EGFR) & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(SRGAP3) & dXp11.3@0.201@0.314@Sensitive
+PANCAN@AP-24534@ABL@ABL signaling@86@777@¬d3p14.2 & dXq22.3@0.171@0.36@Sensitive
+PANCAN@AS601245@JNK @JNK and p38 signaling@76@775@CTNND1 | a(CLTC,PPM1D) | d21q11.2@0.177@0.329@Sensitive
+PANCAN@AS605240@PI3Kgamma@PI3K signaling@113@785@BRAF | NRAS | JAK-STAT-UP@0.327@0.442@Sensitive
+PANCAN@AT-7519@CDK9@cell cycle@57@842@a(INPP4A) | JAK-STAT-UP | MAPK_only-DOWN@0.241@0.351@Sensitive
+PANCAN@ATRA@Retinoic acid and retinoid X receptor agonist@other@97@727@¬d3p14.2 & dXq21.33@0.206@0.381@Sensitive
+PANCAN@AUY922@HSP90@other@50@795@¬d(ARID1B,MAP3K4,MLLT4) & dXp11.3 & ¬d(ERCC3) & ¬d20p12.1@0.086@0.3@Sensitive
+PANCAN@AV-951@VEGFR@RTK signaling@111@789@¬d3p14.2 & dXq28@0.19@0.261@Sensitive
+PANCAN@Axitinib@PDGFR, KIT, VEGFR@RTK signaling@71@760@ASXL1 | BCR-ABL | SMARCA4 | IL-1-DOWN@0.222@0.282@Sensitive
+PANCAN@AZ628@BRAF@ERK MAPK signaling@64@329@BRAF | KRAS | NRAS | JAK-STAT-UP@0.407@0.688@Sensitive
+PANCAN@AZD-0530@SRC, ABL1@ABL signaling@63@333@BCR-ABL | NOTCH1@0.6@0.143@Sensitive
+PANCAN@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@130@778@BRAF | KRAS | NRAS | PML-RARA@0.383@0.731@Sensitive
+PANCAN@AZD6482@PI3Kbeta@PI3K signaling@103@783@¬d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d3p14.2 & ¬dXp21.1@0.158@0.282@Sensitive
+PANCAN@AZD7762@CHEK1, CHEK2@Genome integrity@64@769@¬d3p14.2 & dXq22.3@0.134@0.359@Sensitive
+PANCAN@AZD8055@MTORC1/2@TOR signaling@93@735@¬d(CACNA1D,WNT5A),d3p21.1 & dXq28 & ¬d21q11.2@0.2@0.344@Sensitive
+PANCAN@BAY 61-3606@SYK@other@69@782@¬TP53 & dXq28 | BRAF & ¬a(ARFGAP1,GNAS)@0.166@0.377@Sensitive
+PANCAN@BI-2536@PLK1, PLK2, PLK3@mitosis@30@357@TP53 & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬dXq22.3@0.151@0.367@Sensitive
+PANCAN@Bicalutamide@ANDR (androgen receptor)@other@80@785@¬d8p21.1 & ¬d16q23.1 & dXp22.32@0.128@0.287@Sensitive
+PANCAN@BIRB 0796@p38, JNK2@JNK and p38 signaling@107@719@MACF1 | d(FGFR3),d4p16.3 | d20p12.1 | d15q25.2@0.231@0.393@Sensitive
+PANCAN@BIX02189@MAP2K5 (MEK5)@other@105@795@MLL2 | JAK-STAT-UP@0.317@0.381@Sensitive
+PANCAN@Bleomycin@DNA damage@DNA replication@74@772@¬BRAF & ¬TP53 & ¬d(SYNCRIP,ZNF292)@0.16@0.351@Sensitive
+PANCAN@BMN-673@PARP1@Genome integrity@103@798@EWSR1-FLI1 | TLR-DOWN@0.39@0.223@Sensitive
+PANCAN@BMS-345541@IKBKB@other@119@784@TET2 | JAK-STAT-UP | IL-1-DOWN | MAPK_only-DOWN@0.406@0.361@Sensitive
+PANCAN@BMS-509744@ITK@other@39@350@¬MLL2 & ¬d(CHD9,CNOT1,CYLD,MMP2,NUP93) & d(SYNCRIP,ZNF292) & ¬TNFa-DOWN@0.213@0.487@Sensitive
+PANCAN@BMS-536924@IGF1R@IGFR signaling@98@814@EWSR1-FLI1 & ¬d3q13.33 | ¬TP53 & d(ATRX)@0.213@0.276@Sensitive
+PANCAN@BMS-708163@g-secretase@other@106@805@¬d(SDHD) & d(BNC2,CDKN2A,JAK2,PSIP1) & dXq21.33@0.155@0.245@Sensitive
+PANCAN@BMS-754807@IGF1R@IGFR signaling@114@736@EWSR1-FLI1 | KRAS@0.306@0.333@Sensitive
+PANCAN@Bortezomib@Proteasome@other@31@360@d(SYNCRIP,ZNF292) & ¬dXp21.1 & ¬TNFa-DOWN@0.154@0.387@Sensitive
+PANCAN@Bosutinib@SRC, ABL, TEC@ABL signaling@77@758@BCR-ABL | EP300 | a(EGFR)@0.172@0.325@Sensitive
+PANCAN@Bryostatin 1@PRKC@other@101@749@¬TP53 & d(ATRX) | a(AHR,HDAC9) & ¬d(BNC2,CDKN2A,JAK2,PSIP1)@0.22@0.307@Sensitive
+PANCAN@BX-795@TBK1, PDPK1, IKK, AURKB, AURKC@other@76@760@¬KRAS & ¬d18q22.1 & ¬d(CACNA1D,WNT5A),d3p21.1 & dXq21.33@0.174@0.316@Sensitive
+PANCAN@BX-912@PDPK1 (PDK1)@PI3K signaling@119@782@TP53BP1 & ¬d20p12.1 | ¬d3p14.2 & dXq28@0.236@0.319@Sensitive
+PANCAN@CAL-101@PI3Kdelta@PI3K signaling@119@784@ARID4A | JAK-STAT-UP | MAPK_only-DOWN@0.419@0.261@Sensitive
+PANCAN@CAY10603@HDAC6@chromain  histone acetylation@81@814@JAK-STAT-UP | MAPK_only-DOWN@0.35@0.259@Sensitive
+PANCAN@IPA-3@PAK1, PAK2, PAK3@cytoskeleton@49@804@JAK-STAT-UP | MAPK_only-DOWN@0.2@0.245@Sensitive
+PANCAN@WZ3105@CLK2, CNSK1E, FLT3, ULK1@other@66@836@JAK-STAT-UP | MAPK_only-DOWN@0.35@0.318@Sensitive
+PANCAN@CCT007093@PPM1D@other@107@800@d1p36.12 | a20q13.13@0.195@0.215@Sensitive
+PANCAN@CCT018159@HSP90@other@59@824@PTEN | a(CCND1,CTTN)@0.147@0.39@Sensitive
+PANCAN@CEP-701@FLT3, JAK2, NTRK1, RET@RTK signaling@80@753@¬d3p14.2 & dXq28@0.133@0.237@Sensitive
+PANCAN@TAK-715@p38a@JNK and p38 signaling@68@836@¬d3p14.2 & dXq28@0.142@0.324@Sensitive
+PANCAN@TL-2-105@CRAF@ERK MAPK signaling@125@779@¬d3p14.2 & dXq28@0.284@0.352@Sensitive
+PANCAN@Cetuximab@EGFR@EGFR signaling@123@739@dXp11.3 & ¬dXq28 | a(EGFR) & ¬a(MET)@0.237@0.309@Sensitive
+PANCAN@CGP-082996@CDK4@cell cycle@29@359@d18q22.1 & ¬dXp11.3@0.2@0.103@Sensitive
+PANCAN@CGP-60474@CDK1,CDK2,CDK5,CDK7,CDK9@cell cycle@31@357@d(BNC2,CDKN2A,JAK2,PSIP1) & d(SYNCRIP,ZNF292)@0.113@0.258@Sensitive
+PANCAN@CH5424802@ALK@RTK signaling@165@734@¬d8p23.3 & d(ATRX)@0.277@0.321@Sensitive
+PANCAN@CHIR-99021@GSK3B@WNT signaling@96@805@¬TP53 & ¬d18q22.1 & ¬d(CASP1),d11q22.3 & ¬a(IL7R)@0.199@0.417@Sensitive
+PANCAN@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@111@713@BRAF | NRAS | JAK-STAT-UP@0.387@0.523@Sensitive
+PANCAN@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@84@743@BRAF | NRAS | JAK-STAT-UP@0.32@0.56@Sensitive
+PANCAN@VX-11e@ERK@ERK MAPK signaling@115@785@BRAF | NRAS | JAK-STAT-UP@0.359@0.487@Sensitive
+PANCAN@Cisplatin@DNA crosslinker@DNA replication@77@757@¬TP53 & ¬a(MYC) & ¬d16q23.1@0.183@0.39@Sensitive
+PANCAN@CMK@RSK@ERK MAPK signaling@25@363@¬d(FAT1,IRF2) & ¬d(CHD3,GPS2,TP53) & dXq28 & ¬d(ERCC3)@0.172@0.4@Sensitive
+PANCAN@CP466722@ATM@Genome integrity@84@819@¬d3p14.2 & MAPK_only-DOWN | ¬d3p14.2 & dXq28@0.21@0.405@Sensitive
+PANCAN@Crizotinib@MET, ALK@RTK signaling@51@344@¬d(SDHD) & ¬d(ARID1B,MAP3K4,MLLT4) & ¬d17p13.1 & dXq21.33@0.256@0.412@Sensitive
+PANCAN@CUDC-101@HDAC, EGFR@chromain  histone acetylation@78@805@¬d(BNC2,CDKN2A,JAK2,PSIP1) & dXq22.3@0.168@0.218@Sensitive
+PANCAN@CX-5461@RNA Pol I@other@517@381@MLL2 | a(MYCN) | JAK-STAT-UP | MAPK_only-DOWN@0.782@0.292@Sensitive
+PANCAN@Cyclopamine@SMO@other@60@326@¬d(CHD3,GPS2,TP53) & dXq28 & ¬d(PABPC3,SACS,ZMYM2)@0.276@0.4@Sensitive
+PANCAN@Dasatinib@ABL, SRC, KIT, PDGFR@ABL signaling@130@255@¬TP53 & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d1p35.3@0.471@0.308@Sensitive
+PANCAN@DMOG@Prolyl-4-Hydroxylase@other@74@786@d(STK11) | d(PCDH18) | a(PIP5K1A,SETDB1) | a(INPP4A)@0.152@0.338@Sensitive
+PANCAN@Docetaxel@Microtubules@cytoskeleton@65@769@d(FAT1,IRF2) & ¬d17p13.2 & dXp21.1@0.192@0.369@Sensitive
+PANCAN@Doxorubicin@DNA intercalating@DNA replication@62@792@d18q22.1 & ¬d16q23.1@0.117@0.274@Sensitive
+PANCAN@EHT 1864@Rac GTPases@cytoskeleton@83@826@TP53 & ¬a(KRAS) & ¬d(SYNCRIP,ZNF292) & ¬dXp21.1@0.138@0.313@Sensitive
+PANCAN@EKB-569@EGFR@EGFR signaling@116@785@EGFR | JAK-STAT-UP@0.411@0.198@Sensitive
+PANCAN@Elesclomol@HSP70@other@56@777@¬TP53 & d3p14.2 | d(FAT1,IRF2) & dXq22.3@0.13@0.375@Sensitive
+PANCAN@Embelin@XIAP@apoptosis regulation@61@794@¬d(SYNCRIP,ZNF292) & VEGF-UP | ¬d(FAT1,IRF2) & dXq28@0.153@0.426@Sensitive
+PANCAN@Epothilone B@Microtubules@cytoskeleton@58@796@a(MYC) & d(BNC2,CDKN2A,JAK2,PSIP1)@0.198@0.293@Sensitive
+PANCAN@Erlotinib@EGFR@EGFR signaling@64@298@¬d16q23.1 & d2q32.1 | ¬d(BMPR1A,FAS,PTEN) & d3p14.2@0.342@0.406@Sensitive
+PANCAN@Etoposide@TOP2@DNA replication@53@811@¬TP53 & ¬d16q23.1 & ¬H2O2-UP@0.103@0.34@Sensitive
+PANCAN@FH535@unknown @other@79@772@BRAF | CTNNB1 | d11q24.2 | a(RHEB)@0.17@0.38@Sensitive
+PANCAN@FK866@NAMPT@metabolism@10@877@EWSR1-FLI1 | d(CHD9,CNOT1,CYLD,MMP2,NUP93) | MAPK_PI3K-DOWN@0.046@0.7@Sensitive
+PANCAN@FMK@RSK@ERK MAPK signaling@113@664@NRAS & ¬d(SDHD) | ¬DDX3X & JAK-STAT-UP@0.485@0.292@Sensitive
+PANCAN@FTI-277@Farnesyl transferase (FNTA)@other@104@759@d(MED17) | d5q12.1 | a(CLTC,PPM1D) | a(BCL11A,REL,XPO1)@0.186@0.317@Sensitive
+PANCAN@Gefitinib@EGFR@EGFR signaling@116@714@a(EGFR) & ¬a(RHEB)@0.379@0.19@Sensitive
+PANCAN@Gemcitabine@DNA replication@DNA replication@55@794@d16q23.1 & ¬d3p14.2@0.108@0.327@Sensitive
+PANCAN@Genentech Cpd 10@AURKA, AURKB@mitosis@99@804@a(MYCN) | JAK-STAT-UP | MAPK_only-DOWN | MAPK_PI3K-DOWN@0.309@0.384@Sensitive
+PANCAN@GNF-2@ABL [T315I]@ABL signaling@50@336@ASPM | BCR-ABL | IL-1-DOWN@0.225@0.18@Sensitive
+PANCAN@GSK1070916@AURKB@mitosis@154@721@MLL2 | JAK-STAT-UP | MAPK_only-DOWN | TNFa-DOWN@0.399@0.435@Sensitive
+PANCAN@GSK-1904529A@IGF1R@IGFR signaling@107@747@ARID1A | a(RAD21)@0.184@0.262@Sensitive
+PANCAN@GSK2126458@PI3K, MTOR@PI3K signaling@94@808@PTPN11 | XPO1 | JAK-STAT-UP | MAPK_only-DOWN@0.413@0.33@Sensitive
+PANCAN@GSK269962A@ROCK1, ROCK2@cytoskeleton@110@804@¬d8p21.1 & ¬d(SRGAP3) & dXq28@0.182@0.282@Sensitive
+PANCAN@GSK429286A@ROCK2@cytoskeleton@119@784@d19q13.43 | d14q24.1 | JAK-STAT-UP | MAPK_PI3K-DOWN@0.353@0.345@Sensitive
+PANCAN@GSK-650394@SGK3@other@73@772@CTNNB1 | FLT3 | XRN1 | a(MYC)@0.178@0.438@Sensitive
+PANCAN@GSK690693@AKT@PI3K signaling@314@586@PIK3CA | PTEN | JAK-STAT-UP | MAPK_only-DOWN@0.559@0.379@Sensitive
+PANCAN@GW-2580@CSF1R (cFMS)@RTK signaling@113@789@MLL2 | d12p12.3 | a(MACF1)@0.224@0.283@Sensitive
+PANCAN@GW 441756@NTRK1@RTK signaling@117@714@¬TP53 & ¬d8p23.3 & ¬d(FAT1,IRF2)@0.203@0.299@Sensitive
+PANCAN@GW843682X@PLK1@mitosis@15@374@d16q23.1 & ¬dXp21.1 | d(BNC2,CDKN2A,JAK2,PSIP1) & JAK-STAT-UP@0.125@0.667@Sensitive
+PANCAN@HG-5-113-01@LOK, LTK, TRCB, ABL(T315I)@ABL signaling@42@445@EWSR1-FLI1 | XRN1 | a(MYCN)@0.235@0.286@Sensitive
+PANCAN@HG-5-88-01@EGFR, ADCK4@EGFR signaling@57@429@¬d3p22.1 & d(ATRX) & ¬d(ERCC3)@0.19@0.333@Sensitive
+PANCAN@HG-6-64-1@BRAFV600E, TAK, MAP4K5@ERK MAPK signaling@68@791@ASXL1 & ¬d(FAT1,IRF2) | ¬d3p14.2 & dXq28@0.158@0.368@Sensitive
+PANCAN@I-BET-762@BRD2, BRD3, BRD4@chromatin  other@166@732@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.473@0.422@Sensitive
+PANCAN@KIN001-244@PDPK1 (PDK1)@PI3K signaling@96@803@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.259@0.396@Sensitive
+PANCAN@NPK76-II-72-1@PLK3@mitosis@90@810@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.311@0.511@Sensitive
+PANCAN@PIK-93@PI4K, PI3K@PI3K signaling@149@751@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.399@0.396@Sensitive
+PANCAN@QL-XI-92@DDR1@RTK signaling@331@571@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.57@0.257@Sensitive
+PANCAN@Y-39983@ROCK@cytoskeleton@358@542@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.669@0.277@Sensitive
+PANCAN@Imatinib@ABL, KIT, PDGFR@ABL signaling@48@348@BCR-ABL@0.8@0.083@Sensitive
+PANCAN@IOX2@EGLN1@other@119@796@EZH2 | NF2 | PTEN@0.246@0.269@Sensitive
+PANCAN@JNJ-26854165@MDM2@p53 pathway@76@827@¬TP53 & ¬d18q22.1 & ¬d3p14.2@0.16@0.408@Sensitive
+PANCAN@JNK-9L@JNK@JNK and p38 signaling@69@794@¬d18q21.31 & d16q23.1 & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬TGFB-UP@0.13@0.232@Sensitive
+PANCAN@JNK Inhibitor VIII@JNK@JNK and p38 signaling@95@739@¬d(BNC2,CDKN2A,JAK2,PSIP1) & a(IL7R) | d(MED17) & d(BNC2,CDKN2A,JAK2,PSIP1)@0.215@0.242@Sensitive
+PANCAN@JQ12@HDAC@chromain  histone acetylation@83@774@¬TP53 & dXq28 | d(MED17) & ¬dXp21.1@0.2@0.337@Sensitive
+PANCAN@JQ1@BRD4@chromatin  other@173@728@JAK-STAT-UP | TLR-UP | Wnt-UP | MAPK_PI3K-DOWN@0.419@0.312@Sensitive
+PANCAN@JW-7-24-1@LCK@other@125@777@MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.356@0.424@Sensitive
+PANCAN@JW-7-52-1@MTOR@TOR signaling@32@342@d22q11.1 | d(ING1,IRS2,TFDP1) | PI3K_only-UP@0.277@0.406@Sensitive
+PANCAN@KIN001-055@JAK3, MNK1@other@99@801@d8p23.3 & ¬d(SYNCRIP,ZNF292)@0.179@0.283@Sensitive
+PANCAN@KIN001-102@AKT1@PI3K signaling@103@799@JAK-STAT-UP | H2O2-DOWN | MAPK_only-DOWN@0.468@0.35@Sensitive
+PANCAN@KIN001-135@IKKE@other@38@354@¬d18q22.1 & ¬d(CASP1),d11q22.3 & ¬d(CHD9,CNOT1,CYLD,MMP2,NUP93) & dXp21.1@0.195@0.447@Sensitive
+PANCAN@KIN001-236@TIE2@other@128@772@XPO1 | JAK-STAT-UP | MAPK_only-DOWN | MAPK_PI3K-DOWN@0.495@0.352@Sensitive
+PANCAN@KIN001-260@IKK@other@245@654@MLL2 | JAK-STAT-UP | TLR-UP | MAPK_only-DOWN@0.543@0.363@Sensitive
+PANCAN@KIN001-266@MAP3K8 (COT)@other@83@817@PCSK5 | d(CACNA1D,WNT5A),d3p21.1 | JAK-STAT-UP@0.152@0.277@Sensitive
+PANCAN@KIN001-270@CDK9@cell cycle@115@785@¬d(SMAD4),d18q21.2 & ¬d(CACNA1D,WNT5A),d3p21.1 & dXq28@0.232@0.339@Sensitive
+PANCAN@KU-55933@ATM@Genome integrity@84@751@MLL2 | TET2@0.196@0.226@Sensitive
+PANCAN@Lapatinib@ERBB2, EGFR@EGFR signaling@61@326@TP53 & d18q22.1 & ¬d(BMPR1A,FAS,PTEN)@0.362@0.344@Sensitive
+PANCAN@LAQ824@HDAC@chromain  histone acetylation@84@771@MLL-AFF1 | d(CHD3,GPS2,TP53) | JAK-STAT-UP | MAPK_only-DOWN@0.201@0.333@Sensitive
+PANCAN@Lenalidomide@TNFA@other@105@730@d16q23.1 & ¬a(KRAS) & ¬d4q22.1 & ¬d21q11.2@0.266@0.448@Sensitive
+PANCAN@LFM-A13@BTK@other@89@764@¬d18q21.31 & dXq28 & ¬d21q11.2@0.179@0.337@Sensitive
+PANCAN@LY317615@PRKCB (PKCbeta)@other@98@803@¬d3p14.1 & MAPK_only-DOWN | BRCA2 & ¬POLR2B@0.259@0.153@Sensitive
+PANCAN@Masitinib@KIT@RTK signaling@88@813@¬d3p14.2 & dXq28 & ¬d21q11.2@0.203@0.307@Sensitive
+PANCAN@Methotrexate@Dihydrofolate reductase (DHFR)@DNA replication@127@706@MLL2 | JAK-STAT-UP | TLR-UP | MAPK_PI3K-DOWN@0.41@0.535@Sensitive
+PANCAN@MG-132@Proteasome@other@27@363@a(CHD9,CYLD) | a(RHEB) | d(ARID1B,MAP3K4,MLLT4) | VEGF-UP@0.215@0.63@Sensitive
+PANCAN@Midostaurin@KIT@RTK signaling@74@790@¬d(FAT1,IRF2) & dXq22.3@0.127@0.297@Sensitive
+PANCAN@Mitomycin C@DNA crosslinker@DNA replication@68@787@¬d18q22.1 & ¬d8p23.3 & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(SYNCRIP,ZNF292)@0.129@0.324@Sensitive
+PANCAN@MK-2206@AKT1, AKT2@PI3K signaling@95@717@¬d18q22.1 & d16q23.1 & ¬d(FAT1,IRF2)@0.164@0.211@Sensitive
+PANCAN@MLN4924@NEDD8-activating enzyme@other@47@646@¬d(ARID1B,MAP3K4,MLLT4) & ¬d3p22.1 & d3p14.2@0.125@0.319@Sensitive
+PANCAN@MP470@PDGFR@RTK signaling@127@769@¬TP53 & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(ARID1B,MAP3K4,MLLT4) & ¬H2O2-UP@0.242@0.283@Sensitive
+PANCAN@MPS-1-IN-1@MPS1@mitosis@56@842@EWSR1-FLI1 | d7q31.1 | a(PIP5K1A,SETDB1) | a(MDM4,PIK3C2B,ZC3H11A)@0.159@0.321@Sensitive
+PANCAN@MS-275@HDAC@chromain  histone acetylation@25@366@d(EXT2) & ¬dXp11.3@0.267@0.16@Sensitive
+PANCAN@NG-25@MAP3K7 (TAK1)@other@94@806@¬KRAS & ¬d3p22.1 & d(ATRX) & ¬d21q11.2@0.205@0.383@Sensitive
+PANCAN@Nilotinib@ABL@ABL signaling@115@675@¬a(CCT5,TERT,TRIO) & ¬d3p14.2 & dXp11.3 & ¬d21q11.2@0.219@0.287@Sensitive
+PANCAN@NSC-207895@MDM4@p53 pathway@60@835@¬KRAS & ¬d18q21.31 & d16q23.1 & ¬d21q11.2@0.135@0.417@Sensitive
+PANCAN@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@103@756@TP53 & ¬d(ARID1B,MAP3K4,MLLT4) & dXp11.3@0.183@0.301@Sensitive
+PANCAN@NU-7441@PRKDC (DNAPK)@Genome integrity@75@758@MLL2 | a(CUL2,EPC1)@0.154@0.24@Sensitive
+PANCAN@Nutlin-3a@MDM2@p53 pathway@232@604@CTNNB1 | ¬TP53@0.622@0.789@Sensitive
+PANCAN@NVP-BEZ235@PI3K (Class 1) and MTORC1/2@PI3K signaling@66@763@MYH11 | a7q22.1 | VEGF-UP | MAPK_only-DOWN@0.167@0.288@Sensitive
+PANCAN@NVP-BHG712@EPHB4@RTK signaling@102@798@ASXL1 | MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.333@0.51@Sensitive
+PANCAN@NVP-TAE684@ALK@RTK signaling@37@358@d16q23.1 & ¬d(ERCC3) & ¬d(PABPC3,SACS,ZMYM2) & ¬TLR-UP@0.203@0.432@Sensitive
+PANCAN@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@apoptosis regulation@65@782@BRAF | a(CCND1,CTTN)@0.153@0.354@Sensitive
+PANCAN@Olaparib@PARP1, PARP2@Genome integrity@98@794@EWSR1-FLI1 | EWSR1-X | TLR-DOWN@0.359@0.235@Sensitive
+PANCAN@OSI-906@IGF1R@IGFR signaling@122@728@EWSR1-FLI1 | KRAS | NOTCH1 | a(MYCN)@0.33@0.475@Sensitive
+PANCAN@OSI-930@KIT, VEGFR, PDGFR@RTK signaling@108@793@¬d(LARP4B) & ¬d(CACNA1D,WNT5A),d3p21.1 & dXq22.3 & ¬d20p12.1@0.283@0.454@Sensitive
+PANCAN@OSU-03012@PDPK1 (PDK1)@PI3K signaling@80@773@a(MYC) & dXp11.3 | SACS & ¬d8p23.3@0.246@0.188@Sensitive
+PANCAN@PAC-1@CASP3 agonist@apoptosis regulation@61@781@¬d(FAT1,IRF2) & ¬d(ARID1B,MAP3K4,MLLT4) & dXq28@0.18@0.361@Sensitive
+PANCAN@Paclitaxel@Microtubules@cytoskeleton@26@363@d18q22.1 & ¬dXq22.3@0.226@0.462@Sensitive
+PANCAN@Parthenolide@NFKB1@other@39@353@MLL2 & ¬a(CCT5,TERT,TRIO)@0.317@0.333@Sensitive
+PANCAN@Pazopanib@VEGFR, PDGFRA, PDGFRB, KIT@RTK signaling@93@758@CDKN1B | FGFR2 | TGFB-UP@0.298@0.183@Sensitive
+PANCAN@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@145@683@BRAF | KRAS | NRAS@0.445@0.676@Sensitive
+PANCAN@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@280@603@BRAF | KRAS | NRAS@0.624@0.521@Sensitive
+PANCAN@PD-0332991@CDK4, CDK6@cell cycle@69@743@¬a(MYC) & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(FAT1,IRF2) & ¬d3p14.2@0.173@0.435@Sensitive
+PANCAN@PD-173074@FGFR1, FGFR3@RTK signaling@114@722@¬d3p14.2 & dXq28@0.248@0.316@Sensitive
+PANCAN@PF-4708671@RPS6KB1 (p70S6KA)@TOR signaling@85@808@a8q24.13 & ¬a20q13.13@0.186@0.129@Sensitive
+PANCAN@PF-562271@FAK@cytoskeleton@70@777@¬TP53 & dXp21.1 | BRAF & IL-1-UP@0.15@0.3@Sensitive
+PANCAN@PFI-1@BRD2, BRD3, BRD4@chromatin  other@88@829@MLL2 | NCOR2 | d15q14 | JAK-STAT-UP@0.173@0.318@Sensitive
+PANCAN@PHA-665752@MET@RTK signaling@61@335@¬d(SDHD) & ¬d(POT1) & ¬d(SRGAP3) & dXq22.3@0.298@0.459@Sensitive
+PANCAN@PHA-793887@CDK-pan@cell cycle@101@801@MLL2 | TP53BP1 | JAK-STAT-UP | MAPK_only-DOWN@0.333@0.515@Sensitive
+PANCAN@Phenformin@AAPK1 (AMPK) agonist@metabolism@100@792@¬d(CHD3,GPS2,TP53) & dXq28 & ¬d20p12.1@0.194@0.32@Sensitive
+PANCAN@PI-103@PI3Ka, PRKDC (DNAPK)@PI3K signaling@77@816@¬TP53 & ¬a(CCT5,TERT,TRIO) & ¬d3p14.2 & ¬TGFB-UP@0.18@0.429@Sensitive
+PANCAN@piperlongumine@Increases ROS levels@other@88@826@¬a(CCND1,CTTN) & a(EGFR) | BRCA2 & d(ARFGAP3)@0.171@0.148@Sensitive
+PANCAN@PXD101, Belinostat@HDAC@chromain  histone acetylation@77@798@¬d(ARID1B,MAP3K4,MLLT4) & dXq22.3 & ¬d(ERCC3)@0.133@0.312@Sensitive
+PANCAN@Pyrimethamine@Dihydrofolate reductase (DHFR)@DNA replication@36@355@GATA3 | MECOM | d4q22.1 | MAPK_only-DOWN@0.283@0.417@Sensitive
+PANCAN@QL-VIII-58@MTOR, ATR@TOR signaling@31@458@¬TP53 & ¬a(MYC) & ¬d3p14.2 & ¬a(MYCN)@0.116@0.355@Sensitive
+PANCAN@QL-XII-47@BTK, BMX@other@52@848@¬d(CHD9,CNOT1,CYLD,MMP2,NUP93) & ¬d(FAT1,IRF2) & dXq21.33 & ¬d20p12.1@0.147@0.385@Sensitive
+PANCAN@QL-XII-61@BTK@other@140@325@MACF1 | JAK-STAT-UP | TLR-UP | MAPK_PI3K-DOWN@0.667@0.229@Sensitive
+PANCAN@QS11@ARFGAP@other@64@790@MLL2 & ¬d8p23.3 | ¬d(BNC2,CDKN2A,JAK2,PSIP1) & dXp11.3@0.111@0.281@Sensitive
+PANCAN@Rapamycin@MTOR@TOR signaling@68@286@¬d(LARP4B) & d(SYNCRIP,ZNF292) & ¬d(RPL22) & ¬d17p13.2@0.386@0.5@Sensitive
+PANCAN@RO-3306@CDK1@cell cycle@106@730@TP53 & ¬d(APC) & ¬d17p11.2 & dXp11.3@0.207@0.292@Sensitive
+PANCAN@Roscovitine@CDKs@cell cycle@35@352@d(CASP1),d11q22.3 & d8p23.3 | MLL2 & ¬a(CCT5,TERT,TRIO)@0.239@0.314@Sensitive
+PANCAN@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@248@658@¬d8p23.1 & ¬d(FAT1,IRF2) & dXq21.33@0.377@0.242@Sensitive
+PANCAN@Salubrinal@GADD34-PP1C @other@28@360@¬d(FAT1,IRF2) & ¬d(SRGAP3) & dXq28@0.152@0.429@Sensitive
+PANCAN@SB 216763@GSK3A, GSK3B@WNT signaling@91@642@¬d(SYNCRIP,ZNF292) & dXq22.3@0.204@0.33@Sensitive
+PANCAN@SB-505124@TGFR1 (ALK5)@other@104@810@¬KRAS & ¬TP53 & ¬d18q22.1 & ¬d(SDHD)@0.201@0.375@Sensitive
+PANCAN@SB52334@ALK5@RTK signaling@110@789@BRAF | EWSR1-FLI1 | MLL3 | TLR-DOWN@0.24@0.373@Sensitive
+PANCAN@SB-715992@KIF11@mitosis@32@870@d(BMPR1A,FAS,PTEN) & ¬d(FAT1,IRF2) | PTEN & d(BNC2,CDKN2A,JAK2,PSIP1)@0.084@0.219@Sensitive
+PANCAN@SGC0946@Q8TEK3 (DOT1L)@chromatin  histone methylation@88@808@¬d(FAT1,IRF2) & dXp21.1 & ¬d(ERCC3)@0.162@0.341@Sensitive
+PANCAN@Shikonin@unknown@other@82@778@¬TP53 & ¬d(MED17) & d(BNC2,CDKN2A,JAK2,PSIP1)@0.158@0.317@Sensitive
+PANCAN@SL 0101-1@RSK, AURKB, PIM3@ERK MAPK signaling@85@737@¬ARAP3 & a(MYC) | d19q13.33 & IL-1-DOWN@0.16@0.282@Sensitive
+PANCAN@SN-38@TOP1@DNA replication@67@850@EWSR1-FLI1 | MLL2 | TLR-DOWN@0.185@0.418@Sensitive
+PANCAN@SNX-2112@HSP90@other@40@852@¬TP53 & ¬a(MYC) & ¬a(IL7R) & ¬d3p14.2@0.106@0.475@Sensitive
+PANCAN@Sorafenib@PDGFRA, PDGFRB, KDR, KIT, FLT3@RTK signaling@31@362@FLT3 | d12p12.3@0.3@0.194@Sensitive
+PANCAN@STF-62247@stimulates autophagy@other@155@743@d(CASP1),d11q22.3 | JAK-STAT-UP | MAPK_only-DOWN | MAPK_PI3K-DOWN@0.406@0.348@Sensitive
+PANCAN@S-Trityl-L-cysteine@KIF11@mitosis@17@370@¬d3p14.2 & ¬d(CHD3,GPS2,TP53) & dXq28@0.134@0.529@Sensitive
+PANCAN@Sunitinib@PDGFRA, PDGFRB, KDR, KIT, FLT3@RTK signaling@26@362@¬d(SDHD) & ¬d3p14.2 & dXq22.3@0.143@0.462@Sensitive
+PANCAN@T0901317@LXR@other@115@780@MLL2 | d7p12.1 | JAK-STAT-UP@0.328@0.383@Sensitive
+PANCAN@Tamoxifen@ER@other@108@806@CREBBP | MLL | PIK3CA | MAPK_only-DOWN@0.222@0.343@Sensitive
+PANCAN@Temozolomide@DNA akylating agent@DNA replication@101@795@¬APC & ¬a(MYC) & ¬d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(FAT1,IRF2)@0.196@0.376@Sensitive
+PANCAN@Temsirolimus@MTOR@TOR signaling@114@708@MYH11 | a(ACTB,CARD11,PMS2,RAC1) | d6q23.3 | MAPK_only-DOWN@0.229@0.351@Sensitive
+PANCAN@TG101348@JAK2@other@113@789@¬d(SMAD4),d18q21.2 & ¬d(ARID1B,MAP3K4,MLLT4) & dXq21.33 & ¬d20p12.1@0.266@0.416@Sensitive
+PANCAN@TGX221@PI3Kbeta@PI3K signaling@55@335@MGA | PTEN | d8p21.1 | H2O2-UP@0.317@0.473@Sensitive
+PANCAN@Thapsigargin@sarco-endoplasmic reticulum Ca2+-ATPases@other@57@783@dXp11.3 & ¬dXq28@0.129@0.281@Sensitive
+PANCAN@THZ-2-102-1@CDK7@cell cycle@76@807@EWSR1-X | MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.26@0.513@Sensitive
+PANCAN@THZ-2-49@CDK9@cell cycle@37@860@¬d8p23.3 & ¬d16q23.1 & d(SYNCRIP,ZNF292)@0.126@0.459@Sensitive
+PANCAN@Tipifarnib@Farnesyl-transferase (FNTA)@other@99@753@¬TP53 & ¬d8p23.3 & ¬a3q26.1 & ¬d(RPL22)@0.169@0.283@Sensitive
+PANCAN@TL-1-85@MAP3K7 (TAK1)@other@81@819@ARID4A & ¬PIK3R1 | ¬d3p14.2 & dXq28@0.188@0.383@Sensitive
+PANCAN@TPCA-1@IKK@other@112@788@MLL2 | JAK-STAT-UP | TLR-UP@0.338@0.446@Sensitive
+PANCAN@Tubastatin A@HDAC6@chromain  histone acetylation@301@596@MLL2 | NRAS | JAK-STAT-UP | MAPK_only-DOWN@0.572@0.355@Sensitive
+PANCAN@TW 37@BCL2, BCL2L1@apoptosis regulation@70@835@NCOR1 | PTEN | SMARCA4 | TLR-DOWN@0.171@0.457@Sensitive
+PANCAN@UNC0638@G9a(EHMT2), GLP(EHMT1)@chromatin  histone methylation@74@843@JAK-STAT-UP | Wnt-UP | MAPK_PI3K-DOWN | TLR-DOWN@0.2@0.378@Sensitive
+PANCAN@UNC1215@LMBL3@other@95@802@¬d(BNC2,CDKN2A,JAK2,PSIP1) & dXp11.3 | ¬d(CASP1),d11q22.3 & d17p13.1@0.191@0.326@Sensitive
+PANCAN@Vinblastine@Microtubules@cytoskeleton@63@771@¬d(FAT1,IRF2) & JAK-STAT-UP | ¬TP53 & d16q23.1@0.132@0.254@Sensitive
+PANCAN@Vinorelbine@Microtubules@cytoskeleton@51@813@d16q23.1 & ¬d(ATRX)@0.087@0.294@Sensitive
+PANCAN@Vismodegib@SMO@other@100@734@¬d8p23.3 & ¬d(SRGAP3) & dXq21.33 & ¬d21q11.2@0.212@0.29@Sensitive
+PANCAN@VNLG/124@HDAC, RAR @chromain  histone acetylation@131@766@CDKN1B | TET2 | JAK-STAT-UP | MAPK_only-DOWN@0.575@0.351@Sensitive
+PANCAN@Vorinostat@HDAC inhibitor Class I, IIa, IIb, IV@chromain  histone acetylation@60@775@¬TP53 & dXp22.32@0.13@0.25@Sensitive
+PANCAN@VX-680@AURKA, AURKB, AURKC, FLT3, ABL1, JAK2@mitosis@82@301@¬d(POT1) & ¬d4q22.1 & dXq28 & ¬d(PABPC3,SACS,ZMYM2)@0.365@0.378@Sensitive
+PANCAN@VX-702@p38@JNK and p38 signaling@105@726@HLA-A | JAK-STAT-UP | TLR-UP | TNFa-DOWN@0.321@0.333@Sensitive
+PANCAN@WH-4-023@SRC family, ABL@ABL signaling@84@302@BCR-ABL | CREBBP | NF2@0.452@0.226@Sensitive
+PANCAN@WZ-1-84@BMX@other@53@335@TP53 & d18q22.1 & ¬dXq22.3@0.395@0.283@Sensitive
+PANCAN@XAV 939@TNKS1 (tankyrase-1)@WNT signaling@98@807@a(MECOM) | d20p12.1@0.163@0.306@Sensitive
+PANCAN@XL-184@VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, Tie2,AXL@RTK signaling@83@817@JAK-STAT-UP & ¬IL-1-DOWN | ¬d(SYNCRIP,ZNF292) & dXq22.3@0.174@0.41@Sensitive
+PANCAN@XL-880@MET@RTK signaling@78@819@¬d3p14.2 & dXq22.3 | ¬ACVR2A & MLL-AFF1@0.141@0.333@Sensitive
+PANCAN@XMD11-85h@BRSK2, FLT4, MARK4, PRKCD, RET, SPRK1@other@46@441@d(ARID1B,MAP3K4,MLLT4) | JAK-STAT-UP@0.173@0.37@Sensitive
+PANCAN@XMD13-2@RIPK@other@90@811@MLL2 | JAK-STAT-UP | IL-1-DOWN | MAPK_only-DOWN@0.264@0.511@Sensitive
+PANCAN@XMD14-99@EPHB3, CAMK1@RTK signaling@159@743@CREBBP | JAK-STAT-UP | MAPK_only-DOWN@0.485@0.296@Sensitive
+PANCAN@XMD15-27@CAMK2B, CLK2, DYRK1A, MAST1, STK39@other@132@770@¬d(SRGAP3) & dXq28@0.235@0.348@Sensitive
+PANCAN@XMD8-85@MAP2K5 (ERK5)@other@36@351@¬d(FAT1,IRF2) & dXq28 & ¬d(RB1)@0.197@0.417@Sensitive
+PANCAN@XMD8-92@MAP2K5 (ERK5)@other@38@450@EP300 | JAK-STAT-UP@0.231@0.316@Sensitive
+PANCAN@YK 4-279@RNA helicase A@other@57@726@¬d18q22.1 & d3p14.2@0.104@0.246@Sensitive
+PANCAN@YM155@BIRC5 (Survivin)@apoptosis regulation@29@840@d(FAT1,IRF2) & ¬dXp22.32 | a(CCNE1) & d16q23.1@0.07@0.379@Sensitive
+PANCAN@YM201636@FYV1@other@73@827@EWSR1-FLI1 | d7p12.1 | Wnt-UP | MAPK_only-DOWN@0.385@0.411@Sensitive
+PANCAN@ZG-10@IRAK1@other@38@449@¬KRAS & ¬a(MYC) & ¬d8p21.1 & d(SYNCRIP,ZNF292)@0.146@0.395@Sensitive
+PANCAN@Zibotentan, ZD4054@Endothelin A Receptor@other@97@803@EZH2 | JAK-STAT-UP | MAPK_only-DOWN@0.472@0.351@Sensitive
+PANCAN@Z-LLNle-CHO@g-secretase@other@28@360@¬a(ACTB,CARD11,PMS2,RAC1) & a(AKAP9) | d16q23.1 & d(BNC2,CDKN2A,JAK2,PSIP1)@0.159@0.393@Sensitive
+PANCAN@ZM-447439@AURKB@mitosis@78@710@XRN1 | JAK-STAT-UP | MAPK_only-DOWN@0.311@0.295@Sensitive
+PANCAN@ZSTK474@PI3K@PI3K signaling@102@800@ASXL1 | MLL2 | JAK-STAT-UP | MAPK_only-DOWN@0.295@0.451@Sensitive
+SKCM@17-AAG@HSP90@other@8@34@d10q23.31@0.5@0.375@Sensitive
+SKCM@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@30@19@a(FOXP1,MITF) | d10q23.31 | TGFB-DOWN@0.941@0.533@Sensitive
+SKCM@A-770041@SRC family@other@6@11@TGFB-UP | TGFB-DOWN@1.0@0.667@Sensitive
+SKCM@ABT-888@PARP1, PARP2@Genome integrity@7@38@d16q23.1 & ¬d10q26.3@0.5@0.286@Sensitive
+SKCM@AMG-706@VEGFR, RET, c-KIT, PDGFR@RTK signaling@8@34@BAZ2B@1.0@0.125@Sensitive
+SKCM@BMS-536924@IGF1R@IGFR signaling@7@45@BAZ2B@1.0@0.143@Sensitive
+SKCM@GW 441756@NTRK1@RTK signaling@6@38@BAZ2B@1.0@0.167@Sensitive
+SKCM@Nilotinib@ABL@ABL signaling@5@39@BAZ2B@1.0@0.2@Sensitive
+SKCM@AS605240@PI3Kgamma@PI3K signaling@15@31@¬TP53 & ¬d16q23.1 & ¬a(FOXP1,MITF) & ¬Wnt-DOWN@0.667@0.8@Sensitive
+SKCM@ATRA@Retinoic acid and retinoid X receptor agonist@other@5@40@d4p15.2@0.5@0.2@Sensitive
+SKCM@AUY922@HSP90@other@5@43@¬BPTF & ¬EP300 & TGFB-UP@1.0@0.6@Sensitive
+SKCM@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@36@13@¬BPTF & ¬PTEN & ¬d16q23.1 & ¬a(KRAS)@0.931@0.75@Sensitive
+SKCM@AZD6482@PI3Kbeta@PI3K signaling@5@41@¬NRAS & ¬d10q23.31 & VEGF-UP & ¬TGFB-DOWN@0.4@0.4@Sensitive
+SKCM@BMN-673@PARP1@Genome integrity@5@46@¬d(BNC2,CDKN2A,JAK2,PSIP1) & VEGF-UP@1.0@0.6@Sensitive
+SKCM@BMS-754807@IGF1R@IGFR signaling@7@42@¬d10q23.31 & TGFB-UP | NRAS & d(BNC2,CDKN2A,JAK2,PSIP1)@0.5@0.714@Sensitive
+SKCM@Bortezomib@Proteasome@other@5@11@CLASP2@1.0@0.2@Sensitive
+SKCM@Bryostatin 1@PRKC@other@10@37@NCOR1 | STK11 | d(CASP1)@0.714@0.5@Sensitive
+SKCM@CCT007093@PPM1D@other@5@44@d16p13.3 | d15q15.1 | a(MYC) | IL-1-UP@1.0@0.2@Sensitive
+SKCM@CEP-701@FLT3, JAK2, NTRK1, RET@RTK signaling@7@38@¬NF1 & ¬PTEN & TP53 & ¬a(FOXP1,MITF)@0.556@0.714@Sensitive
+SKCM@Cetuximab@EGFR@EGFR signaling@6@42@¬ELF1 & TP53 & ¬d(BNC2,CDKN2A,JAK2,PSIP1) & ¬VEGF-UP@0.5@0.5@Sensitive
+SKCM@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@27@18@¬EZH2 & ¬PTEN & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬MAPK_only-UP@0.913@0.778@Sensitive
+SKCM@Cisplatin@DNA crosslinker@DNA replication@5@40@¬ZNF638 & TGFB-UP & ¬TNFa-UP & ¬Wnt-DOWN@1.0@0.2@Sensitive
+SKCM@CX-5461@RNA Pol I@other@22@28@EZH2 | d14q32.2 | TGFB-UP@0.909@0.455@Sensitive
+SKCM@Dabrafenib@BRAF@ERK MAPK signaling@34@10@BRAF & ¬MAPK_only-UP@0.969@0.912@Sensitive
+SKCM@Dasatinib@ABL, SRC, KIT, PDGFR@ABL signaling@10@7@d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d11q24.2 | MECOM & ¬d22q13.31@1.0@0.8@Sensitive
+SKCM@Doxorubicin@DNA intercalating@DNA replication@6@43@¬ZNF638 & ¬H2O2-UP & TGFB-UP@1.0@0.333@Sensitive
+SKCM@Embelin@XIAP@apoptosis regulation@9@40@¬d16p13.3 & d10q23.31 & ¬H2O2-UP@1.0@0.444@Sensitive
+SKCM@EX-527@SIRT1@other@5@45@¬NF1 & TP53 & ¬a(FOXP1,MITF) & ¬VEGF-UP@0.375@0.6@Sensitive
+SKCM@FH535@unknown @other@16@33@¬ARID1B & ¬STK11 & d(CASP1)@0.8@0.25@Sensitive
+SKCM@FMK@RSK@ERK MAPK signaling@7@40@EP300 | FAM123B | PTEN | TAOK1@0.625@0.714@Sensitive
+SKCM@FR-180204@ERK@ERK MAPK signaling@9@41@ARHGAP29 | EP300 | MLL3 | TAOK1@1.0@0.111@Sensitive
+SKCM@FTI-277@Farnesyl transferase (FNTA)@other@7@42@¬TP53 & d16q23.1@0.6@0.429@Sensitive
+SKCM@GSK-1904529A@IGF1R@IGFR signaling@6@43@¬BRAF & d16q23.1 | NF1 & ¬TP53@1.0@0.667@Sensitive
+SKCM@GSK269962A@ROCK1, ROCK2@cytoskeleton@5@47@CLASP2 | EP300 | d16p13.3 | TNFa-UP@1.0@1.0@Sensitive
+SKCM@IOX2@EGLN1@other@8@44@BRAF & TP53 & ¬d16q23.1 & ¬Wnt-DOWN@0.5@0.5@Sensitive
+SKCM@JNK-9L@JNK@JNK and p38 signaling@6@42@NRAS & d(BNC2,CDKN2A,JAK2,PSIP1) & ¬d(CASP1)@0.4@0.333@Sensitive
+SKCM@JNK Inhibitor VIII@JNK@JNK and p38 signaling@6@36@ANK3 | BAZ2B | EP300@1.0@0.5@Sensitive
+SKCM@KIN001-260@IKK@other@10@40@EZH2 & ¬PCDH18 | d10q26.3 & VEGF-UP@1.0@0.4@Sensitive
+SKCM@KIN001-266@MAP3K8 (COT)@other@5@45@EZH2 & ¬LRP6 & ¬MAP3K4@1.0@0.2@Sensitive
+SKCM@LAQ824@HDAC@chromain  histone acetylation@5@44@BRAF & ¬TP53 & ¬d16q23.1 & ¬VEGF-UP@0.333@0.8@Sensitive
+SKCM@Lenalidomide@TNFA@other@5@40@¬NRAS & PLCB1 | d(BNC2,CDKN2A,JAK2,PSIP1) & TGFB-UP@1.0@0.8@Sensitive
+SKCM@Masitinib@KIT@RTK signaling@7@43@d(BNC2,CDKN2A,JAK2,PSIP1) & H2O2-UP | ARID2 & ¬d16q23.1@0.833@0.714@Sensitive
+SKCM@MG-132@Proteasome@other@7@10@¬ARID2 & ¬MECOM & d(BNC2,CDKN2A,JAK2,PSIP1)@0.857@0.857@Sensitive
+SKCM@NSC-87877@PTPN6 (SHP-1), PTPN11 (SHP-2)@other@10@39@BPTF | MAP3K4 | TGFB-DOWN | Wnt-DOWN@0.667@0.8@Sensitive
+SKCM@Nutlin-3a@MDM2@p53 pathway@23@19@¬TP53 & ¬d(CASP1) | CDKN2A & d(BNC2,CDKN2A,JAK2,PSIP1)@0.88@0.957@Sensitive
+SKCM@Obatoclax Mesylate@BCL2, BCL2L1, MCL1@apoptosis regulation@16@33@¬ARHGAP29 & EZH2 | ¬d10q23.31 & TGFB-UP@1.0@0.312@Sensitive
+SKCM@Olaparib@PARP1, PARP2@Genome integrity@6@39@BAZ2B | EP300 | RB1 | d16q23.1@0.5@0.667@Sensitive
+SKCM@OSI-906@IGF1R@IGFR signaling@5@43@EP300 | NCOR1 | IL-1-UP@1.0@0.6@Sensitive
+SKCM@Pazopanib@VEGFR, PDGFRA, PDGFRB, KIT@RTK signaling@6@43@DHX15 | FAM123B | PI3K_only-DOWN@0.8@0.667@Sensitive
+SKCM@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@30@10@¬PCDH18 & ¬PTEN & d(BNC2,CDKN2A,JAK2,PSIP1)@0.958@0.767@Sensitive
+SKCM@PF-4708671@RPS6KB1 (p70S6KA)@TOR signaling@6@43@ELF1 | FAM123B | PTEN | ZNF638@0.625@0.833@Sensitive
+SKCM@PFI-1@BRD2, BRD3, BRD4@chromatin  other@5@47@CLSPN | PTEN@0.5@0.6@Sensitive
+SKCM@Phenformin@AAPK1 (AMPK) agonist@metabolism@6@43@STK11 & d(BNC2,CDKN2A,JAK2,PSIP1) | EZH2 & ¬PCDH18@0.667@0.333@Sensitive
+SKCM@piperlongumine@Increases ROS levels@other@6@46@¬a(FOXP1,MITF) & TGFB-UP & ¬Wnt-DOWN@0.4@0.333@Sensitive
+SKCM@PLX4720@BRAF@ERK MAPK signaling@27@15@d(PAX5) | a(FOXP1,MITF) | TGFB-UP | TGFB-DOWN@0.889@0.593@Sensitive
+SKCM@QL-XII-61@BTK@other@11@20@¬PLCB1 & ¬TP53 & ¬d16q23.1 & ¬Wnt-DOWN@0.667@0.727@Sensitive
+SKCM@RDEA119@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@23@17@a(FOXP1,MITF)@1.0@0.217@Sensitive
+SKCM@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@20@32@PTEN | d17p13.2 | TGFB-UP@0.786@0.55@Sensitive
+SKCM@SB 216763@GSK3A, GSK3B@WNT signaling@5@36@TGFB-UP@0.5@0.4@Sensitive
+SKCM@SB-505124@TGFR1 (ALK5)@other@8@44@CEP290 | MLL3 | PCDH18 | d4p15.2@1.0@0.625@Sensitive
+SKCM@SB52334@ALK5@RTK signaling@12@38@RAC1 | d14q32.2@0.667@0.167@Sensitive
+SKCM@SB590885@BRAF@ERK MAPK signaling@27@11@BRAF & ¬MAPK_only-UP & ¬TNFa-UP@0.929@0.963@Sensitive
+SKCM@SGC0946@Q8TEK3 (DOT1L)@chromatin  histone methylation@5@44@VEGF-UP & Wnt-DOWN@0.333@0.2@Sensitive
+SKCM@Shikonin@unknown@other@8@41@¬MECOM & ¬TP53 & d16q23.1 & ¬d10q23.33@0.667@0.25@Sensitive
+SKCM@Temsirolimus@MTOR@TOR signaling@7@38@BAZ2B | EP300@1.0@0.286@Sensitive
+SKCM@TGX221@PI3Kbeta@PI3K signaling@5@12@BRAF & ¬a(MDM2,NUP107) & ¬TGFB-DOWN & ¬Wnt-DOWN@0.667@0.8@Sensitive
+SKCM@Tipifarnib@Farnesyl-transferase (FNTA)@other@5@43@ANK3 & d17p13.2 | ARID2 & ¬NF1@0.75@0.6@Sensitive
+SKCM@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@43@5@¬KDM6A & ¬MAPK_only-UP & ¬TNFa-UP & ¬Wnt-DOWN@1.0@0.884@Sensitive
+SKCM@Tubastatin A@HDAC6@chromain  histone acetylation@12@38@EZH2 | TGFB-UP@0.75@0.5@Sensitive
+SKCM@TW 37@BCL2, BCL2L1@apoptosis regulation@8@41@CEP290 | MAP3K4 | PTEN | a(MYC)@0.667@0.75@Sensitive
+SKCM@UNC0638@G9a(EHMT2), GLP(EHMT1)@chromatin  histone methylation@6@46@TP53 & ¬d11q24.2 & ¬a(MYC)@0.455@0.833@Sensitive
+SKCM@Vismodegib@SMO@other@8@37@BRAF & ¬TP53 & TGFB-UP@1.0@0.25@Sensitive
+SKCM@VX-11e@ERK@ERK MAPK signaling@20@30@EP300 | EZH2 | Wnt-DOWN@0.8@0.4@Sensitive
+SKCM@VX-702@p38@JNK and p38 signaling@5@39@d16q23.1 | a(MYC)@0.5@0.8@Sensitive
+SKCM@XMD14-99@EPHB3, CAMK1@RTK signaling@5@45@NCOR1@1.0@0.2@Sensitive
+SKCM@Y-39983@ROCK@cytoskeleton@6@44@TP53 & ¬d16q23.1 & ¬a(FOXP1,MITF) & ¬d(CASP1)@0.5@0.667@Sensitive
+STAD@17-AAG@HSP90@other@5@17@ATR | MYH9 | d19p13.2@1.0@0.6@Sensitive
+STAD@ABT-263@BCL2, BCL2L1, BCL2L2@apoptosis regulation@6@16@¬NF1 & ¬d6p25.2 & ¬d20p12.1 & ¬d(FAT1,IRF2)@0.714@0.833@Sensitive
+STAD@Afatinib@ERBB2, EGFR@EGFR signaling@5@16@¬APC & ¬ARID1A & ¬d6q25.1 & d3p14.2@0.833@1.0@Sensitive
+STAD@AKT inhibitor VIII@AKT1, AKT2, AKT3@PI3K signaling@5@15@¬d(CDKN2A) & d20p12.1@0.667@0.8@Sensitive
+STAD@CX-5461@RNA Pol I@other@10@10@d16q23.1 & ¬PI3K_only-DOWN@0.9@0.9@Sensitive
+STAD@EHT 1864@Rac GTPases@cytoskeleton@5@19@¬ARID2 & ¬d6p25.3 & ¬a(MET) & ¬d4q22.1@0.667@0.8@Sensitive
+STAD@GSK-1904529A@IGF1R@IGFR signaling@6@13@ARID1A & ¬d16q23.1@1.0@0.5@Sensitive
+STAD@GSK690693@AKT@PI3K signaling@6@13@MET | TLR-UP | IL-1-DOWN@0.833@0.833@Sensitive
+STAD@MK-2206@AKT1, AKT2@PI3K signaling@5@16@MYH9 | TP53BP1 | d(MAP2K4) | d(PTEN)@0.833@1.0@Sensitive
+STAD@PF-4708671@RPS6KB1 (p70S6KA)@TOR signaling@5@19@d19p13.2 & ¬a(MET) | a(MYC) & ¬a(FOXA2)@0.833@1.0@Sensitive
+STAD@rTRAIL@TR10A (DR4),  TR10B (DR5)@apoptosis regulation@8@11@¬CTNNB1 & ¬d16q23.1 & ¬d14q11.2@1.0@0.875@Sensitive
+STAD@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@5@15@d22q13.31@0.75@0.6@Sensitive
+STAD@Y-39983@ROCK@cytoskeleton@7@13@¬TP53 | a(STK4) | d(PTEN)@0.857@0.857@Sensitive
+THCA@(5Z)-7-Oxozeaenol@MAP3K7 (TAK1)@other@7@8@BRAF & ¬NF2@0.833@0.714@Sensitive
+THCA@AZD6244@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@6@8@BRAF & ¬NF2 & ¬IL-1-UP@0.8@0.667@Sensitive
+THCA@Bryostatin 1@PRKC@other@5@10@¬BRAF & ¬NRAS & ¬H2O2-UP@0.8@0.8@Sensitive
+THCA@CHIR-99021@GSK3B@WNT signaling@6@9@¬d(FANCG,PAX5) & PI3K_only-DOWN | IL-1-UP@1.0@0.5@Sensitive
+THCA@CI-1040@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@5@7@KRAS | NRAS | PIK3CA | SMARCA4@0.8@0.8@Sensitive
+THCA@CX-5461@RNA Pol I@other@6@9@CREBBP | NRAS@0.75@0.5@Sensitive
+THCA@Dabrafenib@BRAF@ERK MAPK signaling@8@7@KRAS | BRAF@1.0@0.875@Sensitive
+THCA@FTI-277@Farnesyl transferase (FNTA)@other@5@10@¬d(FANCG,PAX5) & ¬BRAF & ¬NRAS & ¬H2O2-UP@1.0@0.6@Sensitive
+THCA@IOX2@EGLN1@other@6@9@NF2 | SMARCA4 | TGFB-UP | PI3K_only-DOWN@1.0@0.333@Sensitive
+THCA@PD-0325901@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@5@7@NRAS & ¬TGFB-DOWN | BRAF & ¬IL-1-UP@0.833@1.0@Sensitive
+THCA@PLX4720@BRAF@ERK MAPK signaling@5@8@BRAF & ¬NF2@0.833@1.0@Sensitive
+THCA@Thapsigargin@sarco-endoplasmic reticulum Ca2+-ATPases@other@6@9@¬BRAF & NRAS | ¬KRAS & NF2@1.0@0.5@Sensitive
+THCA@Trametinib@MAP2K1 (MEK1), MAP2K2 (MEK2)@ERK MAPK signaling@10@5@BRAF & ¬NRAS@1.0@0.7@Sensitive
